@@ -12,14 +12,14 @@ Template Name: Sports Gymnastics day3
     <p style="text-align:center;">With the Winter Olympics in full swing, the Daily Bruin takes a look at the experiences of four former Summer Olympians and current members of the UCLA gymnastics team.</p>
   <div class="pagination pagination-centered">
   <ul>
-    <li><a href="http://dailybruin.com/features/gymnastics-the-competitive-demands-samantha-peszek/">Samantha Peszek</a></li>
-    <li><a href="http://dailybruin.com/features/gymnastics-the-competitive-demands-jennifer-pinches/">Jennifer Pinches</a></li>
+    <li><a href="//dailybruin.com/features/gymnastics-the-competitive-demands-samantha-peszek/">Samantha Peszek</a></li>
+    <li><a href="//dailybruin.com/features/gymnastics-the-competitive-demands-jennifer-pinches/">Jennifer Pinches</a></li>
     <li class="active"><a>Jordyn Wieber</a></li>
-    <li><a href="http://dailybruin.com/features/gymnastics-the-competitive-demands-danusia-francis/">Danusia Francis</a></li>
+    <li><a href="//dailybruin.com/features/gymnastics-the-competitive-demands-danusia-francis/">Danusia Francis</a></li>
   </ul>
 </div>
 
-	<img src="http://dailybruin.com/images/2014/02/web.wieber.picnewA.jpg" class="aligncenter">
+	<img src="//dailybruin.com/images/2014/02/web.wieber.picnewA.jpg" class="aligncenter">
 	<span class="photocred">Erin Ng/Daily Bruin senior staff</span><br><p style="text-align:center;">Two years after competing in the Olympics, Jordyn Wieber is serving as one of UCLA gymnastics' team managers. UCLA gymnastics coach Valorie Kondos Field praised Wieber's humility and team-first attitude, calling her "one of the most incredible people" she has ever met.<p>
 
 <h2>Jordyn Wieber</h2>
@@ -29,7 +29,7 @@ Template Name: Sports Gymnastics day3
 
 <p>Wieber, a first-year psychology student, did not perform the routine. She was not surrounded by the other members of the “Fierce Five.” She wasn’t even wearing a leotard.</p>
 
-<div class="thumbnail with-caption-left"><img src="http://dailybruin.com/images/2014/02/web.wieber.picB_1.jpg" class="img-vert">By accepting a sponsorship deal, <br>Wieber ended her eligibility to compete <br>in college gymnastics. However, Wieber <br>has found a way to contribute as a team <br>manager for UCLA gymnastics.<br><span class="photocred-inline">Erin Ng/Daily Bruin senior staff</span></div>
+<div class="thumbnail with-caption-left"><img src="//dailybruin.com/images/2014/02/web.wieber.picB_1.jpg" class="img-vert">By accepting a sponsorship deal, <br>Wieber ended her eligibility to compete <br>in college gymnastics. However, Wieber <br>has found a way to contribute as a team <br>manager for UCLA gymnastics.<br><span class="photocred-inline">Erin Ng/Daily Bruin senior staff</span></div>
 
 <p>After soaring to the highest level of her sport, Wieber now performs a new role in the world of gymnastics: team manager.</p>
 
@@ -63,7 +63,7 @@ Template Name: Sports Gymnastics day3
 
 <p>Though she is not contributing to the team as a gymnast, Wieber is still an essential part of the team's daily routine, executing tasks important to performing gymnastics.</p>
 
-<div class="thumbnail with-caption-left"><img src="http://dailybruin.com/images/2014/02/web.wieber.picD_.jpg" class="img-vert">After failing to qualify for the individual all-around, <br> Wieber helped Team USA to a gold medal in<br> London at the 2012 Summer Olympics.<br><span class="photocred-inline">(Courtesy of Jordyn Wieber)</span></div>
+<div class="thumbnail with-caption-left"><img src="//dailybruin.com/images/2014/02/web.wieber.picD_.jpg" class="img-vert">After failing to qualify for the individual all-around, <br> Wieber helped Team USA to a gold medal in<br> London at the 2012 Summer Olympics.<br><span class="photocred-inline">(Courtesy of Jordyn Wieber)</span></div>
 
 <p>When members of the Bruins' gymnastics team climb onto equipment to perform, Wieber moves mats and chalks bars and tells them their cues before routines. Instead of knocking out a bars routine herself, Wieber assists the other gymnasts through the paces.</p>
 
@@ -101,7 +101,7 @@ Template Name: Sports Gymnastics day3
 
 <p>Kondos Field said Wieber is the only gold medalist who has served as a team manager. She added that other Olympians who have taken up the role of team manager have not been as involved with the team as Wieber has.</p>
 
-<div class="thumbnail with-caption-left"><img src="http://dailybruin.com/images/2014/02/web.wieber.picC_.jpg" class="img-vert">The experience Wieber's gained at the Olympics<br> has allowed her to serve as an invaluable source <br> of expertise and advice for team members.<br><span class="photocred-inline">(Courtesy of Jordyn Wieber)</span></div>
+<div class="thumbnail with-caption-left"><img src="//dailybruin.com/images/2014/02/web.wieber.picC_.jpg" class="img-vert">The experience Wieber's gained at the Olympics<br> has allowed her to serve as an invaluable source <br> of expertise and advice for team members.<br><span class="photocred-inline">(Courtesy of Jordyn Wieber)</span></div>
 
 <p>"When she looks at, especially the freshmen, and she looks them in the eye and says, 'You can do this,' they believe it," Kondos Field said. "It's coming from someone that knows, someone that cares and she is as integrated with her freshman class and with her team as anyone else. So she doesn't think of herself as a team manager and we don't think of her as a team manager – she's a part of the team."</p>
 
@@ -133,15 +133,15 @@ Template Name: Sports Gymnastics day3
 
 <ul class="pager">
   <li class="previous">
-    <a href="http://dailybruin.com/features/gymnastics-the-competitive-demands-jennifer-pinches/">&larr; Previous</a>
+    <a href="//dailybruin.com/features/gymnastics-the-competitive-demands-jennifer-pinches/">&larr; Previous</a>
   </li>
   <li class="next">
-    <a href="http://dailybruin.com/features/gymnastics-the-competitive-demands-danusia-francis/">Next &rarr;</a>
+    <a href="//dailybruin.com/features/gymnastics-the-competitive-demands-danusia-francis/">Next &rarr;</a>
   </li>
 </ul>
 </p>
 
-<div id="page-credit">Page created by <a href="http://aeiny.com">Aein Hope</a> and <a href="mailto:cyang@media.ucla.edu">Christina Yang</a></div>
+<div id="page-credit">Page created by <a href="//aeiny.com">Aein Hope</a> and <a href="mailto:cyang@media.ucla.edu">Christina Yang</a></div>
 
 
 

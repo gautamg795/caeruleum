@@ -95,7 +95,7 @@ Template Name: Coaches and Companions
 </style>
 <div id="coaches-page">
 <div id="cc-banner">
-<img class="cc-round" src="http://dailybruin.com/images/2014/02/coaches.jpg" alt=""></img>
+<img class="cc-round" src="//dailybruin.com/images/2014/02/coaches.jpg" alt=""></img>
 <p class="cc-note">UCLA women's basketball coach Cori Close (left) and UCLA women's soccer coach Amanda Cromwell (right) have a friendship dating back nearly two decades after the two met volunteering as coaches at a camp for female high school athletes.</p>
 </div>
 
@@ -154,7 +154,7 @@ Template Name: Coaches and Companions
     <p class="quoter"> - Debbie Haliday, a mutual friend of Cori Close and Amanda Cromwell</p>
 </div>
 <div class="cc-img">
-    <img class="cc-round" src="http://dailybruin.com/images/2014/02/web.sp_.2.11.coaches.picE_.jpg" alt=""></img>
+    <img class="cc-round" src="//dailybruin.com/images/2014/02/web.sp_.2.11.coaches.picE_.jpg" alt=""></img>
 </div>
 <p>
 <p>Whenever Close was on a recruiting trip near a city Cromwell was scheduled to play in, there would always be one additional item on her travel itinerary – visiting a stadium on game day.
@@ -175,7 +175,7 @@ Template Name: Coaches and Companions
 <p>
 <p>After the game, Cromwell picked up her Bible and found inside it a handwritten note Close had left there after the loss.
 <div class="cc-img">
-    <img class="cc-round" src="http://dailybruin.com/images/2014/02/Note-with-writing.jpeg" alt=""></img>
+    <img class="cc-round" src="//dailybruin.com/images/2014/02/Note-with-writing.jpeg" alt=""></img>
 </div>
 <p>
 <p>“She knew how much I was … eaten up because of that situation. … The level of competitiveness is through the roof; it’s different for (coaches), and we can empathize for each other,” Cromwell said. 
@@ -232,7 +232,7 @@ Template Name: Coaches and Companions
 <p><span class="cc-byline">Rebeca Rankin/Daily Bruin Radio</span>
 <p>
 <audio controls class="cc-radio-audio">
-<source src="http://dailybruin.com/images/2014/02/2.11.radio_.cromwellclose.mp3" type="audio/mp3">
+<source src="//dailybruin.com/images/2014/02/2.11.radio_.cromwellclose.mp3" type="audio/mp3">
 Your browser does not support the audio element.
 </audio> 
 <p>But even then, Close always gave the upper hand to the Virginia Cavaliers, Cromwell’s alma mater.
@@ -251,7 +251,7 @@ Your browser does not support the audio element.
 <p>
 <p>Cromwell got the job. The final piece of the puzzle for a Fellowship of Christian Athletes reunion was finally in place.
 <div class="cc-img">
-    <img class="cc-round" src="http://dailybruin.com/images/2014/02/web.sp_.2.11.coaches.picA_.jpg" alt=""></img>
+    <img class="cc-round" src="//dailybruin.com/images/2014/02/web.sp_.2.11.coaches.picA_.jpg" alt=""></img>
 </div>
 
 <p>
@@ -287,9 +287,9 @@ Your browser does not support the audio element.
 <p>
 <p> “(Close is) one of my biggest fans,” Cromwell said. “If I bring her around anybody she just goes on and on and just gushes about me.”
 <div class="cc-img">
-    <img class="cc-round" src="http://dailybruin.com/images/2014/02/web.sp_.2.11.coaches.picD_.jpg" alt=""></img>
+    <img class="cc-round" src="//dailybruin.com/images/2014/02/web.sp_.2.11.coaches.picD_.jpg" alt=""></img>
 </div>
-<p><a href="http://dailybruin.com/2014/02/11/coaches-continue-friendship-at-ucla/">&raquo; For more photos, explore the gallery on Spectrum.</a>
+<p><a href="//dailybruin.com/2014/02/11/coaches-continue-friendship-at-ucla/">&raquo; For more photos, explore the gallery on Spectrum.</a>
 <p>
 <p>Today the coaches continue to pen the new chapter in their friendship that started close to 20 years ago – an endearing and enduring friendship that began because of the love they shared for molding the next generation of athletes.
 <p>

@@ -1,3 +1,3 @@
 <?php
-header('Location: http://dailybruin.com/classifieds/');
+header('Location: //dailybruin.com/classifieds/');
 ?>

@@ -68,7 +68,7 @@ Template Name: Spring Spring 2014
 	width: 100%;
 	max-width: 750px;
 	height: 350px;
-	background: url(http://dailybruin.com/images/galleries/2014-spring-sing/JU4.jpg) no-repeat center center;
+	background: url(//dailybruin.com/images/galleries/2014-spring-sing/JU4.jpg) no-repeat center center;
     background-sizing: cover;
 	margin: 0px auto 50px auto;
 	background-size: cover;
@@ -243,7 +243,7 @@ Template Name: Spring Spring 2014
 
 			<li>
 				<div class="contestant">
-					<img src="http://alumni.ucla.edu/events/spring-sing/2014/_images/nessa-rica.jpg"></img>
+					<img src="//alumni.ucla.edu/events/spring-sing/2014/_images/nessa-rica.jpg"></img>
 					<h3> Nessa Rica </h3>
 					<h5>Genre: Acoustic, Pop, R&B</h5>
 					<ul class="facts">
@@ -253,13 +253,13 @@ Template Name: Spring Spring 2014
 					</ul>
 					
 					<p class="artist_quote">"I'm hoping to get out the experience of being <br/> a part of something bigger than myself."</p>
-					<a class="link_to_article" href="http://dailybruin.com/2014/05/12/spring-sing-profile-nessa-rica/">Read More...</a>
+					<a class="link_to_article" href="//dailybruin.com/2014/05/12/spring-sing-profile-nessa-rica/">Read More...</a>
 				</div>
 			</li>
 
 			<li>
 				<div class="contestant">
-					<img src="http://alumni.ucla.edu/events/spring-sing/2014/_images/mia-joy-2014.jpg"></img>
+					<img src="//alumni.ucla.edu/events/spring-sing/2014/_images/mia-joy-2014.jpg"></img>
 					<h3> Mia Joy </h3>
 					<h5>Genre: Singer-songwriter</h5>
 					<ul class="facts">
@@ -270,13 +270,13 @@ Template Name: Spring Spring 2014
 					
 					<p class="artist_quote">"This song is about recognizing I can't change myself for love, and it <br/>felt like a release when I was writing it."</p>
 
-					<a class="link_to_article" href="http://dailybruin.com/2014/05/12/spring-sing-profile-mia-joy/">Read More...</a>
+					<a class="link_to_article" href="//dailybruin.com/2014/05/12/spring-sing-profile-mia-joy/">Read More...</a>
 				</div>
 			</li>
 
 			<li>
 				<div class="contestant">
-					<img src="http://alumni.ucla.edu/events/spring-sing/2014/_images/sienna-moffitt.jpg"></img>
+					<img src="//alumni.ucla.edu/events/spring-sing/2014/_images/sienna-moffitt.jpg"></img>
 					<h3> Sienna Moffitt </h3>
 					<h5>Genre: Nu-folk, British folk</h5>
 					<ul class="facts">
@@ -287,7 +287,7 @@ Template Name: Spring Spring 2014
 					
 					<p class="artist_quote"> "My music is intentional ... every line I say means something from <br/>a part of my life."</p>
 
-					<a class="link_to_article" href="http://dailybruin.com/2014/05/12/spring-sing-profile-sienna-moffitt/">Read More...</a>
+					<a class="link_to_article" href="//dailybruin.com/2014/05/12/spring-sing-profile-sienna-moffitt/">Read More...</a>
 				</div>
 			</li>
 		</ul>
@@ -298,7 +298,7 @@ Template Name: Spring Spring 2014
 
 				<li>
 					<div class="contestant">
-						<img src="http://dailybruin.com/images/2014/05/3b641b1c-ee99-481c-a071-f32f0be8a86a.jpg"></img>
+						<img src="//dailybruin.com/images/2014/05/3b641b1c-ee99-481c-a071-f32f0be8a86a.jpg"></img>
 						<h3> Courtney Randall & Beat Rhino </h3>
 						<h5>Genre: Acoustic, Beatbox, Pop</h5>
 						<ul class="facts">
@@ -307,13 +307,13 @@ Template Name: Spring Spring 2014
 						</ul>
 						
 						<p class="artist_quote">"We're both the lead in our performance, and we're excited to put the beatboxing in focus right next to my singing" – Courtney Randall</p>
-						<a class="link_to_article" href="http://dailybruin.com/2014/05/13/spring-sing-profile-courtney-randall-and-beat-rhino/">Read More...</a>
+						<a class="link_to_article" href="//dailybruin.com/2014/05/13/spring-sing-profile-courtney-randall-and-beat-rhino/">Read More...</a>
 					</div>
 				</li>
 
 				<li>
 					<div class="contestant">
-						<img src="http://dailybruin.com/images/2014/05/90726604-279f-4d80-b83e-c00518f83ba4.jpg"></img>
+						<img src="//dailybruin.com/images/2014/05/90726604-279f-4d80-b83e-c00518f83ba4.jpg"></img>
 						<h3> Brandon + Yasmeen </h3>
 						<h5>Genre: Folk and R&B</h5>
 						<ul class="facts">
@@ -323,13 +323,13 @@ Template Name: Spring Spring 2014
 						
 						<p class="artist_quote">"Spring Sing is kind of like our baby" – Brandon Bakhshi</p>
 
-						<a class="link_to_article" href="http://dailybruin.com/2014/05/13/spring-sing-profile-brandon-bakhshi-and-yasmeen-al-mazeedi/">Read More...</a>
+						<a class="link_to_article" href="//dailybruin.com/2014/05/13/spring-sing-profile-brandon-bakhshi-and-yasmeen-al-mazeedi/">Read More...</a>
 					</div>
 				</li>
 
 				<li>
 					<div class="contestant">
-						<img src="http://dailybruin.com/images/2014/05/a1427a94-8ef0-4999-a19a-4249d3a89382.jpg"></img>
+						<img src="//dailybruin.com/images/2014/05/a1427a94-8ef0-4999-a19a-4249d3a89382.jpg"></img>
 						<h3> Eric Jung & Alex Liu </h3>
 						<h5>Genre: R&B and Jazz</h5>
 						<ul class="facts">
@@ -340,7 +340,7 @@ Template Name: Spring Spring 2014
 						
 						<p class="artist_quote">"It's just one of those songs that makes me feel good, and I want the audience to feel the same way" – Alex Liu</p>
 
-						<a class="link_to_article" href="http://dailybruin.com/2014/05/13/spring-sing-profile-alex-liu-and-eric-jung/">Read More...</a>
+						<a class="link_to_article" href="//dailybruin.com/2014/05/13/spring-sing-profile-alex-liu-and-eric-jung/">Read More...</a>
 					</div>
 				</li>
 			</ul>
@@ -351,7 +351,7 @@ Template Name: Spring Spring 2014
 
 				<li>
 					<div class="contestant">
-						<img src="http://dailybruin.com/images/2014/05/streethearts.jpg"></img>
+						<img src="//dailybruin.com/images/2014/05/streethearts.jpg"></img>
 						<h3>The Street Hearts</h3>
 						<h5>Genre: Folk and Soul</h5>
 						<ul class="facts">
@@ -361,13 +361,13 @@ Template Name: Spring Spring 2014
 						</ul>
 						
 						<p class="artist_quote">""People should look forward to our harmonies ... I always do"<br/> – keyboardist Nick Valentini</p>
-						<a class="link_to_article" href="http://dailybruin.com/2014/05/14/spring-sing-profile-the-street-hearts/">Read More...</a>
+						<a class="link_to_article" href="//dailybruin.com/2014/05/14/spring-sing-profile-the-street-hearts/">Read More...</a>
 					</div>
 				</li>
 
 				<li>
 					<div class="contestant">
-						<img src="http://dailybruin.com/images/2014/05/theprimaries.jpg"></img>
+						<img src="//dailybruin.com/images/2014/05/theprimaries.jpg"></img>
 						<h3>The Primaries</h3>
 						<h5>Genre: R&B and Soul</h5>
 						<ul class="facts">
@@ -377,13 +377,13 @@ Template Name: Spring Spring 2014
 						
 						<p class="artist_quote">"I'm excited to get on stage and play in front of so many people and, if we start doing an 8-clap, the audience will start doing an 8-clap too"<br/> – guitarist Chili Corder</p>
 
-						<a class="link_to_article" href="http://dailybruin.com/2014/05/14/spring-sing-the-primaries/">Read More...</a>
+						<a class="link_to_article" href="//dailybruin.com/2014/05/14/spring-sing-the-primaries/">Read More...</a>
 					</div>
 				</li>
 
 				<li>
 					<div class="contestant">
-						<img src="http://dailybruin.com/images/2014/05/wethefolk.jpg"></img>
+						<img src="//dailybruin.com/images/2014/05/wethefolk.jpg"></img>
 						<h3>We the Folk</h3>
 						<h5>Genre: Eclectic folk</h5>
 						<ul class="facts">
@@ -395,13 +395,13 @@ Template Name: Spring Spring 2014
 						
 						<p class="artist_quote">"(It'll be) our moment and the audience's moment to connect. I hope they'll accept the invitation"<br/> – frontman David Villafaña</p>
 
-						<a class="link_to_article" href="http://dailybruin.com/2014/05/14/spring-sing-profile-we-the-folk/">Read More...</a>
+						<a class="link_to_article" href="//dailybruin.com/2014/05/14/spring-sing-profile-we-the-folk/">Read More...</a>
 					</div>
 				</li>
 
 				<li>
 					<div class="contestant">
-						<img src="http://dailybruin.com/images/2014/05/theam.jpg"></img>
+						<img src="//dailybruin.com/images/2014/05/theam.jpg"></img>
 						<h3>The AM</h3>
 						<h5>Genre: Alternative rock</h5>
 						<ul class="facts">
@@ -413,7 +413,7 @@ Template Name: Spring Spring 2014
 						
 						<p class="artist_quote">"Most of our songs are pretty upbeat, but ... they're all pretty catchy"<br/> – drummer Josh Caine</p>
 
-						<a class="link_to_article" href="http://dailybruin.com/2014/05/14/spring-sing-profile-the-am/">Read More...</a>
+						<a class="link_to_article" href="//dailybruin.com/2014/05/14/spring-sing-profile-the-am/">Read More...</a>
 					</div>
 				</li>
 			</ul>
@@ -423,7 +423,7 @@ Template Name: Spring Spring 2014
 
 				<li>
 					<div class="contestant">
-						<img src="http://dailybruin.com/images/2014/05/fcb923e2-1165-4ea7-8c36-ae0bfac2d108.jpg"></img>
+						<img src="//dailybruin.com/images/2014/05/fcb923e2-1165-4ea7-8c36-ae0bfac2d108.jpg"></img>
 						<h3> Resonance A Cappella </h3>
 						<h5>Co-ed a cappella group</h5>
 						<ul class="facts">
@@ -433,13 +433,13 @@ Template Name: Spring Spring 2014
 						</ul>
 						
 						<p class="artist_quote">"Queen B might be making an appearance" – Darryn Wong, president of the group</p>
-						<a class="link_to_article" href="http://dailybruin.com/?p=186738">Read More...</a>
+						<a class="link_to_article" href="//dailybruin.com/?p=186738">Read More...</a>
 					</div>
 				</li>
 
 				<li>
 					<div class="contestant">
-						<img src="http://dailybruin.com/images/2014/05/793bab00-1930-44b5-8e39-14bab78da1f8-640x429.jpg"></img>
+						<img src="//dailybruin.com/images/2014/05/793bab00-1930-44b5-8e39-14bab78da1f8-640x429.jpg"></img>
 						<h3> Bruin Harmony </h3>
 						<h5>All-male a cappella group</h5>
 						<ul class="facts">
@@ -450,13 +450,13 @@ Template Name: Spring Spring 2014
 						
 						<p class="artist_quote"> "Our goal is to meet the energy of the crowd ... with our sense of height and energy" – Adam Cropper, choreographer and group's next president</p>
 
-						<a class="link_to_article" href="http://dailybruin.com/?p=186750">Read More...</a>
+						<a class="link_to_article" href="//dailybruin.com/?p=186750">Read More...</a>
 					</div>
 				</li>
 
 				<li>
 					<div class="contestant">
-						<img src="http://dailybruin.com/images/2014/05/2220426f-4cc8-4505-8101-b079fa6883ec.jpg"></img>
+						<img src="//dailybruin.com/images/2014/05/2220426f-4cc8-4505-8101-b079fa6883ec.jpg"></img>
 						<h3> Random Voices A Cappella </h3>
 						<h5>All-female a cappella group</h5>
 						<ul class="facts">
@@ -467,7 +467,7 @@ Template Name: Spring Spring 2014
 						
 						<p class="artist_quote">"I just want everyone to see how much work we've put into it and how passionate we really are" – Morgan Rose, member of Random Voices</p>
 
-						<a class="link_to_article" href="http://dailybruin.com/?p=186734">Read More...</a>
+						<a class="link_to_article" href="//dailybruin.com/?p=186734">Read More...</a>
 					</div>
 				</li>
 			</ul>
@@ -476,7 +476,7 @@ Template Name: Spring Spring 2014
 
 				<li>
 					<div class="contestant">
-						<img src="http://dailybruin.com/images/2014/05/9ac84dcb-6ccf-4e0c-9ac3-8d516fe5b4c9.jpg"></img>
+						<img src="//dailybruin.com/images/2014/05/9ac84dcb-6ccf-4e0c-9ac3-8d516fe5b4c9.jpg"></img>
 						<h3> Company </h3>
 						<h5>Sketch comedy troupe</h5>
 						<ul class="facts">
@@ -485,13 +485,13 @@ Template Name: Spring Spring 2014
 						</ul>
 						
 						<p class="artist_quote">"This is really corny, but we all just make each other laugh a lot" – Nathan Galovan, member of Company</p>
-						<a class="link_to_article" href="http://dailybruin.com/2014/05/16/spring-sing-profile-company/">Read More...</a>
+						<a class="link_to_article" href="//dailybruin.com/2014/05/16/spring-sing-profile-company/">Read More...</a>
 					</div>
 				</li>
 
 				<li>
 					<div class="contestant">
-						<img src="http://dailybruin.com/images/2014/05/2c2839bd-bb73-43eb-8ec2-78b3928912a1.jpg"></img>
+						<img src="//dailybruin.com/images/2014/05/2c2839bd-bb73-43eb-8ec2-78b3928912a1.jpg"></img>
 						<h3> ACA Hip Hop </h3>
 						<h5>Hip hop dance team</h5>
 						<ul class="facts">
@@ -501,13 +501,13 @@ Template Name: Spring Spring 2014
 						
 						<p class="artist_quote"> "We learned and casted it in the same day ... We were making a set on steroids"<br/> – Christina Kim, Creative Assistant of ACA Hip Hop</p>
 
-						<a class="link_to_article" href="http://dailybruin.com/2014/05/16/spring-sing-profile-aca-hip-hop/">Read More...</a>
+						<a class="link_to_article" href="//dailybruin.com/2014/05/16/spring-sing-profile-aca-hip-hop/">Read More...</a>
 					</div>
 				</li>
 
 				<li>
 					<div class="contestant">
-						<img src="http://dailybruin.com/images/2014/05/0043e02a-9692-46ac-8437-e520e3cd1baf.jpg"></img>
+						<img src="//dailybruin.com/images/2014/05/0043e02a-9692-46ac-8437-e520e3cd1baf.jpg"></img>
 						<h3> Delta Gamma & Lambda Chi Alpha </h3>
 						<h5>Musical theater performance</h5>
 						<ul class="facts">
@@ -518,13 +518,13 @@ Template Name: Spring Spring 2014
 						
 						<p class="artist_quote">"I wanted to create a production so that everybody in the audience ... would feel hyped and excited about all of Spring Sing" – Nikki Friedman, director of productions for Delta Gamma & Lambda Chi Alpha</p>
 
-						<a class="link_to_article" href="http://dailybruin.com/2014/05/16/spring-sing-profile-delta-gamma-and-lambda-chi/">Read More...</a>
+						<a class="link_to_article" href="//dailybruin.com/2014/05/16/spring-sing-profile-delta-gamma-and-lambda-chi/">Read More...</a>
 					</div>
 				</li>
 
 				<li>
 					<div class="contestant">
-						<img src="http://dailybruin.com/images/2014/05/947341cf-c8e9-49a7-812d-6a289095e191.jpg"></img>
+						<img src="//dailybruin.com/images/2014/05/947341cf-c8e9-49a7-812d-6a289095e191.jpg"></img>
 						<h3> Zeta Beta Theta </h3>
 						<h5>Musical theater performance</h5>
 						<ul class="facts">
@@ -534,13 +534,13 @@ Template Name: Spring Spring 2014
 						
 						<p class="artist_quote"> "We really wanted to load it up with Bruin greatness and fun cameos. Just really bring it home" – Ben Kurzrock, creator of the Zeta Beta Theta production</p>
 
-						<a class="link_to_article" href="http://dailybruin.com/2014/05/16/spring-sing-profile-zeta-beta-theta/">Read More...</a>
+						<a class="link_to_article" href="//dailybruin.com/2014/05/16/spring-sing-profile-zeta-beta-theta/">Read More...</a>
 					</div>
 				</li>
 
 				<li>
 					<div class="contestant">
-						<img src="http://dailybruin.com/images/2014/05/d7709537-d463-4319-8abe-36535f6c9c8f.jpg"></img>
+						<img src="//dailybruin.com/images/2014/05/d7709537-d463-4319-8abe-36535f6c9c8f.jpg"></img>
 						<h3> Hooligan Theater Company </h3>
 						<h5>Musical theater performance</h5>
 						<ul class="facts">
@@ -551,7 +551,7 @@ Template Name: Spring Spring 2014
 						
 						<p class="artist_quote">"Something we try to do is give everyone a purpose; this is why we're all on stage"<br/> – Sara Ashley Beil, co-writer of HOOLIGAN's production </p>
 
-						<a class="link_to_article" href="http://dailybruin.com/2014/05/16/spring-sing-profile-hooligan-theatre-company/">Read More...</a>
+						<a class="link_to_article" href="//dailybruin.com/2014/05/16/spring-sing-profile-hooligan-theatre-company/">Read More...</a>
 					</div>
 				</li>
 			</ul>

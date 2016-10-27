@@ -9,12 +9,12 @@ get_header(); ?>
       <div id="main" class="<?php echo MAIN_CLASSES; ?>" role="main">
         <div class="large-8 columns">
         <raw id="peeper">
-            <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css">
+            <link rel="stylesheet" href="//cdn.leafletjs.com/leaflet-0.7.3/leaflet.css">
             <link rel="stylesheet" href="/css/peeper-map/marker-cluster.css">
             <link rel="stylesheet" href="/css/peeper-map/marker-cluster-default.css">
             <link rel="stylesheet" href="/css/peeper-map/peeper.css">
 
-            <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+            <script src="//cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
             <script src="/js/vendor/marker-cluster.js"></script>
             <script src="/js/peeper-map/peeper.js"></script>
 

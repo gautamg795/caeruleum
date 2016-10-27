@@ -17,7 +17,7 @@ Template Name: A&E Halftime Signatures
     Description: Sport Medicine Feature for Daily Bruin
     Version: 1.0
     Author: Anthony Rivera and Jennifer Tan
-    Author URI: http://aeiny.com
+    Author URI: //aeiny.com
 
   ------------------------------------------------------- */
 

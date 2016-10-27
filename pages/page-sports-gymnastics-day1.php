@@ -14,13 +14,13 @@ Template Name: Sports Gymnastics day1
   <div class="pagination pagination-centered">
   <ul>
     <li class="active"><a>Samantha Peszek</a></li>
-    <li><a href="http://dailybruin.com/features/gymnastics-the-competitive-demands-jennifer-pinches/">Jennifer Pinches</a></li>
-    <li><a href="http://dailybruin.com/features/jordyn-wieber-brings-strength-to-ucla-gymnastics-team/">Jordyn Wieber</a></li>
-    <li><a href="http://dailybruin.com/features/gymnastics-the-competitive-demands-danusia-francis/">Danusia Francis</a></li>
+    <li><a href="//dailybruin.com/features/gymnastics-the-competitive-demands-jennifer-pinches/">Jennifer Pinches</a></li>
+    <li><a href="//dailybruin.com/features/jordyn-wieber-brings-strength-to-ucla-gymnastics-team/">Jordyn Wieber</a></li>
+    <li><a href="//dailybruin.com/features/gymnastics-the-competitive-demands-danusia-francis/">Danusia Francis</a></li>
   </ul>
 </div>
 
-	<img src="http://dailybruin.com/images/2014/02/web.peszek.picA_.jpg" class="aligncenter">
+	<img src="//dailybruin.com/images/2014/02/web.peszek.picA_.jpg" class="aligncenter">
 	<span class="photocred">Katie Meyers / Daily Bruin senior staff</span><br><p style="text-align:center;">Samantha Peszek has competed at the highest levels of her sport and is currently a top ranked collegiate gymnast. The redshirt junior has battled numerous injuries throughout her career, from suffering a season-ending Achilles tear a year ago to tearing every ligament in her foot in warm-ups at the 2008 Beijing Olympics. Through it all, Peszek has relied on her mental focus to overcome the pressures of her sport.<p>
 
 <h2>Samantha Peszek</h2>
@@ -36,7 +36,7 @@ Template Name: Sports Gymnastics day1
 
 <p>For a short moment, she raised her arms, signaling the end of her routine on uneven bars and somberly forced her eyes toward the Olympic judges. </p>
 
-<div class="thumbnail with-caption-left"><img src="http://dailybruin.com/images/2014/02/web.peszek.picB_-1024x649.jpg" class="img-hori">
+<div class="thumbnail with-caption-left"><img src="//dailybruin.com/images/2014/02/web.peszek.picB_-1024x649.jpg" class="img-hori">
 Peszek delivered a perfect ten on the uneven bars in<br> UCLA's February 8th meet in only her fifth routine of the year.<br>
 <span class="photocred-inline">Katie Meyers / Daily Bruin</span></div>
 
@@ -53,7 +53,7 @@ Peszek delivered a perfect ten on the uneven bars in<br> UCLA's February 8th mee
 
 <p>While the women’s gymnastics team, headlined by household names Nastia Liukin and Shawn Johnson, went on to win a silver medal, Peszek later discovered she tore every ligament in her foot and was unable to compete after the preliminary round.</p>
 
-<div class="thumbnail with-caption-left"><img src="http://dailybruin.com/images/2014/02/web.peszek.picC_-682x1024.jpg" class="img-vert">
+<div class="thumbnail with-caption-left"><img src="//dailybruin.com/images/2014/02/web.peszek.picC_-682x1024.jpg" class="img-vert">
 Peszek represented the US in the <br>2008 Beijing Olympics.<br>
 <span class="photocred-inline">Katie Meyers / Daily Bruin</span></div>
 
@@ -85,7 +85,7 @@ Peszek represented the US in the <br>2008 Beijing Olympics.<br>
 
 <p>And mental recovery becomes that much more important in a perfection-oriented sport like gymnastics, where wobblylandings or spread toes often translate into large point deductions.</p>
 
-<div class="thumbnail with-caption-left"><img src="http://dailybruin.com/images/2014/02/a2f93911-c786-4561-8188-74b8f5f4691e-682x1024.jpg" class="img-vert">
+<div class="thumbnail with-caption-left"><img src="//dailybruin.com/images/2014/02/a2f93911-c786-4561-8188-74b8f5f4691e-682x1024.jpg" class="img-vert">
 World famous gymnastics coach Bela Karolyi <br>holds a young Samantha Peszek.<br><span class="photocred-inline">
 (Courtesy of Samantha Peszek)</span></div>
 
@@ -122,11 +122,11 @@ World famous gymnastics coach Bela Karolyi <br>holds a young Samantha Peszek.<br
     <a href="">&larr; Previous</a>
   </li>
   <li class="next">
-    <a href="http://dailybruin.com/features/gymnastics-the-competitive-demands-jennifer-pinches/">Next &rarr;</a>
+    <a href="//dailybruin.com/features/gymnastics-the-competitive-demands-jennifer-pinches/">Next &rarr;</a>
   </li>
 </ul>
 </p>
-<div id="page-credit">Page created by <a href="http://aeiny.com">Aein Hope</a> and <a href="mailto:cyang@media.ucla.edu">Christina Yang</a></div>
+<div id="page-credit">Page created by <a href="//aeiny.com">Aein Hope</a> and <a href="mailto:cyang@media.ucla.edu">Christina Yang</a></div>
 
 </article> 
 

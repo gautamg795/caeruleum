@@ -300,10 +300,10 @@ Template Name: Major_Stats_2013
 			  SortTable
 			  version 2
 			  7th April 2007
-			  Stuart Langridge, http://www.kryogenix.org/code/browser/sorttable/
+			  Stuart Langridge, //www.kryogenix.org/code/browser/sorttable/
 
 			  Thanks to many, many people for contributions and suggestions.
-			  Licenced as X11: http://www.kryogenix.org/code/browser/licence.html
+			  Licenced as X11: //www.kryogenix.org/code/browser/licence.html
 			  This basically means: do what you want with it.
 			*/
 
@@ -596,7 +596,7 @@ Template Name: Major_Stats_2013
 
 			  shaker_sort: function(list, comp_func) {
 			    // A stable sort function to allow multi-level sorting of data
-			    // see: http://en.wikipedia.org/wiki/Cocktail_sort
+			    // see: //en.wikipedia.org/wiki/Cocktail_sort
 			    // thanks to Joseph Nahmias
 			    var b = 0;
 			    var t = list.length - 1;
@@ -664,7 +664,7 @@ Template Name: Major_Stats_2013
 			// written by Dean Edwards, 2005
 			// with input from Tino Zijdel, Matthias Miller, Diego Perini
 
-			// http://dean.edwards.name/weblog/2005/10/add-event/
+			// //dean.edwards.name/weblog/2005/10/add-event/
 
 			function dean_addEvent(element, type, handler) {
 				if (element.addEventListener) {
@@ -732,11 +732,11 @@ Template Name: Major_Stats_2013
 			  this.cancelBubble = true;
 			}
 
-			// Dean's forEach: http://dean.edwards.name/base/forEach.js
+			// Dean's forEach: //dean.edwards.name/base/forEach.js
 			/*
 				forEach, version 1.0
 				Copyright 2006, Dean Edwards
-				License: http://www.opensource.org/licenses/mit-license.php
+				License: //www.opensource.org/licenses/mit-license.php
 			*/
 
 			// array-like enumeration
@@ -1270,9 +1270,9 @@ Template Name: Major_Stats_2013
 	</div>
 	<div class="large-12 columns"><hr><br><em><p style="font-size: 30pt; text-align: center;">Related Articles</p></em></div>
 	<div class="large-1 columns"></div>
-	<a href="http://dailybruin.com/2013/06/06/a-major-choice-decision-comes-down-to-interests-finances/"><div class="large-3 columns relatedArticlesDoe"><h3>A Major Choice: Decision comes down to interests, finances</h3><em>by Kylie Reynolds</em></div></a>
-	<a href="http://dailybruin.com/2013/06/06/ucla-alumni-creates-job-search-site-based-on-majors/"><div class="large-3 columns relatedArticlesDoe"><h3>UCLA alumni creates job search site based on majors</h3><em>by Lawrence Han</em></div></a>
-	<a href="http://dailybruin.com/2013/06/06/graduate-degree-higher-salary-does-not-always-connect/"><div class="large-3 columns relatedArticlesDoe"><h3>Graduate degree, higher salary does not always connect</h3><em>by Alexia Boyarsky</em></div></a>
+	<a href="//dailybruin.com/2013/06/06/a-major-choice-decision-comes-down-to-interests-finances/"><div class="large-3 columns relatedArticlesDoe"><h3>A Major Choice: Decision comes down to interests, finances</h3><em>by Kylie Reynolds</em></div></a>
+	<a href="//dailybruin.com/2013/06/06/ucla-alumni-creates-job-search-site-based-on-majors/"><div class="large-3 columns relatedArticlesDoe"><h3>UCLA alumni creates job search site based on majors</h3><em>by Lawrence Han</em></div></a>
+	<a href="//dailybruin.com/2013/06/06/graduate-degree-higher-salary-does-not-always-connect/"><div class="large-3 columns relatedArticlesDoe"><h3>Graduate degree, higher salary does not always connect</h3><em>by Alexia Boyarsky</em></div></a>
 	<div class="large-12 columns"><br>
 	<hr>
 	<em style="margin-top: 20px;"><br><p>Salary Interactive by Calvin Chan and Jimmy Yang, Bruin Contributors.</p><p>Campus Interactive by Daniel Duan, Bruin Contributor</p><p>Illustration by Kristen Fong, Bruin Senior Staff.</p><p>Campus Graphics by  Jonathan Solichin and Daniel Duan.</p></em>

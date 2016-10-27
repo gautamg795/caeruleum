@@ -75,17 +75,17 @@ Template Name: Stonewall
 }
 
 .s1 {
-	background-image: url('http://dailybruin.com/images/2015/02/stonewall.jpg');
+	background-image: url('//dailybruin.com/images/2015/02/stonewall.jpg');
 	background-position: top;
 }
 
 .s2 {
-	background-image: url('http://dailybruin.com/images/2015/02/stonewall.jpg');
+	background-image: url('//dailybruin.com/images/2015/02/stonewall.jpg');
 	background-position: bottom;
 }
 
 .s3 {
-		background-image: url('http://dailybruin.com/images/2015/02/stonewall.jpg');
+		background-image: url('//dailybruin.com/images/2015/02/stonewall.jpg');
 	background-position: center;
 }
 

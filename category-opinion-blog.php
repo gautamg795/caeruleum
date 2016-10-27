@@ -2,7 +2,7 @@
 Template Name: Opinion Blog
 */ ?>
 <?php get_header(); ?>
-<link href='http://fonts.googleapis.com/css?family=Playfair+Display+SC:400,700' rel='stylesheet' type='text/css'><style>
+<link href='//fonts.googleapis.com/css?family=Playfair+Display+SC:400,700' rel='stylesheet' type='text/css'><style>
 	
 	/*Daria's Style*/
 	.featured-img {margin: 10px 0 10px 0;}
@@ -203,49 +203,49 @@ Template Name: Opinion Blog
 		array(
 			'name' => 'Natalie Delgadillo',
 			'email' => 'ndelgadillo@media.ucla.edu',
-			'img' => 'http://dailybruin.com/images/2014/11/web.Natalie.Delgadillo-212x300.jpg',
+			'img' => '//dailybruin.com/images/2014/11/web.Natalie.Delgadillo-212x300.jpg',
 			'slugs' => array('idle-thoughts'),
 			'position' => 'Opinion Editor'
 			),
 		array(
 			'name' => 'Julia McCarthy',
 			'email' => 'jmccarthy@media.ucla.edu',
-			'img' => 'http://dailybruin.com/images/2014/11/web.Julia_.McCarthy-211x300.jpg',
+			'img' => '//dailybruin.com/images/2014/11/web.Julia_.McCarthy-211x300.jpg',
 			'slugs' => array('social-commentary'),
 			'position' => 'Assistant Opinion Editor'
 			),
 		array(
 			'name' => 'Aram Ghoogasian',
 			'email' => 'aghoogasian@media.ucla.edu',
-			'img' => 'http://dailybruin.com/images/2014/11/web.Aram_.Ghoogasian-211x300.jpg',
+			'img' => '//dailybruin.com/images/2014/11/web.Aram_.Ghoogasian-211x300.jpg',
 			'slugs' => array('political-commentary'),
 			'position' => 'Opinion Staff Writer'
 			),
 		array(
 			'name' => 'Jordan Lee',
 			'email' => 'jlee2@media.ucla.edu',
-			'img' => 'http://dailybruin.com/images/2014/11/web.Jordan.Lee_-211x300.jpg',
+			'img' => '//dailybruin.com/images/2014/11/web.Jordan.Lee_-211x300.jpg',
 			'slugs' => array('sports-two-cents'),
 			'position' => 'Sports Staff Writer'
 			),
 		array(
 			'name' => 'Chloe Lew',
 			'email' => 'clew@media.ucla.edu',
-			'img' => 'http://dailybruin.com/images/2014/11/web.Chloe_.Lew_-211x300.jpg',
+			'img' => '//dailybruin.com/images/2014/11/web.Chloe_.Lew_-211x300.jpg',
 			'slugs' => array('social-commentary'),
 			'position' => 'Opinion Staff Writer'
 			),
 		array(
 			'name' => 'Ryan Nelson',
 			'email' => 'rnelson@media.ucla.edu',
-			'img' => 'http://dailybruin.com/images/2014/11/web.Ryan_.Nelson-212x300.jpg',
+			'img' => '//dailybruin.com/images/2014/11/web.Ryan_.Nelson-212x300.jpg',
 			'slugs' => array('idle-thoughts'),
 			'position' => 'Opinion Staff Writer'
 			),
 		array(
 			'name' => 'Travis Fife',
 			'email' => 'tfife@media.ucla.edu',
-			'img' => 'http://dailybruin.com/images/2014/11/web.Travis.Fife_-211x300.jpg',
+			'img' => '//dailybruin.com/images/2014/11/web.Travis.Fife_-211x300.jpg',
 			'slugs' => array('political-commentary'),
 			'position' => 'Opinion Staff Writer'
 			)
@@ -259,7 +259,7 @@ Template Name: Opinion Blog
 
 		<div class="row blog-header">
 			<div class="small-12 large-12 columns">
-			<img src="http://dailybruin.com/images/2014/09/2centsblog-cropped.jpg" alt="logo" style="width: 200px; height: 100%;">
+			<img src="//dailybruin.com/images/2014/09/2centsblog-cropped.jpg" alt="logo" style="width: 200px; height: 100%;">
 			<h1 id="blog-title">Two Cents</h1>
 			</div>
 		</div>

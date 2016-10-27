@@ -3,8 +3,8 @@ Template Name: USC Football Rivalry 2013
 */ ?>
 <?php get_header(); ?>
 
-<script src="http://dailybruin.com/js/vendor/minishare.js"></script>
-<link src="http://dailybruin.com/css/vendor/minishare.css" rel="stylesheet" type="text/css">
+<script src="//dailybruin.com/js/vendor/minishare.js"></script>
+<link src="//dailybruin.com/css/vendor/minishare.css" rel="stylesheet" type="text/css">
 <style>
 #banner, .headline-a, .side {
 	margin-bottom: 15px;
@@ -41,20 +41,20 @@ h3 {
 
 	<div class="row">
 		<div class="large-12 columns" id="banner">
-			<img src="http://dailybruin.com/images/2013/11/onlinebanner.jpg">
+			<img src="//dailybruin.com/images/2013/11/onlinebanner.jpg">
 		</div>
 	</div>
 	
 	<div class="row">
 		<div class="large-8 columns" style="padding-right:30px">
 			<div class="row">
-				<a href="http://dailybruin.com/2013/11/25/victory-bell-resonates-with-bruins-past-and-present/"><h2 class="headline-a">Victory Bell resonates with Bruins past and present</h2>
-				<img src="http://dailybruin.com/images/2013/11/80851f22-b618-4a8c-affc-2944b29dfd53.jpg"></a>
+				<a href="//dailybruin.com/2013/11/25/victory-bell-resonates-with-bruins-past-and-present/"><h2 class="headline-a">Victory Bell resonates with Bruins past and present</h2>
+				<img src="//dailybruin.com/images/2013/11/80851f22-b618-4a8c-affc-2944b29dfd53.jpg"></a>
 			</div>
 			<div class="row">
 				<div class="story">
-					<a href="http://dailybruin.com/2013/11/23/ucla-loses-pac-12-title-to-asu-38-33/">
-					<img class="story-thumbnail" src="http://dailybruin.com/images/2013/11/IMG_9977.jpg">
+					<a href="//dailybruin.com/2013/11/23/ucla-loses-pac-12-title-to-asu-38-33/">
+					<img class="story-thumbnail" src="//dailybruin.com/images/2013/11/IMG_9977.jpg">
 					<h3>UCLA football loses chance at Pac-12 title to ASU 38-33</h3>
 					</a>
 					<p>
@@ -62,8 +62,8 @@ h3 {
 					</p>
 				</div>
 				<div class="story">
-					<a href="http://dailybruin.com/2013/11/23/bruins-miss-opportunities-to-score-fall-to-sun-devils/">
-					<img class="story-thumbnail" src="http://dailybruin.com/images/2013/11/running.jpg">
+					<a href="//dailybruin.com/2013/11/23/bruins-miss-opportunities-to-score-fall-to-sun-devils/">
+					<img class="story-thumbnail" src="//dailybruin.com/images/2013/11/running.jpg">
 					<h3>Bruins miss opportunities to score, fall to Sun Devils</h3>
 					</a>
 					<p>
@@ -71,8 +71,8 @@ h3 {
 					</p>
 				</div>
 				<div class="story">
-                    <a href="http://dailybruin.com/2013/11/25/nguyening-ucla-usc-matchup-now-just-a-matter-of-pride/">
-					<img class="story-thumbnail" src="http://dailybruin.com/images/2013/11/39fe789a-1c4c-41f8-bee1-ebc6f6777f52.jpg">
+                    <a href="//dailybruin.com/2013/11/25/nguyening-ucla-usc-matchup-now-just-a-matter-of-pride/">
+					<img class="story-thumbnail" src="//dailybruin.com/images/2013/11/39fe789a-1c4c-41f8-bee1-ebc6f6777f52.jpg">
 					<h3><em>Nguyening: UCLA-USC matchup now just a matter of pride</em></h3>
                     </a>
 					<p>
@@ -80,8 +80,8 @@ h3 {
 					</p>
 				</div>
 				<div class="story">
-                    <a href="http://dailybruin.com/2013/11/25/ucla-still-fired-up-for-usc-game-despite-elimination-from-pac-12-race/">
-					<img class="story-thumbnail" src="http://dailybruin.com/images/2013/11/usc.jpg">
+                    <a href="//dailybruin.com/2013/11/25/ucla-still-fired-up-for-usc-game-despite-elimination-from-pac-12-race/">
+					<img class="story-thumbnail" src="//dailybruin.com/images/2013/11/usc.jpg">
 					<h3>UCLA still fired up for USC game despite elimination from Pac-12 race</h3>
                     </a>
 					<p>
@@ -89,8 +89,8 @@ h3 {
 					</p>
 				</div>				
 				<div class="story">
-                    <a href="http://dailybruin.com/2013/11/25/taxing-season-for-bruins-to-culminate-with-rivalry-game/">
-					<img class="story-thumbnail" src="http://dailybruin.com/images/2013/11/6ab6d89e-7cb2-4331-9837-b67f9c42cadd.jpg">
+                    <a href="//dailybruin.com/2013/11/25/taxing-season-for-bruins-to-culminate-with-rivalry-game/">
+					<img class="story-thumbnail" src="//dailybruin.com/images/2013/11/6ab6d89e-7cb2-4331-9837-b67f9c42cadd.jpg">
 					<h3>Taxing season for Bruins to culminate with rivalry game</h3>
                     </a>
 					<p>
@@ -104,16 +104,16 @@ h3 {
 		</div>
 		<div class="large-4 columns">
 			<div class="row side">
-				<a href="http://dailybruin.com/2013/11/25/special-bond-with-sister-keeps-brett-hundley-grounded/"><h2 class="headline-b">Special bond with sister keeps Brett Hundley grounded</h2>
-				<img src="http://dailybruin.com/images/2013/11/hundley_edited.jpg"></a>
+				<a href="//dailybruin.com/2013/11/25/special-bond-with-sister-keeps-brett-hundley-grounded/"><h2 class="headline-b">Special bond with sister keeps Brett Hundley grounded</h2>
+				<img src="//dailybruin.com/images/2013/11/hundley_edited.jpg"></a>
 			</div>
 			<div class="row side">
-				<a href="http://dailybruin.com/2013/11/25/end-of-an-era-ucla-alumni-cheerleader-geof-strand-retires/"><h2 class="headline-b">End of an era: UCLA alumni cheerleader Geof Strand retires</h2>
-				<img src="http://dailybruin.com/images/2013/11/geof-640x640.jpg"></a>
+				<a href="//dailybruin.com/2013/11/25/end-of-an-era-ucla-alumni-cheerleader-geof-strand-retires/"><h2 class="headline-b">End of an era: UCLA alumni cheerleader Geof Strand retires</h2>
+				<img src="//dailybruin.com/images/2013/11/geof-640x640.jpg"></a>
 			</div>
 			<div class="row side">
-				<a href="http://dailybruin.com/2013/11/25/recalling-ucla-usc-rivalry-heading-into-2013-game/"><h2 class="headline-b">Recalling UCLA-USC rivalry heading into 2013 game</h2>
-				<img src="http://dailybruin.com/images/2013/11/rivalry_timeline.jpg"></a>
+				<a href="//dailybruin.com/2013/11/25/recalling-ucla-usc-rivalry-heading-into-2013-game/"><h2 class="headline-b">Recalling UCLA-USC rivalry heading into 2013 game</h2>
+				<img src="//dailybruin.com/images/2013/11/rivalry_timeline.jpg"></a>
 			</div>
 			<div class="row side">
 				<a class="twitter-timeline" href="https://twitter.com/search?q=%23victorybell" data-widget-id="404848229688160256">Tweets about "#victorybell"</a>
@@ -132,7 +132,7 @@ h3 {
 
   // Load the IFrame Player API code asynchronously.
   var tag = document.createElement('script');
-  tag.src = "http://www.youtube.com/player_api";
+  tag.src = "//www.youtube.com/player_api";
   var firstScriptTag = document.getElementsByTagName('script')[0];
   firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 

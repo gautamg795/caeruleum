@@ -63,7 +63,7 @@ Template Name: USAC Evaluations 2014
 <div id="evals">
     <div class="intro row">
         <h1>2013-2014 USAC Officer Evaluations</h1>
-        <aside class="box"><strong><a href="http://dailybruin.com/2014/04/30/editorial-years-politics-begets-question-of-what-usac-role-should-be/">Read an editorial evaluating the entire council.</a></strong></aside>
+        <aside class="box"><strong><a href="//dailybruin.com/2014/04/30/editorial-years-politics-begets-question-of-what-usac-role-should-be/">Read an editorial evaluating the entire council.</a></strong></aside>
         <p>Each year the Daily Bruin evaluates the Undergraduate Students Association Council members on how they have completed the platforms they set out when running for office. This year, to give our readers a more complete evaluation of the USAC officers, The Bruin’s editorial board has taken into consideration not only platform completion, but also the quality of the councilmembers’ platforms, how well they fulfilled their respective roles as mandated by the USAC bylaws and their commitment to transparency and accountability.</p> 
         <p>For each factor, the board voted to assign councilmembers a score from 1 to 5, 5 being the highest. The final scores represent the majority opinion of the board.</p>
         <ul class="unstyled">
@@ -81,7 +81,7 @@ Template Name: USAC Evaluations 2014
             <div class="person">
                 <div class="row">
                     <span class="span2">
-                        <img class="mug" src="http://dailybruin.com/images/2014/04/web.John_.Joanino.jpg"/>
+                        <img class="mug" src="//dailybruin.com/images/2014/04/web.John_.Joanino.jpg"/>
                     </span>
                     <span class="span4">
                         <h2>John Joanino</h2>
@@ -93,7 +93,7 @@ Template Name: USAC Evaluations 2014
                     </span>
                 </div>
                 <h4 class="feedback">Student feedback</h4>
-                <img src="http://dailybruin.com/images/2014/04/poll_joanino.png"/>
+                <img src="//dailybruin.com/images/2014/04/poll_joanino.png"/>
                 <p>Undergraduate Students Association Council President John Joanino led a council marked by hasty decisions and tainted by divisive politics inside and outside the council chambers.</p>
                 <p>For his part, Joanino succeeded in completing the majority of his platforms.</p>
                 <p>But the USAC presidency is a position that should be judged by its work in facilitating a cooperative council as well as its fulfillment of internal and inter-office objectives.</p>
@@ -110,7 +110,7 @@ Template Name: USAC Evaluations 2014
             <div class="person">
                 <div class="row">
                     <span class="span2">
-                        <img class="mug" src="http://dailybruin.com/images/2014/04/web.Avi.Oved_.jpg"/>
+                        <img class="mug" src="//dailybruin.com/images/2014/04/web.Avi.Oved_.jpg"/>
                     </span>
                     <span class="span4">
                         <h2>Avi Oved</h2>
@@ -122,7 +122,7 @@ Template Name: USAC Evaluations 2014
                     </span>
                 </div>
                 <h4 class="feedback">Student feedback</h4>
-                <img src="http://dailybruin.com/images/2014/04/poll_oved.png"/>
+                <img src="//dailybruin.com/images/2014/04/poll_oved.png"/>
                 <p>Throughout the year, Internal Vice President Avi Oved has shown a consistent commitment to completing his platforms and making USAC a more transparent and accountable body.</p>
                 <p>However, his otherwise solid performance stood in contrast to shortcomings in actually completing his platforms and fulfilling his responsibilities as IVP.</p>
                 <p>In his platforms, Oved managed to strike a balance between large, meaningful initiatives, such as his mobile panic button application, and smaller, easier-to-achieve goals, such as the student group marketing/design team he institutionalized through UCLA.</p>
@@ -140,7 +140,7 @@ Template Name: USAC Evaluations 2014
             <div class="person">
                 <div class="row">
                     <span class="span2">
-                        <img class="mug" src="http://dailybruin.com/images/2014/04/web.Maryssa.Hall_.jpg"/>
+                        <img class="mug" src="//dailybruin.com/images/2014/04/web.Maryssa.Hall_.jpg"/>
                     </span>
                     <span class="span4">
                         <h2>Maryssa Hall</h2>
@@ -152,12 +152,12 @@ Template Name: USAC Evaluations 2014
                     </span>
                 </div>
                 <h4 class="feedback">Student feedback</h4>
-                <img src="http://dailybruin.com/images/2014/04/poll_hall.png"/>
+                <img src="//dailybruin.com/images/2014/04/poll_hall.png"/>
                 <p>External Vice President Maryssa Hall met the expectations of her office and set out worthwhile goals, but she faltered when it came to serving as a transparent, cooperativecouncilmember to the student body.</p>
                 <p>Within her office, Hall pursued important topics with a wide reach and balance of issues, including a focus on student-centered state legislation, long-term funding for the University of California, increased student engagement with the UC Board of Regents and a stronger connection between students and L.A. city officials.</p>
                 <p>Despite the quality of her goals,Hall fell short of accomplishing all of her platforms. Instead of focusing efforts on creating state legislation to meet specific student needs, Hall channeled her energy into advocating for the oil extraction tax bill and a ballot initiative transparency bill.</p>
                 <p>Hall also joined the UC Student Association to advocate for Proposition 13 reform in conjunction with the Fund the UC campaign, changes that would free up significant revenue for the state&rsquo;s general fund. However, such reform would not directly translate to a long-term funding solution for the UC. Hall would have done well to shift her focus to more feasible funding solutions.</p>
-                <p>Still, Hall emerged as a leader in UCSA, spearheading the <a href="http://dailybruin.com/2013/10/08/ignite-campaign-aims-to-promote-diversity-in-higher-education/">IGNITE campaign</a>. IGNITE aims to promote diversity in higher education through initiatives such as retention and outreach centers.</p>
+                <p>Still, Hall emerged as a leader in UCSA, spearheading the <a href="//dailybruin.com/2013/10/08/ignite-campaign-aims-to-promote-diversity-in-higher-education/">IGNITE campaign</a>. IGNITE aims to promote diversity in higher education through initiatives such as retention and outreach centers.</p>
                 <p>As per her bylaw-mandated responsibilities, Hall fulfilled her role as external vice president. However, she sometimes further drove divisions among this year&rsquo;s council, often accentuating slate politics rather than resolving them.</p>
                 <p>Hall&rsquo;s obstinance was perhaps most evident in her active attempts to obstruct and delay the creation of the quarterly budget report, a project that originated with Internal Vice President Avi Oved, who ran with the Bruins United slate.</p>
                 <p>In addition, Hall consistently undermined standards of transparency with her decisions at the council table, including voting to approve a personal stipend increase, voting in favor of the use of secret ballots and taking issue with the live streaming and archiving of entire council meetings.</p>
@@ -168,7 +168,7 @@ Template Name: USAC Evaluations 2014
             <div class="person">
                 <div class="row">
                     <span class="span2">
-                        <img class="mug" src="http://dailybruin.com/images/2014/04/web.Darren.Ramalho.jpg"/>
+                        <img class="mug" src="//dailybruin.com/images/2014/04/web.Darren.Ramalho.jpg"/>
                     </span>
                     <span class="span4">
                         <h2>Darren Ramalho</h2>
@@ -180,7 +180,7 @@ Template Name: USAC Evaluations 2014
                     </span>
                 </div>
                 <h4 class="feedback">Student feedback</h4>
-                <img src="http://dailybruin.com/images/2014/04/poll_ramalho.png"/>
+                <img src="//dailybruin.com/images/2014/04/poll_ramalho.png"/>
                 <p>Darren Ramalho executed his responsibilities as Academic Affairs commissioner effectively over the past year while upholding a high standard of transparency.</p>
                 <p>Ramalho&rsquo;s platforms aimed to tackle important problems in a practical manner.</p>
                 <p>He met every goal set during elections last year, clearly and impressively fulfilling not only his promises to student voters but also the requirements of his office in the USAC bylaws.</p>
@@ -199,7 +199,7 @@ Template Name: USAC Evaluations 2014
             <div class="person">
                 <div class="row">
                     <span class="span2">
-                        <img class="mug" src="http://dailybruin.com/images/2014/04/web.Jessica.Kim_.jpg"/>
+                        <img class="mug" src="//dailybruin.com/images/2014/04/web.Jessica.Kim_.jpg"/>
                     </span>
                     <span class="span4">
                         <h2>Jessica Kim</h2>
@@ -211,7 +211,7 @@ Template Name: USAC Evaluations 2014
                     </span>
                 </div>
                 <h4 class="feedback">Student feedback</h4>
-                <img src="http://dailybruin.com/images/2014/04/poll_kim.png"/>
+                <img src="//dailybruin.com/images/2014/04/poll_kim.png"/>
                 <p>Jessica Kim kept the Campus Events Commission strong at its core and fulfilled her duties by continuing to organize high-quality events but failed in expanding beyond that single platform.</p>
                 <p>In the past three years, the Campus Events commissioner has brought forward lackluster platforms that only set out to continue the work of previous years. This trend in platforms does little to expand and improve the commission as a whole.</p>
                 <p>Kim aimed a bit beyond that of her predecessors, but not by much.</p>
@@ -229,7 +229,7 @@ Template Name: USAC Evaluations 2014
             <div class="person">
                 <div class="row">
                     <span class="span2">
-                        <img class="mug" src="http://dailybruin.com/images/2014/04/web.Jessica.Trumble.jpg"/>
+                        <img class="mug" src="//dailybruin.com/images/2014/04/web.Jessica.Trumble.jpg"/>
                     </span>
                     <span class="span4">
                         <h2>Jessica Trumble</h2>
@@ -241,7 +241,7 @@ Template Name: USAC Evaluations 2014
                     </span>
                 </div>
                 <h4 class="feedback">Student feedback</h4>
-                <img src="http://dailybruin.com/images/2014/04/poll_trumble.png"/>
+                <img src="//dailybruin.com/images/2014/04/poll_trumble.png"/>
                 <p><em>The original version of this article contained an error and has been changed. See the bottom of the article for additional information.</em></p>
                 <p>Jessica Trumble&rsquo;s performance and programming as Cultural Affairs commissioner this year are emblematic of a commissioner that understands her role within the UCLA community: to consistently plan and run events with a &ldquo;cultural, political or social relevance&rdquo; to students.</p>
                 <p>Trumble&rsquo;s office successfully completed its own rendition of Art Walk, an event that has taken place in downtown Los Angeles for years and featured the artistic talents of many UCLA students in its first year on campus. The Word on Wednesday poetry series moved from the Kerckhoff Art Gallery to the Ackerman Union Global Viewpoint Lounge because of consistent attendance, and UCLA&rsquo;s first-ever slam poetry team reached the semi-finals of the Association of College Unions International Poetry Slam Invitational earlier this year.</p>
@@ -260,7 +260,7 @@ Template Name: USAC Evaluations 2014
             <div class="person">
                 <div class="row">
                     <span class="span2">
-                        <img class="mug" src="http://dailybruin.com/images/2014/04/web.Sam_.Haws_.jpg"/>
+                        <img class="mug" src="//dailybruin.com/images/2014/04/web.Sam_.Haws_.jpg"/>
                     </span>
                     <span class="span4">
                         <h2>Sam Haws</h2>
@@ -272,7 +272,7 @@ Template Name: USAC Evaluations 2014
                     </span>
                 </div>
                 <h4 class="feedback">Student feedback</h4>
-                <img src="http://dailybruin.com/images/2014/04/poll_haws.png"/>
+                <img src="//dailybruin.com/images/2014/04/poll_haws.png"/>
                 <p>Despite some progress, General Representative Sam Haws made little headway with his platforms, many of which stagnated after hitting logistical roadblocks.</p>
                 <p>While Haws attempted to initiate projects such as establishing a non-denominational prayer space and revamping the BruinCard to include more functions, he failed to accomplish any movement on these fronts. Haws stopped advocating for the prayer space after being turned away by the John Wooden Center, which previously had a room designated for prayer, unable to find a different location.</p>
                 <p>Haws planned on incorporating Arthur Ashe Student Health and Wellness Center information onto the BruinCard. But Haws was ultimately unsuccessful, as his BruinCard revision platform took a backseat to a similar project by President John Joanino. Haws said he reached out to Joanino about combining efforts but didn&rsquo;t hear back.</p>
@@ -287,7 +287,7 @@ Template Name: USAC Evaluations 2014
             <div class="person">
                 <div class="row">
                     <span class="span2">
-                        <img class="mug" src="http://dailybruin.com/images/2014/04/web.Sunny_.Singh_.jpg"/>
+                        <img class="mug" src="//dailybruin.com/images/2014/04/web.Sunny_.Singh_.jpg"/>
                     </span>
                     <span class="span4">
                         <h2>Sunny Singh</h2>
@@ -299,7 +299,7 @@ Template Name: USAC Evaluations 2014
                     </span>
                 </div>
                 <h4 class="feedback">Student feedback</h4>
-                <img src="http://dailybruin.com/images/2014/04/poll_singh.png"/>
+                <img src="//dailybruin.com/images/2014/04/poll_singh.png"/>
                 <p>General Representative Sunny Singh used his office to put on several beneficial programs but failed to create a vision for his office or accomplish the platforms he outlined at the start of his term.</p>
                 <p>Singh spread himself too thin with the variety of programs his office put on, stifling any substantial headway on his main platforms of strengthening the relationship between UCLA&rsquo;s governing bodies, fostering a greater connection between students and Associated Students UCLA and addressing campus climate issues through cultural events and educational panels.</p>
                 <p>When asked about how he strengthened the relationship among governing bodies, Singh cited his programming efforts with campus entities such as the Arthur Ashe Student Health and Wellness Center and the Office of Residential Life as examples.</p>
@@ -317,7 +317,7 @@ Template Name: USAC Evaluations 2014
             <div class="person">
                 <div class="row">
                     <span class="span2">
-                        <img class="mug" src="http://dailybruin.com/images/2014/04/web.Lizzy_.Naameh.jpg"/>
+                        <img class="mug" src="//dailybruin.com/images/2014/04/web.Lizzy_.Naameh.jpg"/>
                     </span>
                     <span class="span4">
                         <h2>Lizzy Naameh</h2>
@@ -329,7 +329,7 @@ Template Name: USAC Evaluations 2014
                     </span>
                 </div>
                 <h4 class="feedback">Student feedback</h4>
-                <img src="http://dailybruin.com/images/2014/04/poll_naameh.png"/>
+                <img src="//dailybruin.com/images/2014/04/poll_naameh.png"/>
                 <p>Lizzy Naameh was elected to serve as a general representative on a platform that emphasized social justice and personal wellness on campus, initiatives this board felt were both achievable and relevant. However, in working to achieve her goals, Naameh fell flat.</p>
                 <p>After a dormant fall and winter, most of Naameh&rsquo;s best work has come during spring quarter. But, a late push wasn&rsquo;t enough to buoy an otherwise forgettable term<strong>.</strong></p>
                 <p>While Naameh&rsquo;s idea of bringing student art to Arts ReSTORE LA, a project aimed at promoting independent artists throughout Westwood, was promising, her efforts were derailed by a lack of foresight into the scheduling process. By the time elections were over, the art for the project had already been chosen.</p>
@@ -344,7 +344,7 @@ Template Name: USAC Evaluations 2014
             <div class="person">
                 <div class="row">
                     <span class="span2">
-                        <img class="mug" src="http://dailybruin.com/images/2014/04/web.Armen_.Hadjimanoukian.jpg"/>
+                        <img class="mug" src="//dailybruin.com/images/2014/04/web.Armen_.Hadjimanoukian.jpg"/>
                     </span>
                     <span class="span4">
                         <h2>Armen Hadjimanoukian</h2>
@@ -356,7 +356,7 @@ Template Name: USAC Evaluations 2014
                     </span>
                 </div>
                 <h4 class="feedback">Student feedback</h4>
-                <img src="http://dailybruin.com/images/2014/04/poll_hadjimanoukian.png"/>
+                <img src="//dailybruin.com/images/2014/04/poll_hadjimanoukian.png"/>
                 <p>Armen Hadjimanoukian achieved most of his goals as facilities commissioner, despite having to navigate the complicated bureaucracy of campus and city governing boards.</p>
                 <p>Going into his term as commissioner, Hadjimanoukian&rsquo;s aims of creating a reusable cup and creating charging stations were well intentioned and feasible but not truly impactful to the UCLA community<strong>. </strong>He successfully partnered with ASUCLA to revamp their reusable cup. He also worked with facilities to bring charging stations to different areas of campus, although such efforts were already in the works before he came into office.</p>
                 <p>His most successful and worthwhile platform was a campus thrift shop, which he continued from last year&rsquo;s commission. This year&rsquo;s shop focused on sustainability efforts and the relatively successful turnout helped achieve its goal of providing funding for student groups. Hadjimanoukian said that he hoped to lay the groundwork for institutionalizing the thrift shop on campus &ndash; a goal that, given his limited time and resources, could not be accomplished in his term.</p>
@@ -374,7 +374,7 @@ Template Name: USAC Evaluations 2014
             <div class="person">
                 <div class="row">
                     <span class="span2">
-                        <img class="mug" src="http://dailybruin.com/images/2014/04/web.Lauren.Rogers.jpg"/>
+                        <img class="mug" src="//dailybruin.com/images/2014/04/web.Lauren.Rogers.jpg"/>
                     </span>
                     <span class="span4">
                         <h2>Lauren Rogers</h2>
@@ -386,7 +386,7 @@ Template Name: USAC Evaluations 2014
                     </span>
                 </div>
                 <h4 class="feedback">Student feedback</h4>
-                <img src="http://dailybruin.com/images/2014/04/poll_rogers.png"/>
+                <img src="//dailybruin.com/images/2014/04/poll_rogers.png"/>
                 <p>Lauren Rogers completed her tenure as Financial Supports commissioner with due diligence and progress, fulfilling her platform ideas and taking additional steps to address students&rsquo; financial concerns by providing concrete resources.</p>
                 <p>In the fall, she successfully created and institutionalized the iClicker Loan Library, which made 300 iClickers available for students to rent for free on a quarterly basis. In collaboration with the Office of Instructional Development, Rogers was impressively able to secure $15,000 for the project, establishing it without using student fees.</p>
                 <p>As promised in her platform, Rogers initiated an alumni-led course on financial literacy and personal finance, which will continue beyond her tenure for at least one additional year. With support from the Career Center, she secured free locations for the eight-series course on topics such as budgeting, loans and retirement savings and made course materials available online for students who could not attend.</p>
@@ -401,7 +401,7 @@ Template Name: USAC Evaluations 2014
             <div class="person">
                 <div class="row">
                     <span class="span2">
-                        <img class="mug" src="http://dailybruin.com/images/2014/04/web.Savannah.Badalich.jpg"/>
+                        <img class="mug" src="//dailybruin.com/images/2014/04/web.Savannah.Badalich.jpg"/>
                     </span>
                     <span class="span4">
                         <h2>Savannah Badalich</h2>
@@ -413,7 +413,7 @@ Template Name: USAC Evaluations 2014
                     </span>
                 </div>
                 <h4 class="feedback">Student feedback</h4>
-                <img src="http://dailybruin.com/images/2014/04/poll_badalich.png"/>
+                <img src="//dailybruin.com/images/2014/04/poll_badalich.png"/>
                 <p>Though her tenure was far from perfect, the Undergraduate Student Association Council&rsquo;s Student Wellness commissioner can take credit for an initiative that several councilmembers independently pegged as the student government&rsquo;s greatest accomplishment this year.</p>
                 <p>Savannah Badalich&rsquo;s term was defined by the 7000 in Solidarity campaign, an admirable effort to highlight the issue of sexual assault, empower survivors and advocate for better handling of their cases by the university.</p>
                 <p>Her advocacy on that issue was USAC&rsquo;s most prominent success, garnering widespread local and national attention.</p>

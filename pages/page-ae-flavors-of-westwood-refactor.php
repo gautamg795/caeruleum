@@ -5,11 +5,11 @@ Template Name: A&E Flavors of Westwood 2
 <?php get_header(); ?>
 </div>
 </div>
-<script src="http://maps.google.com/maps/api/js?sensor=false&libraries=geometry&v=3.7"></script>
+<script src="//maps.google.com/maps/api/js?sensor=false&libraries=geometry&v=3.7"></script>
 <script src="/js/vendor/maplace.min.js"></script>
-<script src="http://underscorejs.org/underscore-min.js"></script>
-<link href="http://fonts.googleapis.com/css?family=Lobster+Two" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=Cabin" rel="stylesheet" type="text/css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+<link href="//fonts.googleapis.com/css?family=Lobster+Two" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Cabin" rel="stylesheet" type="text/css">
 
 <style>
     article#fow {
@@ -257,7 +257,7 @@ Template Name: A&E Flavors of Westwood 2
 <div class="section-container auto">
 <article id="fow">
 
-<img class="background" src="http://dailybruin.com/images/2014/01/bg7_2.png"/>
+<img class="background" src="//dailybruin.com/images/2014/01/bg7_2.png"/>
 
 <h1>Flavors of Westwood</h1>
 <p class="lead">Throughout this past year, A&amp;E reporters have been venturing into the world of Westwood dining to dig up the stories behind the creation and the flavor of each eatery. Explore the flavors of Westwood through our interactive map.</p>
@@ -266,7 +266,7 @@ Template Name: A&E Flavors of Westwood 2
 <div id="gmap-tabs" class="gmap" style="position: relative; overflow: hidden;"></div>
 <div id="info"></div>
 
-<div id="page-credit">Page created by <a href="http://aeiny.com">Aein Hope</a> and <a href="mailto:afarhangi@media.ucla.edu">Arman Farhangi</a></div>
+<div id="page-credit">Page created by <a href="//aeiny.com">Aein Hope</a> and <a href="mailto:afarhangi@media.ucla.edu">Arman Farhangi</a></div>
 
 </article>
 </div>
@@ -362,7 +362,7 @@ function toMapJSON(json) {
 		elem['fulldesc'] = to_content_html(data);
 		elem['lat'] = parseFloat(data.latitude);
 		elem['lon'] = parseFloat(data.longitude);
-		elem['icon'] = 'http://maps.google.com/mapfiles/marker' + data.marker + '.png';
+		elem['icon'] = '//maps.google.com/mapfiles/marker' + data.marker + '.png';
 		elem['zoom'] = 17;
 		elem['title'] = data.restaurantname;
 		elem['website'] = data.website;

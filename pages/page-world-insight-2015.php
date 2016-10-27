@@ -3,7 +3,7 @@ Template Name: World Insight 2015
 */ ?>
 <?php get_header(); ?>
 
-<link href='http://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
 
 <?php 
 	if ( have_posts() ) {

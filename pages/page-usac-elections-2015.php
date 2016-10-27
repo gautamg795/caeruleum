@@ -11,7 +11,7 @@ Template Name: USAC Elections 2015
 <script src="../js/usac-2015/animatescroll.min.js"></script>
 <script src="../js/usac-2015/lazyYT.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/flickity/1.0.2/flickity.pkgd.min.js"></script>
-<link href='http://fonts.googleapis.com/css?family=Raleway:800|Asap' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Raleway:800|Asap' rel='stylesheet' type='text/css'>
 
 <script type="text/template" class="candidates_main_template">
     <% _.each(input, function(candidate){ %>
@@ -139,7 +139,7 @@ Template Name: USAC Elections 2015
 <a class="fi-arrow-up" href="#" id="scrollup"><img class="show-for-small-only" src="../img/usac-2015.uparrow.svg"/></a>
 <div class="container">
     <div class="row banner">
-      <img src="http://dailybruin.com/images/2015/04/Elections-Banner1.jpg"/>
+      <img src="//dailybruin.com/images/2015/04/Elections-Banner1.jpg"/>
     </div>
     <div class="row">
     <nav class="top-bar" data-topbar role="navigation">
@@ -319,7 +319,7 @@ Template Name: USAC Elections 2015
             <li id="results-President">
                 <h2 class="results-position">President</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -327,7 +327,7 @@ Template Name: USAC Elections 2015
             <li id="results-IVP">
                 <h2 class="results-position">Internal Vice President</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -335,7 +335,7 @@ Template Name: USAC Elections 2015
             <li id="results-EVP">
                 <h2 class="results-position">External Vice President</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -343,7 +343,7 @@ Template Name: USAC Elections 2015
             <li id="results-AAC">
                 <h2 class="results-position">Academic Affairs Commissioner</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -351,7 +351,7 @@ Template Name: USAC Elections 2015
             <li id="results-CEC">
                 <h2 class="results-position">Campus Events Commissioner</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -359,7 +359,7 @@ Template Name: USAC Elections 2015
             <li id="results-Gen-Rep1">
                 <h2 class="results-position">General Representative 1</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -367,7 +367,7 @@ Template Name: USAC Elections 2015
             <li id="results-Gen-Rep2">
                 <h2 class="results-position">General Representative 2</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -375,7 +375,7 @@ Template Name: USAC Elections 2015
             <li id="results-Gen-Rep3">
                 <h2 class="results-position">General Representative 3</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -383,7 +383,7 @@ Template Name: USAC Elections 2015
             <li id="results-CSC">
                 <h2 class="results-position">Community Service Commissioner</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -391,7 +391,7 @@ Template Name: USAC Elections 2015
             <li id="results-CAC">
                 <h2 class="results-position">Cultural Affairs Commissioner</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -399,7 +399,7 @@ Template Name: USAC Elections 2015
             <li id="results-FAC">
                 <h2 class="results-position">Facilities Commissioner</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -407,7 +407,7 @@ Template Name: USAC Elections 2015
             <li id="results-FSC">
                 <h2 class="results-position">Financial Support Commissioner</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -415,7 +415,7 @@ Template Name: USAC Elections 2015
             <li id="results-SWC">
                 <h2 class="results-position">Student Wellness Commissioner</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -423,7 +423,7 @@ Template Name: USAC Elections 2015
             <li id="results-TSR">
                 <h2 class="results-position">Transfer Student Representative</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -431,7 +431,7 @@ Template Name: USAC Elections 2015
             <li id="results-REF">
                 <h2 class="results-position">REFERENDUM</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>

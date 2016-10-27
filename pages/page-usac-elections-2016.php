@@ -11,7 +11,7 @@ Template Name: USAC Elections 2016
 <script src="../js/usac-2016/animatescroll.min.js"></script>
 <script src="../js/usac-2016/lazyYT.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/flickity/1.0.2/flickity.pkgd.min.js"></script>
-<link href='http://fonts.googleapis.com/css?family=Raleway:800|Asap' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Raleway:800|Asap' rel='stylesheet' type='text/css'>
 
 <script type="text/template" class="candidates_main_template">
     <% _.each(input, function(candidate){ %>
@@ -159,7 +159,7 @@ Template Name: USAC Elections 2016
 <a class="fi-arrow-up" href="#" id="scrollup"><img class="show-for-small-only" src="../img/usac-2016.uparrow.png"/></a>
 <div class="container">
     <div class="row banner">
-      <img src="http://dailybruin.com/images/2016/04/usac_election_illo_final_withlogo.jpg"/>
+      <img src="//dailybruin.com/images/2016/04/usac_election_illo_final_withlogo.jpg"/>
     </div>
     <div class="row">
     <nav class="top-bar" data-topbar role="navigation">
@@ -334,16 +334,16 @@ Template Name: USAC Elections 2016
             
             <h1 class="referendum-title">The Green Initiative Fund Referendum</h1>
             <p>The Green Initiative Fund Referendum, a referendum passed in 2008 but set to expire in 2018, funds projects promoting environmental sustainability on campus, such as the JazzReggae Festival and Ecochella. The revised language of the referendum on the ballot will remove the expiration date and allow the referendum to exist indefinitely. The referendum, if passed, would maintain the current cost of $4.80 per quarter.</p>
-            <a href="http://www.socialjusticebruins.com/">
+            <a href="//www.socialjusticebruins.com/">
                 <h1 class="referendum-title">Social Justice Referendum of 2016</h1>
             </a>
             <p>The Social Justice Referendum of 2016 aims to increase funding for a variety of retention and outreach programs, including Community Programs Office-affiliated groups, the Academic Advancement Program and the Academic Affairs Commission, among others. It also aims to keep the John Wooden Center open 24 hours per day. The referendum, if passed, would cost $24.99 per quarter for each undergraduate student.</p>
-            <a href="http://www.bruinwellness.com/">
+            <a href="//www.bruinwellness.com/">
                 <h1 class="referendum-title">#UCLAWellness Referendum</h1>
             </a>
             <p>The #UCLAwellness Referendum aims to fund three undergraduate student government offices, UCLA Counseling and Psychological Services, or CAPS, and the USAC Contingency Programming Fund, a fund to which student groups and student government offices can apply to. The referendum, if passed, would cost each undergraduate student $6 per quarter in 2017, $12 per quarter in 2018 and $18 per quarter beginning fall 2019.</p>
             
-            <a href="http://campaign.dailybruin.com/">
+            <a href="//campaign.dailybruin.com/">
                 <h1 class="referendum-title">The Daily Bruin and Bruinwalk.com Referendum</h1>
             </a>
             <p id="ref-last-p">The Daily Bruin and Bruinwalk.com Referendum aims to fund the Daily Bruin, Bruinwalk, a professor and course rating website specific to UCLA, and other UCLA Student Media organizations. The referendum, if passed, would cost $3 per quarter.</p>
@@ -374,7 +374,7 @@ Template Name: USAC Elections 2016
             <li id="results-President">
                 <h2 class="results-position">President</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -382,7 +382,7 @@ Template Name: USAC Elections 2016
             <li id="results-IVP">
                 <h2 class="results-position">Internal Vice President</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -390,7 +390,7 @@ Template Name: USAC Elections 2016
             <li id="results-EVP">
                 <h2 class="results-position">External Vice President</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -398,7 +398,7 @@ Template Name: USAC Elections 2016
             <li id="results-AAC">
                 <h2 class="results-position">Academic Affairs Commissioner</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -406,7 +406,7 @@ Template Name: USAC Elections 2016
             <li id="results-CEC">
                 <h2 class="results-position">Campus Events Commissioner</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -414,7 +414,7 @@ Template Name: USAC Elections 2016
             <li id="results-Gen-Rep1">
                 <h2 class="results-position">General Representative 1</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -422,7 +422,7 @@ Template Name: USAC Elections 2016
             <li id="results-Gen-Rep2">
                 <h2 class="results-position">General Representative 2</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -430,7 +430,7 @@ Template Name: USAC Elections 2016
             <li id="results-Gen-Rep3">
                 <h2 class="results-position">General Representative 3</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -438,7 +438,7 @@ Template Name: USAC Elections 2016
             <li id="results-CSC">
                 <h2 class="results-position">Community Service Commissioner</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -446,7 +446,7 @@ Template Name: USAC Elections 2016
             <li id="results-CAC">
                 <h2 class="results-position">Cultural Affairs Commissioner</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -454,7 +454,7 @@ Template Name: USAC Elections 2016
             <li id="results-FAC">
                 <h2 class="results-position">Facilities Commissioner</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -462,7 +462,7 @@ Template Name: USAC Elections 2016
             <li id="results-FSC">
                 <h2 class="results-position">Financial Support Commissioner</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -470,7 +470,7 @@ Template Name: USAC Elections 2016
             <li id="results-SWC">
                 <h2 class="results-position">Student Wellness Commissioner</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -478,7 +478,7 @@ Template Name: USAC Elections 2016
             <li id="results-TSR">
                 <h2 class="results-position">Transfer Student Representative</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -486,7 +486,7 @@ Template Name: USAC Elections 2016
             <li id="results-GIF">
                 <h2 class="results-position">The Green Initiative Fund Referendum</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -494,7 +494,7 @@ Template Name: USAC Elections 2016
             <li id="results-SJR">
                 <h2 class="results-position">Social Justice Referendum of 2016</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -502,7 +502,7 @@ Template Name: USAC Elections 2016
             <li id="results-WELL">
                 <h2 class="results-position">#UCLAwellness Referendum</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>
@@ -510,7 +510,7 @@ Template Name: USAC Elections 2016
             <li id="results-DB">
                 <h2 class="results-position">The Daily Bruin and Bruinwalk.com Referendum</h2>
                 <div class="results-content">
-                    <img src="http://placehold.it/200x300"/>
+                    <img src="//placehold.it/200x300"/>
                     <p class="results-name">Pending</p>
                     <p class="results-percent">--%</p>
                 </div>

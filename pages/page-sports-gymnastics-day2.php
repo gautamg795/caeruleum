@@ -13,14 +13,14 @@ Template Name: Sports Gymnastics day2
     <p style="text-align:center;">With the Winter Olympics in full swing, the Daily Bruin takes a look at the experiences of four former Summer Olympians and current members of the UCLA gymnastics team.</p>
   <div class="pagination pagination-centered">
   <ul>
-    <li><a href="http://dailybruin.com/features/gymnastics-the-competitive-demands-samantha-peszek/">Samantha Peszek</a></li>
+    <li><a href="//dailybruin.com/features/gymnastics-the-competitive-demands-samantha-peszek/">Samantha Peszek</a></li>
     <li class="active"><a>Jennifer Pinches</a></li>
-    <li><a href="http://dailybruin.com/features/jordyn-wieber-brings-strength-to-ucla-gymnastics-team/">Jordyn Wieber</a></li>
-    <li><a href="http://dailybruin.com/features/gymnastics-the-competitive-demands-danusia-francis/">Danusia Francis</a></li>
+    <li><a href="//dailybruin.com/features/jordyn-wieber-brings-strength-to-ucla-gymnastics-team/">Jordyn Wieber</a></li>
+    <li><a href="//dailybruin.com/features/gymnastics-the-competitive-demands-danusia-francis/">Danusia Francis</a></li>
   </ul>
 </div>
 
-	<img src="http://dailybruin.com/images/2014/02/web.pinches.picA_-686x1024.jpg" class="aligncenter">
+	<img src="//dailybruin.com/images/2014/02/web.pinches.picA_-686x1024.jpg" class="aligncenter">
 	<span class="photocred">Katie Meyers / Daily Bruin senior staff</span><br><p style="text-align:center;">After competing in the London 2012 Summer Olympics, now-UCLA freshman Jennifer Pinches decided to move on from gymnastics.<p>
 
 <h2>Jennifer Pinches</h2>
@@ -39,7 +39,7 @@ Template Name: Sports Gymnastics day2
 
 <p>In fact, immediately following the Olympic parade, Pinches used her newfound freedom to experience things she had sacrificed for gymnastics, starting with a two-month volunteering trip in Ecuador.</p>
 
-<div class="thumbnail with-caption-left"><img src="http://dailybruin.com/images/2014/02/web.pinches.picB_-738x1024.jpg" class="img-vert">Pinches was convinced to return to gymnastics<br> after receiving an email from UCLA coach Valorie<br> Kondos Field asking Pinches to join the team.<br><br><span class="photocred-inline">Katie Meyers / Daily Bruin</span></div>
+<div class="thumbnail with-caption-left"><img src="//dailybruin.com/images/2014/02/web.pinches.picB_-738x1024.jpg" class="img-vert">Pinches was convinced to return to gymnastics<br> after receiving an email from UCLA coach Valorie<br> Kondos Field asking Pinches to join the team.<br><br><span class="photocred-inline">Katie Meyers / Daily Bruin</span></div>
 
 <p>"I thought, ‘No way, I'm never competing again,’” she said. “I was done with the pressure, and after all that – leading up to the Olympics for like a year before, that massive buildup – I was ready to relax.”</p>
 
@@ -77,7 +77,7 @@ Template Name: Sports Gymnastics day2
 
 <p>In fact, the ski trip where Pinches received her first contact from Kondos Field was the first such trip Pinches had been able to attend. Previously, she had been forced to skip her family's annual visit to Austria because she couldn't afford to miss gymnastics training and competitions.</p>
 
-<div class="thumbnail with-caption-left"><img src="http://dailybruin.com/images/2014/02/web.pinches.picC_-690x1024.jpg" class="img-vert">While Pinches has returned to gymnastics<br> as a UCLA student, she may return home<br> to England next year.<br><br><span class="photocred-inline">Katie Meyers / Daily Bruin</span></div>
+<div class="thumbnail with-caption-left"><img src="//dailybruin.com/images/2014/02/web.pinches.picC_-690x1024.jpg" class="img-vert">While Pinches has returned to gymnastics<br> as a UCLA student, she may return home<br> to England next year.<br><br><span class="photocred-inline">Katie Meyers / Daily Bruin</span></div>
 
 <p>Though she eventually did choose to once again devote herself to her sport, she’s uncertain how long that newfound devotion will last – Pinches may choose to finish her studies in England starting next year.</p>
 
@@ -120,15 +120,15 @@ Template Name: Sports Gymnastics day2
 
 <ul class="pager">
   <li class="previous">
-    <a href="http://dailybruin.com/features/gymnastics-the-competitive-demands-samantha-peszek/">&larr; Previous</a>
+    <a href="//dailybruin.com/features/gymnastics-the-competitive-demands-samantha-peszek/">&larr; Previous</a>
   </li>
   <li class="next">
-    <a href="http://dailybruin.com/features/jordyn-wieber-brings-strength-to-ucla-gymnastics-team/">Next &rarr;</a>
+    <a href="//dailybruin.com/features/jordyn-wieber-brings-strength-to-ucla-gymnastics-team/">Next &rarr;</a>
   </li>
 </ul>
 </p>
 
-<div id="page-credit">Page created by <a href="http://aeiny.com">Aein Hope</a> and <a href="mailto:cyang@media.ucla.edu">Christina Yang</a></div>
+<div id="page-credit">Page created by <a href="//aeiny.com">Aein Hope</a> and <a href="mailto:cyang@media.ucla.edu">Christina Yang</a></div>
 
 </article> 
 

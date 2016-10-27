@@ -15,9 +15,9 @@ Template Name: News - Making the Most
 <div class="container">
 
   <div class="row title">
-    <img class="medal" id="medal1" src="http://dailybruin.com/images/2016/02/news-medal-1.jpg">
+    <img class="medal" id="medal1" src="//dailybruin.com/images/2016/02/news-medal-1.jpg">
     <h1 id="maintitle">Making the Most</h1>
-    <!-- <img class="medal" id="medal2" src="http://dailybruin.com/images/2016/02/news-medal-2.jpg"> -->
+    <!-- <img class="medal" id="medal2" src="//dailybruin.com/images/2016/02/news-medal-2.jpg"> -->
   </div>
 
   <div class="row content">
@@ -36,17 +36,17 @@ Template Name: News - Making the Most
 
       <div id="Arami-Walker" class="content">
         <div class="Arami-Gallery">
-          <img class="gallery-img" src="http://dailybruin.com/images/2016/02/web.news_.walker.A.OE_.jpg">
+          <img class="gallery-img" src="//dailybruin.com/images/2016/02/web.news_.walker.A.OE_.jpg">
 
-          <img class="gallery-img" src="http://dailybruin.com/images/2016/02/web.news_.walkerE.OE_.jpg">
+          <img class="gallery-img" src="//dailybruin.com/images/2016/02/web.news_.walkerE.OE_.jpg">
 
-          <img class="gallery-img" src="http://dailybruin.com/images/2016/02/web.news_.walkerD.OE_.jpg">
+          <img class="gallery-img" src="//dailybruin.com/images/2016/02/web.news_.walkerD.OE_.jpg">
 
-          <img class="gallery-img" src="http://dailybruin.com/images/2016/02/web.news_.walkerC.OE_.jpg">
+          <img class="gallery-img" src="//dailybruin.com/images/2016/02/web.news_.walkerC.OE_.jpg">
 
-          <img class="gallery-img" src="http://dailybruin.com/images/2016/02/web.news_.walkerF.OE_.jpg">
+          <img class="gallery-img" src="//dailybruin.com/images/2016/02/web.news_.walkerF.OE_.jpg">
 
-          <img class="gallery-img" src="http://dailybruin.com/images/2016/02/web.news_.walkerB.OE_.jpg">
+          <img class="gallery-img" src="//dailybruin.com/images/2016/02/web.news_.walkerB.OE_.jpg">
 
         </div>
         <div class="large-6 large-offset-3">
@@ -115,14 +115,14 @@ Template Name: News - Making the Most
       </div>
 
       <div id="Michael-Anderson" class="content">
-        <img class="header-img" src="http://dailybruin.com/images/2016/02/web.ns_.anderson.OE_.PicA_.jpg">
+        <img class="header-img" src="//dailybruin.com/images/2016/02/web.ns_.anderson.OE_.PicA_.jpg">
         <div class="large-6 large-offset-3">
 
           <p class="gallerycaption">Michael Anderson, a fourth-year applied mathematics student, helped create a satellite that will go into space next year. Anderson is one of five students to win the True Bruin Distinguished Senior Award. (Owen Emerson/Daily Bruin senior staff)</p>
         </div>
         <div class="article large-6 large-offset-3">
          <div id="andersonmedal">
-           <img src="http://dailybruin.com/images/2016/02/news-anderson-medal.jpg">
+           <img src="//dailybruin.com/images/2016/02/news-anderson-medal.jpg">
            <p>(Rachel Zhu/Daily Bruin)</p>
          </div>
          <p>  In 2017, Michael Anderson will watch the UCLA Mission Operations Center launch his satellite into space.</p>
@@ -185,14 +185,14 @@ Template Name: News - Making the Most
 
 
      <div id="Christina-Springer" class="content">
-      <img class="header-img" src="http://dailybruin.com/images/2016/02/web.news_.springer.HY_.jpg">
+      <img class="header-img" src="//dailybruin.com/images/2016/02/web.news_.springer.HY_.jpg">
       <div class="large-6 large-offset-3">
 
         <p class="gallerycaption">Christina Springer, a fourth-year political science student, has a knack for analyzing political data. (Hannah Ye/Daily Bruin senior staff)</p>
       </div>
       <div class="article large-6 large-offset-3">
        <div id="andersonmedal">
-         <img src="http://dailybruin.com/images/2016/02/illo-christina-springer.png">
+         <img src="//dailybruin.com/images/2016/02/illo-christina-springer.png">
          <p>(Rachel Zhu/Daily Bruin)</p>
        </div>
        <p> As a child, Christina Springer stayed up late to watch TV newscasts on election night with her parents, writing the number of electoral votes in her pink Minnie Mouse notebook as they increased one by one, using them to make her own predictions. </p> She was fascinated by the idea that the individual votes of people across the country could determine who would become the President of the United States.</p>
@@ -233,13 +233,13 @@ Template Name: News - Making the Most
    </div> <!--end of springer tab-->
 
    <div id="Sophie-Tanaka" class="content">
-    <img class="header-img" src="http://dailybruin.com/images/2016/02/web.news_.tanaka.OE_.jpg">
+    <img class="header-img" src="//dailybruin.com/images/2016/02/web.news_.tanaka.OE_.jpg">
     <div class="large-6 large-offset-3">
       <p class="gallerycaption">True Bruin Distinguished Senior Award winner Sophie Tanaka is working to address the lack of women working in science, technology, engineering and mathematics fields. (Owen Emerson/Daily Bruin senior staff)</p>
     </div>
     <div class="article large-6 large-offset-3">
        <!-- <div id="andersonmedal">
-         <img src="http://dailybruin.com/images/2016/02/illo-christina-springer.png">
+         <img src="//dailybruin.com/images/2016/02/illo-christina-springer.png">
          <p>(Rachel Zhu/Daily Bruin)</p>
        </div> -->
        <p>Growing up, Sophie Tanaka remembers seeing her mother break down in tears at a bank, overwhelmed by simple math calculations.</p>
@@ -249,7 +249,7 @@ Template Name: News - Making the Most
        <p>Tanaka has conducted research since she was in community college. When she arrived at UCLA, she decided to design a study that would evaluate psychological and social factors behind women&#8217;s absence in STEM fields.</p>
        <p>Women account for over 50 percent of college students, but are still a minority group in STEM fields, Tanaka said.</p>
        <p>&#8220;The two fields that are the most lucrative and have the most growth are the fields in which women are most underrepresented,&#8221; Tanaka said.</p>
-       <p>Last year, the <a target="_blank" rel="nofollow" href="http://www.ugresearchsci.ucla.edu/urfp.htm">Undergraduate Research Fellows Program</a> funded Tanaka&#8217;s research. She later presented the conclusions from her study, which found some job applications were worded to discourage women from applying to jobs in STEM fields.</p>
+       <p>Last year, the <a target="_blank" rel="nofollow" href="//www.ugresearchsci.ucla.edu/urfp.htm">Undergraduate Research Fellows Program</a> funded Tanaka&#8217;s research. She later presented the conclusions from her study, which found some job applications were worded to discourage women from applying to jobs in STEM fields.</p>
        <p>Rebecca Sadwick, program manager of the digital technologies initiative at the center for innovation, said she heard about Tanaka&#8217;s research and thought she&#8217;d be a good fit for her project, which aimed to analyze existing literature on women in STEM fields and compile strategies for industry leaders to increase diversity.</p>
        <p>Sadwick said Tanaka, the only undergraduate student working on the project, demonstrated skills and maturity that exceeded what she expected of her graduate students.</p>
        <p>&#8220;I was incredibly impressed by her intellect and passion,&#8221; Sadwick said. &#8220;She could jump from one complex issue to another.&#8221;</p>
@@ -266,13 +266,13 @@ Template Name: News - Making the Most
    </div>
 
    <div id="Avinash-Malaviya" class="content">
-    <img class="header-img" src="http://dailybruin.com/images/2016/02/web.news_.malaviya.KMay_.jpg">
+    <img class="header-img" src="//dailybruin.com/images/2016/02/web.news_.malaviya.KMay_.jpg">
     <div class="large-6 large-offset-3">
       <p class="gallerycaption">Avinash Malaviya, a winner of the True Bruin Distinguished Senior Award, is working to combine his two loves: music and neuroscience. (Keila Mayberry/Daily Bruin staff)</p>
     </div>
     <div class="article large-6 large-offset-3">
            <!-- <div id="andersonmedal">
-             <img src="http://dailybruin.com/images/2016/02/illo-christina-springer.png">
+             <img src="//dailybruin.com/images/2016/02/illo-christina-springer.png">
              <p>(Rachel Zhu/Daily Bruin)</p>
            </div> -->
            <p>Six-year-old Avinash Malaviya&#8217;s piano teacher taught him to play by ear.</p>
@@ -285,7 +285,7 @@ Template Name: News - Making the Most
            <p>London is a psychiatry and behavioral science professor who works in the Semel Institute for Neuroscience and Human Behavior. Malaviya said her research focuses on addiction.</p>
            <p>Malaviya said he enjoys learning about different cultures, and takes a variety of ethnomusicology classes that focus on different regions. </p>
            <p>&#8220;The cross-cultural exposure isn&#8217;t something you necessarily get in another major,&#8221; Malaviya said.</p>
-           <figure id="attachment_251417" class="thumbnail wp-caption aligncenter" style="width: 300px"><a href="http://dailybruin.com/images/2016/02/web.news_.malaviya2.KMay_.jpg" rel="attachment wp-att-251417"><img alt="web.news.malaviya2.KMay.jpg" src="http://dailybruin.com/images/2016/02/web.news_.malaviya2.KMay_-300x197.jpg" data-uniq-id="2e6cb" width="300" height="197" class="aligncenter wp-image-251417" /></a><figcaption class="caption wp-caption-text">Malaviya is double majoring in ethnomusicology and neuroscience. (Keila Mayberry/Daily Bruin staff)</figcaption></figure>
+           <figure id="attachment_251417" class="thumbnail wp-caption aligncenter" style="width: 300px"><a href="//dailybruin.com/images/2016/02/web.news_.malaviya2.KMay_.jpg" rel="attachment wp-att-251417"><img alt="web.news.malaviya2.KMay.jpg" src="//dailybruin.com/images/2016/02/web.news_.malaviya2.KMay_-300x197.jpg" data-uniq-id="2e6cb" width="300" height="197" class="aligncenter wp-image-251417" /></a><figcaption class="caption wp-caption-text">Malaviya is double majoring in ethnomusicology and neuroscience. (Keila Mayberry/Daily Bruin staff)</figcaption></figure>
            <p>He added he hopes his exposure to different cultures will help him be more conscientious in the medical field.</p>
            <p>Anthony Mai, a fourth-year microbiology, immunology and molecular genetics student, said he is impressed Malaviya manages to balance his many responsibilities while still being a caring friend.</p>
            <p>&#8220;As busy as he is juggling two majors and heaps of extracurricular activities, he never ceases to amaze me<i> </i>with (how deeply) he cares,&#8221; Mai said.</p>

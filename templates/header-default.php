@@ -225,7 +225,7 @@
 						
 					<!--
 						<div class="row db-story below-header db-next hide-for-small">
-							<a href="http://campaign.dailybruin.com/">
+							<a href="//campaign.dailybruin.com/">
 							<div class="small-12 columns">
 								<h2 class="animated fadeInLeft">Daily Bruin and Bruinwalk.com need your help.&nbsp;</h2>
 								<button class="animated fadeInUp">&nbsp;Learn more&raquo;</button>
@@ -250,10 +250,10 @@
 							<?php endif; ?>
 						</div>
 						<div class="small-6 columns hide-for-small text-right social-right" style="margin:0;">
-							<a href="http://www.facebook.com/dailybruin" title="Facebook"><i class="fa fa-facebook"></i></a>
-							<a href="http://www.twitter.com/dailybruin" title="Twitter"><i class="fa fa-twitter"></i></a>
-							<a href="http://youtube.com/ucladailybruin" title="Youtube"><i class="fa fa-youtube-play"></i></a>
-							<a href="http://www.github.com/daily-bruin" title="GitHub"><i class="fa fa-github"></i></a>
-							<a href="http://dailybruin.com/feed" title="RSS"><i class="fa fa-rss"></i></a>
+							<a href="//www.facebook.com/dailybruin" title="Facebook"><i class="fa fa-facebook"></i></a>
+							<a href="//www.twitter.com/dailybruin" title="Twitter"><i class="fa fa-twitter"></i></a>
+							<a href="//youtube.com/ucladailybruin" title="Youtube"><i class="fa fa-youtube-play"></i></a>
+							<a href="//www.github.com/daily-bruin" title="GitHub"><i class="fa fa-github"></i></a>
+							<a href="//dailybruin.com/feed" title="RSS"><i class="fa fa-rss"></i></a>
 						</div>
 					</div>

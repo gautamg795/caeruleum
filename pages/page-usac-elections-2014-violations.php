@@ -3,8 +3,8 @@ Template Name: USAC Elections Campaign Violations 2014
 */ ?>
 
 <?php get_header(); ?>
-<meta property="og:image" content="http://dailybruin.com/images/2014/05/usac-election-2014-fbSharePhoto.png" />
-<link href="http://fonts.googleapis.com/css?family=Open+Sans|Dosis:400,800" rel="stylesheet" type="text/css" />
+<meta property="og:image" content="//dailybruin.com/images/2014/05/usac-election-2014-fbSharePhoto.png" />
+<link href="//fonts.googleapis.com/css?family=Open+Sans|Dosis:400,800" rel="stylesheet" type="text/css" />
 <!-- Le styles -->
     <link href="bootstrap.css" rel="stylesheet">
     <style type="text/css">
@@ -293,13 +293,13 @@ Template Name: USAC Elections Campaign Violations 2014
     <div class="navbar">
       <div class="navbar-inner" style="color:#3185c0">
         <div class="container-fluid">
-          <a class="brand" href="http://dailybruin.com/usac-elections-2014/">USAC Election 2014</a>
+          <a class="brand" href="//dailybruin.com/usac-elections-2014/">USAC Election 2014</a>
             <ul class="nav">
-              <li><a href="http://dailybruin.com/usac-elections-2014/">Home</a></li>
+              <li><a href="//dailybruin.com/usac-elections-2014/">Home</a></li>
               <li><a href="/usac-elections-2014/candidates">Candidates</a></li>
               <li><a href="/usac-elections-2014/endorsements">Endorsements</a></li>
               <li class="active"><a href="/usac-elections-2014/campaign-violations">Campaign Violations</a></li>
-              <li><a href="http://my.ucla.edu/">Vote Here</a></li>
+              <li><a href="//my.ucla.edu/">Vote Here</a></li>
 
             </ul>
         </div>
@@ -309,7 +309,7 @@ Template Name: USAC Elections Campaign Violations 2014
 <div class="row-fluid">
 
   <div class="span9">
-    <a title='USAC Elections' href='http://dailybruin.com/usac-elections-2014/'><img src='http://dailybruin.com/images/2014/05/usac-elections14-banner2.png' border='0'/></a> 
+    <a title='USAC Elections' href='//dailybruin.com/usac-elections-2014/'><img src='//dailybruin.com/images/2014/05/usac-elections14-banner2.png' border='0'/></a> 
     <br /><br />
 
  

@@ -148,7 +148,7 @@ Template Name: USAC Elections 2013
         <dd class="active"><a href="/">Home</a></dd>
           <dd><a href="/usac-elections-2013/candidates">Candidates</a></dd>
           <dd><a href="/usac-elections-2013/campaign-violations">Campaign Violations</a></dd>
-          <dd><a href="http://my.ucla.edu/">Vote Here</a></dd>
+          <dd><a href="//my.ucla.edu/">Vote Here</a></dd>
     </dl>
 </br>
 <div class="row">
@@ -433,7 +433,7 @@ Template Name: USAC Elections 2013
       <div class="large-4 columns">
       <br/>
         <div class = "button-group">
-          <a href="http://dailybruin.com/2013/05/06/editorial-board-2013-2014-usac-candidate-endorsements/
+          <a href="//dailybruin.com/2013/05/06/editorial-board-2013-2014-usac-candidate-endorsements/
 " role="button" data-toggle="modal">
             <button class="button" style="color:#009999">
               <div class="caption">
@@ -489,7 +489,7 @@ Template Name: USAC Elections 2013
       <div class="large-12 columns">
       <br/>
         <div class = "button-group">
-          <a href="http://dailybruin.com/2013/05/06/editorial-board-2013-2014-usac-candidate-endorsements/
+          <a href="//dailybruin.com/2013/05/06/editorial-board-2013-2014-usac-candidate-endorsements/
 " role="button" data-toggle="modal">
             <button class="button" style="color:#009999">
               <div class="caption">

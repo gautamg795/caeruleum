@@ -13,7 +13,7 @@ Template Name: Full-width series
     Description: Gymnastics Feature for Daily Bruin
     Version: 1.0
     Author: Aein Hope and Christina Yang
-    Author URI: http://aeiny.com
+    Author URI: //aeiny.com
 
   ------------------------------------------------------- */
   body {

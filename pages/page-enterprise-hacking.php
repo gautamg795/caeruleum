@@ -14,7 +14,7 @@ Template Name: Enterprise Hacking Feature
     width: 100%;
     height: 350px;
     background-color: black;
-    background-image: url('http://dailybruin.com/images/2013/10/codeCP_RGB.jpg');
+    background-image: url('//dailybruin.com/images/2013/10/codeCP_RGB.jpg');
     color: white;
     margin-bottom: 10px;
 }
@@ -109,12 +109,12 @@ Template Name: Enterprise Hacking Feature
 
 .eh-icon-link {
     width: 24px; height: 23px;
-    background: url('http://dailybruin.com/images/2013/10/glyphicons_050_link.png') no-repeat top left;
+    background: url('//dailybruin.com/images/2013/10/glyphicons_050_link.png') no-repeat top left;
 }
 
 .eh-icon-speaker {
     width: 24px; height: 26px;
-    background: url('http://dailybruin.com/images/2013/10/glyphicons_184_volume_up.png') no-repeat top left;
+    background: url('//dailybruin.com/images/2013/10/glyphicons_184_volume_up.png') no-repeat top left;
 }
 
 .eh-refer {
@@ -146,8 +146,8 @@ p {
 <p class="eh-published">October 14, 2013</p>
 
 <div class="eh-infobox eh-aside-right eh-refer">
-    <div><a href="http://dailybruin.com/2013/10/17/a-constant-threat-uc-attempts-to-balance-digital-privacy-security/"><div class="eh-icon eh-icon-link"></div>UC attempts to balance digital privacy, security</a></div>
-    <div><a href="http://dailybruin.com/2013/10/17/professor-discusses-2006-ucla-computer-security-breach/"><div class="eh-icon eh-icon-speaker"></div>Listen: Professor discusses 2006 UCLA computer security breach</a></div>
+    <div><a href="//dailybruin.com/2013/10/17/a-constant-threat-uc-attempts-to-balance-digital-privacy-security/"><div class="eh-icon eh-icon-link"></div>UC attempts to balance digital privacy, security</a></div>
+    <div><a href="//dailybruin.com/2013/10/17/professor-discusses-2006-ucla-computer-security-breach/"><div class="eh-icon eh-icon-speaker"></div>Listen: Professor discusses 2006 UCLA computer security breach</a></div>
 </div>
 <p>Earlier this summer, the UCLA Information Technology Security Office put up a new campus computer server &ndash; a routine practice.</p>
 <p>Fifteen minutes later, there had been 60,000 hacking attempts.</p>
@@ -158,13 +158,13 @@ p {
 <p>The trend has the University of California taking extra precautions.</p>
 
 <h2 class="eh-header">On the rise</h2>
-<img class="eh-aside-right" src="http://dailybruin.com/images/2013/10/CL.Hacking.Data_.copyedited.ai_.jpg"/>
+<img class="eh-aside-right" src="//dailybruin.com/images/2013/10/CL.Hacking.Data_.copyedited.ai_.jpg"/>
 <p>The threat is increasingly feared and fought &ndash; a breach of security in which the personal information of students, faculty or staff, such as social security numbers or credit card information, is stolen and sold on the black market.</p>
-<p>Earlier this year, The New York Times <a href="http://www.nytimes.com/2013/07/17/education/barrage-of-cyberattacks-challenges-campus-culture.html?_r=0">published an article</a> detailing how hacking attempts on major universities across the U.S., especially from China, are becoming more frequent.</p>
+<p>Earlier this year, The New York Times <a href="//www.nytimes.com/2013/07/17/education/barrage-of-cyberattacks-challenges-campus-culture.html?_r=0">published an article</a> detailing how hacking attempts on major universities across the U.S., especially from China, are becoming more frequent.</p>
 <p>The New York Timesarticle garnered concern from some UCLA employees, said Ross Bollens, chief information security officer at UCLA.</p>
 <p>&ldquo;I run around wringing my hands ... saying we should pay attention to this,&rdquo; Bollens said, laughing. &ldquo;That article, it was interesting, because I got an email from a vice chancellor saying &lsquo;Does this affect us?&rsquo; and four other emails ... It (finally) got their attention."</p>
 <p>He added that the Stanford incident this summer further emphasized to university officials that hackers are attacking major universities.</p>
-<p>Out of over 450 incidents of data breaches reported in 2013 so far, about 40 were at universities or university organizations, including Chapman University, the Columbia University Medical Center and Emory University, <a href="http://www.idtheftcenter.org/images/breach/ITRC_Breach_Report_2013.pdf">according to the Identity Theft Resource Center</a>.</p>
+<p>Out of over 450 incidents of data breaches reported in 2013 so far, about 40 were at universities or university organizations, including Chapman University, the Columbia University Medical Center and Emory University, <a href="//www.idtheftcenter.org/images/breach/ITRC_Breach_Report_2013.pdf">according to the Identity Theft Resource Center</a>.</p>
 <div class="eh-infobox eh-aside-left">
     <h3 class="eh-header">Did You Know?</h3>
     <p>UCLA network users can now have passwords as long as 128 characters. UCLA made the change so a user can even choose a sentence, such as a quote from their favorite book, as their password. Longer passwords are more secure.</p> 
@@ -176,14 +176,14 @@ p {
 <h2 class="eh-header">Breaches at UCLA</h2>
 <p>Bollens has worked for the UCLA Information Security Office for seven years. In that time, he has witnessed a number of minor system break-ins and major security breaches.</p>
 <p>The biggest breach of security UCLA has seen thus far occurred in 2006, when hackers attacked UCLA&rsquo;s administrative database, stealing thousands of Social Security Numbers.</p>
-<img class="eh-fullwidth" src="http://dailybruin.com/images/2013/10/Hacking_Timeline_copyedited.ai_.jpg"/>
+<img class="eh-fullwidth" src="//dailybruin.com/images/2013/10/Hacking_Timeline_copyedited.ai_.jpg"/>
 <p>Bollens had just started working at UCLA in August 2006, and in November the office discovered that a hack had been in continual motion for almost a year. A month later, the office sent out an email to 800,000 people &ndash; including people who had only applied to the university &ndash; warning them that their Social Security information may be at risk.</p>
-<p>The announcement sent shockwaves through university and IT communities. At the time, the 2006 breach was considered &ldquo;one of the largest computer security breaches ever at an American university,&rdquo; <a href="http://articles.latimes.com/2006/dec/12/local/me-ucla12">according to the Los Angeles Times</a>.</p>
-<p>UCLA even <a href="http://dailybruin.com/2008/01/09/database-breach-investigation-ongoing/">called in the FBI to investigate</a>, who eventually discovered that the attack came from China, Bollens said.</p>
+<p>The announcement sent shockwaves through university and IT communities. At the time, the 2006 breach was considered &ldquo;one of the largest computer security breaches ever at an American university,&rdquo; <a href="//articles.latimes.com/2006/dec/12/local/me-ucla12">according to the Los Angeles Times</a>.</p>
+<p>UCLA even <a href="//dailybruin.com/2008/01/09/database-breach-investigation-ongoing/">called in the FBI to investigate</a>, who eventually discovered that the attack came from China, Bollens said.</p>
 <p>He added that they later figured out only a portion of the larger net of people actually had their Social Security numbers stolen &ndash; about 20,000 people.</p>
 <p>Bollens said the 2006 incident was one of the only examples of a real &ldquo;breach,&rdquo; in which personal information is threatened, at UCLA.</p>
 <p>An instance at the UCLA Medical Center in 2008 involved an employee who had access to celebrity medical information and exploited her access to sell the information to a tabloid magazine.</p>
-<img class="eh-aside-left" src="http://dailybruin.com/images/2013/10/10.17.news_.cl_.hacking.breach.copyedited.ai_.jpg"/>
+<img class="eh-aside-left" src="//dailybruin.com/images/2013/10/10.17.news_.cl_.hacking.breach.copyedited.ai_.jpg"/>
 <p>Most of all, Bollens said he has seen an increase in schemes that try to dupe students, which can be easily avoided.</p>
 <p>&ldquo;Because there are so many technological advances, the hackers have to resort to social engineering,&rdquo; he said. &ldquo;(They) have to get you involved as part of the scheme.&rdquo;</p>
 <p>Bollens said one of the most common scenarios at UCLA involves an email supposedly coming from the UCLA Bruin OnLine office, asking students to input their username and password to verify them on a site that looks valid. But the link leads to a third-party web host set up by hackers to steal the information.</p>
@@ -200,7 +200,7 @@ p {
 
 <h2 class="eh-header">Plan of action</h2>
 <p>The UC has consistently modified its plan of action in case of a major breach of security. The UC Privacy and Data Security Incident Response Plan, last updated in 2011, contains a broad plan in the case of a security breach, detailing campus-to-campus contacts, and also outlining a notification email and steps to take according to California law.</p>
-<p>Bollens said he thinks California has one of the most stringent data security laws in the nation. <a href="http://www.leginfo.ca.gov/cgi-bin/calawquery?codesection=civ&codebody=&hits=20">California laws</a> stipulate conditions for disclosing breaches to affected individuals and lay out penalties for gaining access to information under false pretenses, among other provisions.</p>
+<p>Bollens said he thinks California has one of the most stringent data security laws in the nation. <a href="//www.leginfo.ca.gov/cgi-bin/calawquery?codesection=civ&codebody=&hits=20">California laws</a> stipulate conditions for disclosing breaches to affected individuals and lay out penalties for gaining access to information under false pretenses, among other provisions.</p>
 <p>And the UC goes further, he said.</p>
 <p>UCLA has a policy, Policy 420, drafted by Bollens, which details how to handle a breach at the campus level.</p>
 <div class="eh-infobox eh-aside-right">

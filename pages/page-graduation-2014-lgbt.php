@@ -159,49 +159,49 @@ h2 span {
 
                 <a data-toggle="modal" href="#myModal">
       <div class="vignette-photo img-polaroid" style="text-align: right;">
-        <img src="http://dailybruin.com/images/2014/06/leiza_castillo_mug.jpg">
+        <img src="//dailybruin.com/images/2014/06/leiza_castillo_mug.jpg">
         <h2><span>Leiza Castillo</span><h2>
       </div>
       </a>
 
                 <a data-toggle="modal" href="#myModal2">
       <div class="vignette-photo img-polaroid" style="text-align: left;">
-        <img src="http://dailybruin.com/images/2014/06/kerry_chaplin_mug.jpg">
+        <img src="//dailybruin.com/images/2014/06/kerry_chaplin_mug.jpg">
         <h2><span>Kerry Chaplin</span><h2>
       </div>
       </a>
 
                 <a data-toggle="modal" href="#myModal3">
       <div class="vignette-photo img-polaroid" style="text-align: left;">
-        <img src="http://dailybruin.com/images/2014/06/merry_drake_mug.jpg">
+        <img src="//dailybruin.com/images/2014/06/merry_drake_mug.jpg">
         <h2><span>Merry Drake</span><h2>
       </div>
       </a>
 
                 <a data-toggle="modal" href="#myModal4">
       <div class="vignette-photo img-polaroid" style="text-align: left;">
-        <img src="http://dailybruin.com/images/2014/06/sam_haws_mug.jpg">
+        <img src="//dailybruin.com/images/2014/06/sam_haws_mug.jpg">
         <h2><span>Sam Haws</span><h2>
       </div>
       </a>
 
                 <a data-toggle="modal" href="#myModal5">
       <div class="vignette-photo img-polaroid" style="text-align: left;">
-        <img src="http://dailybruin.com/images/2014/06/shen_heckel_mug.jpg">
+        <img src="//dailybruin.com/images/2014/06/shen_heckel_mug.jpg">
         <h2><span>Shen Heckel</span><h2>
       </div>
       </a>
 
                 <a data-toggle="modal" href="#myModal6">
       <div class="vignette-photo img-polaroid" style="text-align: right;">
-        <img src="http://dailybruin.com/images/2014/06/natalie_kirsten_mug.jpg">
+        <img src="//dailybruin.com/images/2014/06/natalie_kirsten_mug.jpg">
         <h2><span>Natalie Kirsten</span><h2>
       </div>
       </a>
 
                 <a data-toggle="modal" href="#myModal7">
       <div class="vignette-photo img-polaroid" style="text-align: left;">
-        <img src="http://dailybruin.com/images/2014/06/steven_mion_mug.jpg">
+        <img src="//dailybruin.com/images/2014/06/steven_mion_mug.jpg">
         <h2><span>Steven Mion</span><h2>
       </div>
       </a>
@@ -214,7 +214,7 @@ h2 span {
               <h3 id="myModalLabel">Leiza Castillo</h3>
             </div>
             <div class="modal-body">
-              <img src="http://dailybruin.com/images/2014/06/leiza_castillo.jpg"><br/><br/>
+              <img src="//dailybruin.com/images/2014/06/leiza_castillo.jpg"><br/><br/>
               <p>In one year, Leiza Castillo went from being an atheist to one of the co-leaders of an LGBT Catholic group.</p>
 
               <p>Castillo, a third-year English student who identifies as lesbian and Catholic, immigrated from the Philippines to the United States when she was 5 years old. She said she was raised Catholic, but her family lost touch with their faith when they got to the U.S.</p>
@@ -242,7 +242,7 @@ h2 span {
               <h3 id="myModalLabel">Kerry Chaplin</h3>
             </div>
             <div class="modal-body">
-              <img src="http://dailybruin.com/images/2014/06/kerry_chaplin.jpg"><br/><br/>
+              <img src="//dailybruin.com/images/2014/06/kerry_chaplin.jpg"><br/><br/>
               <p>Kerry Chaplin still remembers picking up the phone about 10 years ago to break the news to two rabbinical schools she desperately wanted to attend. She told them she needed to withdraw her application because she was gay and wasn't allowed to apply.</p>
 
               <p>Even when the Ziegler School of Rabbinic Studies changed its policy in 2005 to allow applications from members of the LGBT community, Chaplin, a rabbinic intern for Hillel at UCLA, distanced herself from her faith.</p>
@@ -268,7 +268,7 @@ h2 span {
               <h3 id="myModalLabel">Merry Drake</h3>
             </div>
             <div class="modal-body">
-              <img src="http://dailybruin.com/images/2014/06/merry_drake.jpg"><br/><br/>
+              <img src="//dailybruin.com/images/2014/06/merry_drake.jpg"><br/><br/>
               <p><i>Editor's note: At Merry Drake's request, the Daily Bruin refers to Drake as "they."</i></p>
 
               <p>Merry Drake sleeps on the floor of their friend's dorm some nights to attend the late-night meetings for the three campus Christian groups they are a part of.</p>
@@ -294,7 +294,7 @@ h2 span {
               <h3 id="myModalLabel">Sam Haws</h3>
             </div>
             <div class="modal-body">
-              <img src="http://dailybruin.com/images/2014/06/sam_haws.jpg"><br/><br/>
+              <img src="//dailybruin.com/images/2014/06/sam_haws.jpg"><br/><br/>
               <p>Sam Haws remembers campaigning with his family to ban gay marriage in California in 2008.</p>
 
               <p>Just a few years later, he told them he was queer.</p>
@@ -324,7 +324,7 @@ h2 span {
               <h3 id="myModalLabel">Shen Heckel</h3>
             </div>
             <div class="modal-body">
-              <img src="http://dailybruin.com/images/2014/06/shen_heckel.jpg"><br/><br/>
+              <img src="//dailybruin.com/images/2014/06/shen_heckel.jpg"><br/><br/>
     
               <p>For Shen Heckel, abandoning his faith was never an option. It was his emerging gender identity that he wanted to run away from. </p>
 
@@ -351,7 +351,7 @@ h2 span {
               <h3 id="myModalLabel">Natalie Kirsten</h3>
             </div>
             <div class="modal-body">
-              <img src="http://dailybruin.com/images/2014/06/natalie_kirsten.jpg"><br/><br/>
+              <img src="//dailybruin.com/images/2014/06/natalie_kirsten.jpg"><br/><br/>
               <p>The gay-straight alliance club at Natalie Kirsten's 2,000-student high school consisted of three people.</p>
 
               <p>"Nobody talked about (the LGBT community). ... Nobody was out to their parents. It wasn't accepted," said Kirsten, a first-year undeclared student who identifies as lesbian and Christian.</p>
@@ -381,7 +381,7 @@ h2 span {
               <h3 id="myModalLabel">Steven Mion</h3>
             </div>
             <div class="modal-body">
-              <img src="http://dailybruin.com/images/2014/06/steven_mion.jpg"><br/><br/>
+              <img src="//dailybruin.com/images/2014/06/steven_mion.jpg"><br/><br/>
               <p>When Steven Mion came out in high school he had the full support of his family and church, who he said were overwhelmingly accepting of the LGBT community.</p>
 
               <p>"I don't think I appreciated that I got a huge burden off my shoulders at the time. ... A lot of people found resistance there, and I could find support. I could find affirmation there," said Mion, a first-year political science student who identifies as gay and Methodist.</p>

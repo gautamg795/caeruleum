@@ -11,10 +11,10 @@
 			<div id="place-ad">
 				<div class="side-info">
 					<div class="btn-group classifieds-button-group text-center">
-						<a href="http://dailybruin.com/images/ads/classifieds_rates.pdf" class="text-center">
+						<a href="//dailybruin.com/images/ads/classifieds_rates.pdf" class="text-center">
 							<button><i class="fa fa-bars"></i> Rates</button>
 						</a>
-						<a href="http://dailybruin.com/images/ads/classifieds_calendar.pdf" class="text-center">
+						<a href="//dailybruin.com/images/ads/classifieds_calendar.pdf" class="text-center">
 							<button><i class="fa fa-calendar"></i> Publication Calendar</button>
 						</a>
 					</div><!-- end div.btn-group -->

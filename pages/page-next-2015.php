@@ -8,7 +8,7 @@ Template Name: Next 2015
 	<div class="db-off-canvas-wrap db-content">
 		<div class="row">
 			<div class="main-video">
-				<img src="http://dailybruin.com/images/2015/03/Web-Cover.jpg"/>
+				<img src="//dailybruin.com/images/2015/03/Web-Cover.jpg"/>
 <!-- 				<div class="flex-video widescreen">
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/pZ12_E5R3qc?autoplay=0&controls=0&showinfo=0&rel=0" frameborder="0" allowfullscreen></iframe>
 				</div> -->
@@ -21,10 +21,10 @@ Template Name: Next 2015
 						<div class="large-7 columns">
 							<h3>Developing on the Stack</h3>
 							<p>We want to have a space where our developers are free to create and experiment with online journalism. The Daily Bruin Online department is creating <a href="//stack.dailybruin.com">the Stack, a blog to do just that</a>. The Stack will be a constant feed from our Online department with creations – small and large – and a behind-the-scenes view of how we are making digital content. We are focusing on providing a restriction-free environment so developers can build what they want, when they want, and pursue projects that push the boundaries of modern journalism.</p></div>
-						<div class="large-5 columns"><a href="//stack.dailybruin.com"><img src="http://dailybruin.com/images/2015/03/stackss.png"/></a></div>
+						<div class="large-5 columns"><a href="//stack.dailybruin.com"><img src="//dailybruin.com/images/2015/03/stackss.png"/></a></div>
 					</div>
 					<div class="row">
-						<div class="large-5 columns"><img src="http://dailybruin.com/images/2015/03/Old-New.jpg"/></div>
+						<div class="large-5 columns"><img src="//dailybruin.com/images/2015/03/Old-New.jpg"/></div>
 						<div class="large-7 columns">
 							<h3>Modern design for a modern audience</h3>
 							<p>The Daily Bruin is working on revamping our design. The new site design is just one piece in that effort. We are focusing on a consistent modern look across all of our platforms. That is why you may notice similarities between our print design and web design.</p>
@@ -34,10 +34,10 @@ Template Name: Next 2015
 					<div class="row">
 						<div class="large-7 columns">
 							<h3>Engaging readers online</h3>
-							<p>Our readership is clearly moving online. We know how important it is to have a strong stable social media presence since most of our views come from links on <a href="http://facebook.com/dailybruin">Facebook</a> and <a href="http://twitter.com/dailybruin">Twitter</a>.</p>
+							<p>Our readership is clearly moving online. We know how important it is to have a strong stable social media presence since most of our views come from links on <a href="//facebook.com/dailybruin">Facebook</a> and <a href="//twitter.com/dailybruin">Twitter</a>.</p>
 							<p>To maintain that presence, we are simultaneously working on improving the content of our posts to be as reader-friendly as possible while also <a href="https://github.com/daily-bruin/meow">working on digital tools to help us produce posts seamlessly</a>.</p>
 						</div>
-						<div class="large-5 columns"><img src="http://dailybruin.com/images/2015/03/Social-Media.jpg"/></div>
+						<div class="large-5 columns"><img src="//dailybruin.com/images/2015/03/Social-Media.jpg"/></div>
 					</div>
 				</div>
 			</div>

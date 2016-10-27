@@ -55,7 +55,7 @@ Template Name: Radio Humanities
 			<p><b>ALARKON:</b> Ezekiel Trautenberg is a TA for Spanish 5, an intermediate-level course.</p>
 
 			<div class="image">
-				<img src="http://dailybruin.com/images/2016/03/royce.jpg">
+				<img src="//dailybruin.com/images/2016/03/royce.jpg">
 				<span class="caption">(Katrina Alarkon/Daily Bruin)</span>
 			</div>
 
@@ -113,7 +113,7 @@ Template Name: Radio Humanities
 			<p><b>Hanna-Harwell:</b>  So that particular budget problem was solved internally within the campus. And I should add, it’s not a problem that the humanities uniquely faced. It was part of a bigger problem that has been faced by most if not all of our academic units on campus. (5:28-5:57)</p>
 
 			<div class="image">
-				<img src="http://dailybruin.com/images/2016/03/IMG_20160229_110849.jpg">
+				<img src="//dailybruin.com/images/2016/03/IMG_20160229_110849.jpg">
 				<span class="caption">(Owen Emerson/Daily Bruin)</span>
 			</div>
 
@@ -160,7 +160,7 @@ Template Name: Radio Humanities
 			<p><b>Izaguirre:</b>  Kirsner's opposition to the merger is rooted in his love for language. As a linguist, he emphasizes the importance of language in personal connection:</p>
 
 			<div class="image">
-				<img src="http://dailybruin.com/images/2016/03/3.4.radio_.humanities.edit2a.png">
+				<img src="//dailybruin.com/images/2016/03/3.4.radio_.humanities.edit2a.png">
 				<span class="caption">Daily Bruin Graphics</span>
 			</div>
 

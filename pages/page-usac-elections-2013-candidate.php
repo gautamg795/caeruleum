@@ -97,7 +97,7 @@ div #preload { display: none; }
         <dd><a href="/">Home</a></dd>
           <dd class="active"><a href="/usac-elections-2013/candidates">Candidates</a></dd>
           <dd><a href="/usac-elections-2013/campaign-violations">Campaign Violations</a></dd>
-          <dd><a href="http://my.ucla.edu/">Vote Here</a></dd>
+          <dd><a href="//my.ucla.edu/">Vote Here</a></dd>
     </dl>
 
     <div id='content' class='row navigation'>

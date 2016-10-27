@@ -144,7 +144,7 @@
           	<?php if(!$video_story): ?>
             <div class="row text-center">
               <h4 class="small-6 columns">
-              	<a href="https://www.facebook.com/sharer/sharer.php?u=http://dailybruin.com<?php the_permalink(); ?>" target="_blank" >
+              	<a href="https://www.facebook.com/sharer/sharer.php?u=//dailybruin.com<?php the_permalink(); ?>" target="_blank" >
               		<i class="fa fa-facebook fa-lg"></i>&nbsp;Share
               	</a>
               </h4>
@@ -179,11 +179,11 @@
 							$numc = intval(ceil($numberOfPaws));
 							echo '<div class="infobox-paws">';
 							for($i = 0; $i < $numf; $i++)
-								echo '<img src="http://dailybruin.com/images/paws/full.png" />';
+								echo '<img src="//dailybruin.com/images/paws/full.png" />';
 							if($numf != $numc)
-								echo '<img src="http://dailybruin.com/images/paws/half.png" />';
+								echo '<img src="//dailybruin.com/images/paws/half.png" />';
 							for($i = $numc; $i < 5; $i++)
-								echo '<img src="http://dailybruin.com/images/paws/blank.png" />';
+								echo '<img src="//dailybruin.com/images/paws/blank.png" />';
 							echo '</div><!-- end div.infobox-paws -->';
 						} 
 						?>
@@ -227,7 +227,7 @@
 						}
 						$twitter = get_the_author_meta( 'twitter_handle', $author->ID );
 						?>
-						<img src="http://dailybruin.com/images/2016/04/doublelines.jpg"/>
+						<img src="//dailybruin.com/images/2016/04/doublelines.jpg"/>
 					    <div class="author-wrapper">
 			                <div class="row author-box">
 			                  <div class="large-12 medium-12 small-12 columns author-title">
@@ -312,7 +312,7 @@
 			                    <div class="twitter large-3 medium-3 columns show-for-medium-up">
 			                      <?php if ( $twitter): ?>
 			                        <p><span class="entypo-twitter"></span>  
-			                        <a class="twitter-follow-button" data-show-count="false" href="http://twitter.com/<?php the_author_meta('twitter', $author->ID );?>">
+			                        <a class="twitter-follow-button" data-show-count="false" href="//twitter.com/<?php the_author_meta('twitter', $author->ID );?>">
 			                          <?php echo $twitter; ?>
 			                        </a>
 			                      <?php endif; ?>
@@ -331,7 +331,7 @@
 				                    <div class="twitter small-3 columns">
 				                      <?php if ( $twitter): ?>
 				                        <p><span class="entypo-twitter"></span>  
-				                        <a class="twitter-follow-button" data-show-count="false" href="http://twitter.com/<?php the_author_meta('twitter', $author->ID );?>">
+				                        <a class="twitter-follow-button" data-show-count="false" href="//twitter.com/<?php the_author_meta('twitter', $author->ID );?>">
 				                          <?php echo get_the_author_meta( 'twitter_handle', $author->ID ); ?> 
 				                        </a>
 				                      <?php endif; ?>

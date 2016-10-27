@@ -21,12 +21,12 @@ $gallery1 = $nggdb->get_gallery($gallery, 'sortorder', 'ASC', true, 0, 0);
 <script type="text/javascript" src="https://www.google.com/jsapi"></script>
 
 <!-- 1. Link to jQuery (1.8 or later), -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> <!-- 33 KB -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> <!-- 33 KB -->
 <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
 <!-- fotorama.css & fotorama.js. -->
-<link  href="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet"> <!-- 3 KB -->
-<script src="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script> <!-- 16 KB -->
+<link  href="//cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet"> <!-- 3 KB -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script> <!-- 16 KB -->
 <!-- 2. Add images to <div class="fotorama"></div>. -->
 <script type="text/javascript">
 /* dataprocessor.js */
@@ -256,7 +256,7 @@ function generateCharts(i){
 	}
 
 	#cardimg{
-		/*background: url("http://dailybruin.com/images/galleries/ucla-reks-cal/AYEO0740.jpg") no-repeat fixed;*/
+		/*background: url("//dailybruin.com/images/galleries/ucla-reks-cal/AYEO0740.jpg") no-repeat fixed;*/
 		height: 240px;
 		width: auto;
 		overflow: hidden;
@@ -363,7 +363,7 @@ function generateCharts(i){
 <div class="container">
 	<div class="row">
 		<img src="<?php echo $banner_image; ?>" >
-		<!--<img src="http://dailybruin.com/images/2014/10/colorado-banner.jpg">-->
+		<!--<img src="//dailybruin.com/images/2014/10/colorado-banner.jpg">-->
 <!-- 		<div class="large-12 columns">
 			<img src=<?php echo $banner_image_url; ?> > 
 		</div> -->

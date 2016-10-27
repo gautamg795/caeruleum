@@ -125,7 +125,7 @@
                         <div class="twitter large-3 medium-3 small-3 columns">
                           <?php if ( $twitter): ?>
                             <p><span class="entypo-twitter"></span>  
-                            <a class="twitter-follow-button" data-show-count="false" href="http://twitter.com/<?php the_author_meta('twitter' );?>">
+                            <a class="twitter-follow-button" data-show-count="false" href="//twitter.com/<?php the_author_meta('twitter' );?>">
                               <?php echo $twitter;?>
                             </a>
                           <?php endif; ?>

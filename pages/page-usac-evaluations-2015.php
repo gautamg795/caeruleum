@@ -118,7 +118,7 @@ Template Name: USAC Evaluations 2015
 			<h3 class="click">Click on the photos below to see each officer's evaluation.</h3>
 			<!-- <div class="small-12 columns council">
 				<a href="/">
-					<img src="http://dailybruin.com/images/2015/04/council2015.jpg"/>
+					<img src="//dailybruin.com/images/2015/04/council2015.jpg"/>
 					<h2 class="hover-council">Council wide evaluation</h2>
 				</a>
 			</div> -->

@@ -2,10 +2,10 @@
 Template Name: Registration Issue 2014
 */ ?>
 <?php get_header(); ?>
-<link href='http://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:700' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:700' rel='stylesheet' type='text/css'>
 <style>
     #regissue-cover {
-        background-image: url('http://dailybruin.com/images/2014/09/Background-Landing-RGB-Crop1.jpg');
+        background-image: url('//dailybruin.com/images/2014/09/Background-Landing-RGB-Crop1.jpg');
         background-size: contain;
         background-repeat: no-repeat;
     }
@@ -133,22 +133,22 @@ Template Name: Registration Issue 2014
             <h2 class="reg-section-title">News</h2>
             <ul>
                 <li>
-                <a href="http://dailybruin.com/2014/09/28/napolitanos-first-year-as-uc-president-draws-mixed-criticism-praise/">
+                <a href="//dailybruin.com/2014/09/28/napolitanos-first-year-as-uc-president-draws-mixed-criticism-praise/">
                 Napolitano's Year in Office
                 </a>
                 </li>
                 <li>
-                <a href="http://dailybruin.com/2014/09/28/usac-launches-all-of-us-mental-health-awareness-campaign/">
+                <a href="//dailybruin.com/2014/09/28/usac-launches-all-of-us-mental-health-awareness-campaign/">
                 Mental Health Campaign
                 </a>
                 </li>
                 <li>
-                <a href="http://dailybruin.com/2014/09/28/ucla-lecturers-work-on-prison-program-allows-inmates-exposure-to-arts/">
+                <a href="//dailybruin.com/2014/09/28/ucla-lecturers-work-on-prison-program-allows-inmates-exposure-to-arts/">
                 The Artist Inside
                 </a>
                 </li>
                 <li>
-                <a href="http://dailybruin.com/2014/09/28/mentor-seeks-education-reform-to-benefit-underserved-youth/">
+                <a href="//dailybruin.com/2014/09/28/mentor-seeks-education-reform-to-benefit-underserved-youth/">
                 Teaching From Experience
                 </a>
                 </li>
@@ -158,22 +158,22 @@ Template Name: Registration Issue 2014
             <h2 class="reg-section-title">Sports</h2>
             <ul>
                 <li>
-                    <a href="http://dailybruin.com/2014/09/28/freshman-defender-chase-gasper-emerges-as-one-of-nations-top-prospects/">
+                    <a href="//dailybruin.com/2014/09/28/freshman-defender-chase-gasper-emerges-as-one-of-nations-top-prospects/">
                     Chasing His Dreams
                     </a>
                 </li>
                 <li>
-                    <a href="http://dailybruin.com/2014/09/26/silencing-doubts-brett-hundley-returns-to-field-to-knock-out-asu/">
+                    <a href="//dailybruin.com/2014/09/26/silencing-doubts-brett-hundley-returns-to-field-to-knock-out-asu/">
                     Desert Stormed
                     </a>
                 </li>
                 <li>
-                    <a href="http://dailybruin.com/2014/09/28/ucla-footballs-nate-iese-shuffles-through-many-positions-finds-niche/">
+                    <a href="//dailybruin.com/2014/09/28/ucla-footballs-nate-iese-shuffles-through-many-positions-finds-niche/">
                     Strong Side Story
                     </a>
                 </li>
                 <li>
-                    <a href="http://dailybruin.com/2014/09/28/womens-soccers-megan-oyster-finds-her-center-through-adaptability/">
+                    <a href="//dailybruin.com/2014/09/28/womens-soccers-megan-oyster-finds-her-center-through-adaptability/">
                     From Adapting to Impacting
                     </a>
                 </li>
@@ -183,22 +183,22 @@ Template Name: Registration Issue 2014
             <h2 class="reg-section-title">A&E</h2>
             <ul>
                 <li>
-                    <a href="http://dailybruin.com/2014/09/28/singer-continues-ucla-education-after-decades-of-performing/">
+                    <a href="//dailybruin.com/2014/09/28/singer-continues-ucla-education-after-decades-of-performing/">
                     Singer Sandra Starks
                     </a>
                 </li>
                 <li>
-                <a href="http://dailybruin.com/2014/09/28/fans-pay-homage-to-marilyn-monroe-at-westwood-village-memorial-park/">
+                <a href="//dailybruin.com/2014/09/28/fans-pay-homage-to-marilyn-monroe-at-westwood-village-memorial-park/">
                 Westwood Village Memorial Park
                 </a>
                 </li>
                 <li>
-                <a href="http://dailybruin.com/2014/09/23/additions-to-bruin-bash-carnival-compensate-for-concert-venue-change/">
+                <a href="//dailybruin.com/2014/09/23/additions-to-bruin-bash-carnival-compensate-for-concert-venue-change/">
                 Bruin Bash
                 </a>
                 </li>
                 <li>
-                <a href="http://dailybruin.com/2014/09/28/flavors-of-westwood-house-of-meatballs-to-offer-affordable-authentic-italian-food/">
+                <a href="//dailybruin.com/2014/09/28/flavors-of-westwood-house-of-meatballs-to-offer-affordable-authentic-italian-food/">
                 Flavors of Westwood
                 </a>
                 </li>
@@ -208,22 +208,22 @@ Template Name: Registration Issue 2014
             <h2 class="reg-section-title">Opinion</h2>
             <ul>
                 <li>
-                <a href="http://dailybruin.com/2014/09/28/travis-fife-students-should-be-able-to-define-own-college-experience/">
+                <a href="//dailybruin.com/2014/09/28/travis-fife-students-should-be-able-to-define-own-college-experience/">
                 On Higher Education
                 </a>
                 </li>
                 <li>
-                <a href="http://dailybruin.com/2014/09/28/zoey-freedman-common-books-with-contemporary-themes-could-help-students-connect/">
+                <a href="//dailybruin.com/2014/09/28/zoey-freedman-common-books-with-contemporary-themes-could-help-students-connect/">
                 On the Common Book
                 </a>
                 </li>
                 <li>
-                <a href="http://dailybruin.com/2014/09/28/aram-ghoogasian-hostility-in-usac-fall-election-may-hinder-future-progress/">
+                <a href="//dailybruin.com/2014/09/28/aram-ghoogasian-hostility-in-usac-fall-election-may-hinder-future-progress/">
                 On USAC Elections
                 </a>
                 </li>
                 <li>
-                <a href="http://dailybruin.com/2014/09/28/chloe-lew-more-discussion-on-sexual-assault-needed-to-foster-conscious-community/">
+                <a href="//dailybruin.com/2014/09/28/chloe-lew-more-discussion-on-sexual-assault-needed-to-foster-conscious-community/">
                 On Sexual Assault
                 </a>
                 </li>
@@ -232,39 +232,39 @@ Template Name: Registration Issue 2014
         </div>
 
         <div class="row" id="read-all">
-            <span><a href="http://dailybruin.com/tag/reg2014/">Read all registration issue stories &rarr;</a></span>
+            <span><a href="//dailybruin.com/tag/reg2014/">Read all registration issue stories &rarr;</a></span>
         </div>
 
         <div class="row" id="feature-stories" >
-            <a href="http://dailybruin.com/2014/09/28/persistence-proves-instrumental-to-sixth-year-bruins-success/">
+            <a href="//dailybruin.com/2014/09/28/persistence-proves-instrumental-to-sixth-year-bruins-success/">
             <div class="large-4 columns feature-img-1">
-                <img src="http://dailybruin.com/images/2014/09/News-CoverPhoto.jpg">
+                <img src="//dailybruin.com/images/2014/09/News-CoverPhoto.jpg">
                 <h2>Playing His Forte</h2>
             </div>   
             </a>   
-            <a href="http://dailybruin.com/2014/09/28/reily-buechlers-father-grows-from-volleyball-coach-to-her-biggest-fan/">
+            <a href="//dailybruin.com/2014/09/28/reily-buechlers-father-grows-from-volleyball-coach-to-her-biggest-fan/">
             <div class="large-4 columns feature-img-1">
-                <img src="http://dailybruin.com/images/2014/10/regissue-sports.jpg">
+                <img src="//dailybruin.com/images/2014/10/regissue-sports.jpg">
                 <h2>Nothing But Net</h2>
             </div>
             </a>
             <div class="large-4 columns sidebar">
-                <a href="http://dailybruin.com/2014/09/28/ucla-lecturers-work-on-prison-program-allows-inmates-exposure-to-arts/">
+                <a href="//dailybruin.com/2014/09/28/ucla-lecturers-work-on-prison-program-allows-inmates-exposure-to-arts/">
                 <div class="feature-img-2">
-                    <img src="http://dailybruin.com/images/2014/09/web.ns_.reg_.skelly.onlineonly.jpg">
+                    <img src="//dailybruin.com/images/2014/09/web.ns_.reg_.skelly.onlineonly.jpg">
                     <h5>Prison Arts Program</h5>
                 </div>
                 </a>
-                <a href="http://dailybruin.com/2014/09/28/fans-pay-homage-to-marilyn-monroe-at-westwood-village-memorial-park/">
+                <a href="//dailybruin.com/2014/09/28/fans-pay-homage-to-marilyn-monroe-at-westwood-village-memorial-park/">
                 <div class="feature-img-2">
-                    <img src="http://dailybruin.com/images/2014/09/web.ae_.reg_.westwoodmemorial.picB_-640x4801.jpg">
+                    <img src="//dailybruin.com/images/2014/09/web.ae_.reg_.westwoodmemorial.picB_-640x4801.jpg">
                     <h5>Radio: Westwood Village Memorial Park</h5>
                 </div>
                 </a>
 
-                <a href="http://dailybruin.com/2014/09/28/ucla-footballs-nate-iese-shuffles-through-many-positions-finds-niche/">
+                <a href="//dailybruin.com/2014/09/28/ucla-footballs-nate-iese-shuffles-through-many-positions-finds-niche/">
                 <div class="feature-img-2">
-                    <img src="http://dailybruin.com/images/2014/09/web.sp_.regissue.nateiese-640x427.jpg">
+                    <img src="//dailybruin.com/images/2014/09/web.sp_.regissue.nateiese-640x427.jpg">
                     <h5>Strong Side Story</h5>
                 </div>
                 </a>
@@ -274,34 +274,34 @@ Template Name: Registration Issue 2014
             </div>
         </div>
         <div class="row">
-            <a href="http://dailybruin.com/2014/09/28/samah-pirzada-positive-dialogue-about-mental-health-necessary-to-erase-stigma/">
+            <a href="//dailybruin.com/2014/09/28/samah-pirzada-positive-dialogue-about-mental-health-necessary-to-erase-stigma/">
             <div class="large-4 columns feature-img-1">
-                <img src="http://dailybruin.com/images/2014/09/Opinion-CoverPhoto.jpg">
+                <img src="//dailybruin.com/images/2014/09/Opinion-CoverPhoto.jpg">
                 <h2>On Mental Health</h2>
             </div>
             </a>
-            <a href="http://dailybruin.com/2014/09/28/ucla-alum-creates-music-light-show-at-walt-disney-concert-hall/">
+            <a href="//dailybruin.com/2014/09/28/ucla-alum-creates-music-light-show-at-walt-disney-concert-hall/">
             <div class="large-4 columns feature-img-1">
-                <img src="http://dailybruin.com/images/2014/09/AE-CoverPhoto.jpg">
+                <img src="//dailybruin.com/images/2014/09/AE-CoverPhoto.jpg">
                 <h2>Lighting Up LA</h2>
             </div>
             </a>
             <div class="large-4 columns sidebar">
-                <a href="http://dailybruin.com/2014/09/28/students-faculty-continue-to-push-for-diversity-requirement/">
+                <a href="//dailybruin.com/2014/09/28/students-faculty-continue-to-push-for-diversity-requirement/">
                 <div class="feature-img-2">
-                    <img src="http://dailybruin.com/images/2014/02/5891eb04-18c1-4e3d-9efa-242fb4fd8fb8-640x426.jpg">
+                    <img src="//dailybruin.com/images/2014/02/5891eb04-18c1-4e3d-9efa-242fb4fd8fb8-640x426.jpg">
                     <h5>Timeline: Diversity Requirement Proposal</h5>
                 </div>
                 </a>
-                <a href="http://dailybruin.com/features/flavors-of-westwood/">
+                <a href="//dailybruin.com/features/flavors-of-westwood/">
                 <div class="feature-img-2">
-                    <img src="http://dailybruin.com/images/2014/09/web.ae_.reg_.meatballs.picA_.AYU_.jpg">
+                    <img src="//dailybruin.com/images/2014/09/web.ae_.reg_.meatballs.picA_.AYU_.jpg">
                     <h5>Map: Flavors of Westwood</h5>
                 </div>
                 </a>
-                <a href="http://dailybruin.com/2014/09/28/bruins-talk-reasons-why-they-use-youtube-as-creative-outlet/">
+                <a href="//dailybruin.com/2014/09/28/bruins-talk-reasons-why-they-use-youtube-as-creative-outlet/">
                 <div class="feature-img-2">
-                    <img src="http://dailybruin.com/images/2014/09/Screen-Shot-2014-09-27-at-11.38.50-PM.png">
+                    <img src="//dailybruin.com/images/2014/09/Screen-Shot-2014-09-27-at-11.38.50-PM.png">
                     <h5>Radio: Bruins talk reasons why they use YouTube as creative outlet</h5>
                 </div>
                 </a>

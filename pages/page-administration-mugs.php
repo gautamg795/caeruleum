@@ -42,7 +42,7 @@ Template Name: UCLA Administration Profiles
 
     <div class="person" id="carole-goldberg">
       <div class="small-3 columns">
-        <img src="http://dailybruin.com/images/2015/09/1.jpg"/>
+        <img src="//dailybruin.com/images/2015/09/1.jpg"/>
       </div>
       <div class="small-9 columns">
         <h2>Carole Goldberg</h2>
@@ -54,7 +54,7 @@ Template Name: UCLA Administration Profiles
 
     <div class="person" id="janina-montero">
       <div class="small-3 columns">
-        <img src="http://dailybruin.com/images/2015/09/2.jpg"/>
+        <img src="//dailybruin.com/images/2015/09/2.jpg"/>
       </div>
       <div class="small-9 columns">
         <h2>Janina Montero</h2>
@@ -67,7 +67,7 @@ Template Name: UCLA Administration Profiles
 
     <div class="person" id="jerry-kang">
       <div class="small-3 columns">
-        <img src="http://dailybruin.com/images/2015/09/3.jpg"/>
+        <img src="//dailybruin.com/images/2015/09/3.jpg"/>
       </div>
       <div class="small-9 columns">
         <h2>Jerry Kang</h2>
@@ -79,7 +79,7 @@ Template Name: UCLA Administration Profiles
 
     <div class="person" id="john-mazziotta">
       <div class="small-3 columns">
-        <img src="http://dailybruin.com/images/2015/09/4.jpg"/>
+        <img src="//dailybruin.com/images/2015/09/4.jpg"/>
       </div>
       <div class="small-9 columns">
         <h2>John Mazziotta</h2>
@@ -90,7 +90,7 @@ Template Name: UCLA Administration Profiles
 
     <div class="person" id="james-economou">
       <div class="small-3 columns">
-        <img src="http://dailybruin.com/images/2015/09/5.jpg"/>
+        <img src="//dailybruin.com/images/2015/09/5.jpg"/>
       </div>
       <div class="small-9 columns">
         <h2>James S. Economou</h2>
@@ -101,7 +101,7 @@ Template Name: UCLA Administration Profiles
 
     <div class="person" id="gene-block">
       <div class="small-3 columns">
-        <img src="http://dailybruin.com/images/2015/09/6.jpg"/>
+        <img src="//dailybruin.com/images/2015/09/6.jpg"/>
       </div>
       <div class="small-9 columns">
         <h2>Gene Block</h2>
@@ -112,7 +112,7 @@ Template Name: UCLA Administration Profiles
 
     <div class="person" id="steven-olsen">
       <div class="small-3 columns">
-        <img src="http://dailybruin.com/images/2015/09/7.jpg"/>
+        <img src="//dailybruin.com/images/2015/09/7.jpg"/>
       </div>
       <div class="small-9 columns">
         <h2>Steven A. Olsen</h2>
@@ -123,7 +123,7 @@ Template Name: UCLA Administration Profiles
 
  <div class="person" id="kevin-reed">
       <div class="small-3 columns">
-        <img src="http://dailybruin.com/images/2015/09/8.jpg"/>
+        <img src="//dailybruin.com/images/2015/09/8.jpg"/>
       </div>
       <div class="small-9 columns">
         <h2>Kevin Reed</h2>
@@ -133,7 +133,7 @@ Template Name: UCLA Administration Profiles
 
      <div class="person" id="rhea-turteltaub">
       <div class="small-3 columns">
-        <img src="http://dailybruin.com/images/2015/09/9.jpg"/>
+        <img src="//dailybruin.com/images/2015/09/9.jpg"/>
       </div>
       <div class="small-9 columns">
         <h2>Rhea Turteltaub</h2>
@@ -144,7 +144,7 @@ Template Name: UCLA Administration Profiles
 
      <div class="person" id="scott-waugh">
       <div class="small-3 columns">
-        <img src="http://dailybruin.com/images/2015/09/10.jpg"/>
+        <img src="//dailybruin.com/images/2015/09/10.jpg"/>
       </div>
       <div class="small-9 columns">
         <h2>Scott Waugh</h2>
@@ -155,7 +155,7 @@ Template Name: UCLA Administration Profiles
     <!-- 
     <div class="person" id="">
       <div class="small-3 columns">
-        <img src="http://i.imgur.com/D5aqu2u.jpg"/>
+        <img src="//i.imgur.com/D5aqu2u.jpg"/>
       </div>
       <div class="small-9 columns">
         <h2></h2>

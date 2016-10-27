@@ -3,7 +3,7 @@
 /**
  * Redirects search results from /?s=query to /search/query/, converts %20 to +
  *
- * @link http://txfx.net/wordpress-plugins/nice-search/
+ * @link //txfx.net/wordpress-plugins/nice-search/
  */
 function roots_nice_search_redirect() {
   if (is_search() && strpos($_SERVER['REQUEST_URI'], '/wp-admin/') === false && strpos($_SERVER['REQUEST_URI'], '/search/') === false) {
@@ -32,8 +32,8 @@ add_filter('get_search_query', 'roots_search_query');
 /**
  * Fix for empty search queries redirecting to home page
  *
- * @link http://wordpress.org/support/topic/blank-search-sends-you-to-the-homepage#post-1772565
- * @link http://core.trac.wordpress.org/ticket/11330
+ * @link //wordpress.org/support/topic/blank-search-sends-you-to-the-homepage#post-1772565
+ * @link //core.trac.wordpress.org/ticket/11330
  */
 function roots_request_filter($query_vars) {
   if (isset($_GET['s']) && empty($_GET['s'])) {
@@ -49,7 +49,7 @@ add_filter('request', 'roots_request_filter');
  * Root relative URLs
  *
  * WordPress likes to use absolute URLs on everything - let's clean that up.
- * Inspired by http://www.456bereastreet.com/archive/201010/how_to_make_wordpress_urls_root_relative/
+ * Inspired by //www.456bereastreet.com/archive/201010/how_to_make_wordpress_urls_root_relative/
  *
  * You can enable/disable this feature in config.php:
  * current_theme_supports('root-relative-urls');
@@ -62,7 +62,7 @@ function roots_root_relative_url($input) {
     create_function(
       '$matches',
       // If full URL is home_url("/") and this isn't a subdir install, return a slash for relative root
-      'if (isset($matches[0]) && $matches[0] === home_url("/") && str_replace("http://", "", home_url("/", "http"))==$_SERVER["HTTP_HOST"]) { return "/";' .
+      'if (isset($matches[0]) && $matches[0] === home_url("/") && str_replace("//", "", home_url("/", "http"))==$_SERVER["HTTP_HOST"]) { return "/";' .
       // If domain is equal to home_url("/"), then make URL relative
       '} elseif (isset($matches[0]) && strpos($matches[0], home_url("/")) !== false) { return $matches[2];' .
       // If domain is not equal to home_url("/"), do not make external link relative
@@ -171,7 +171,7 @@ add_filter('the_generator', 'roots_remove_generator');
  * Remove self-closing tag and change ''s to "'s on rel_canonical()
  */
 function roots_head_cleanup() {
-  // http://wpengineer.com/1438/wordpress-header/
+  // //wpengineer.com/1438/wordpress-header/
   remove_action('wp_head', 'feed_links', 2);
   remove_action('wp_head', 'feed_links_extra', 3);
   remove_action('wp_head', 'rsd_link');
@@ -219,7 +219,7 @@ add_action('init', 'roots_head_cleanup');
  *
  * Re-create the [gallery] shortcode and use thumbnails styling from Bootstrap
  *
- * @link http://twitter.github.com/bootstrap/components.html#thumbnails
+ * @link //twitter.github.com/bootstrap/components.html#thumbnails
  */
 function roots_gallery($attr) {
   global $post, $wp_locale;
@@ -343,7 +343,7 @@ add_filter('wp_get_attachment_link', 'roots_attachment_link_class', 10, 1);
  * Add Bootstrap thumbnail styling to images with captions
  * Use <figure> and <figcaption>
  *
- * @link http://justintadlock.com/archives/2011/07/01/captions-in-wordpress
+ * @link //justintadlock.com/archives/2011/07/01/captions-in-wordpress
  */
 function roots_caption($output, $attr, $content) {
   if (is_feed()) {
@@ -383,7 +383,7 @@ add_filter('img_caption_shortcode', 'roots_caption', 10, 3);
 /**
  * Remove unnecessary dashboard widgets
  *
- * @link http://www.deluxeblogtips.com/2011/01/remove-dashboard-widgets-in-wordpress.html
+ * @link //www.deluxeblogtips.com/2011/01/remove-dashboard-widgets-in-wordpress.html
  */
 function roots_remove_dashboard_widgets() {
   remove_meta_box('dashboard_incoming_links', 'dashboard', 'normal');
@@ -636,7 +636,7 @@ add_filter('body_class', 'roots_body_class_filter');
 /**
  * Add additional classes onto widgets
  *
- * @link http://wordpress.org/support/topic/how-to-first-and-last-css-classes-for-sidebar-widgets
+ * @link //wordpress.org/support/topic/how-to-first-and-last-css-classes-for-sidebar-widgets
  */
 function roots_widget_first_last_classes($params) {
   global $my_widget_num;
@@ -678,7 +678,7 @@ add_filter('dynamic_sidebar_params', 'roots_widget_first_last_classes');
  * Wrap embedded media as suggested by Readability
  *
  * @link https://gist.github.com/965956
- * @link http://www.readability.com/publishers/guidelines#publisher
+ * @link //www.readability.com/publishers/guidelines#publisher
  */
 function roots_embed_wrap($cache, $url, $attr = '', $post_ID = '') {
   return '<div class="entry-content-asset">' . $cache . '</div>';

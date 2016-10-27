@@ -40,7 +40,7 @@ Template Name: Olympic Series
 				<div class="content active" id="article-1" data-index="1">
 					<div class="row" data-equalizer="b">
 						<div class="small-12 medium-9 large-8 medium-push-1 columns" data-equalizer-watch="b">
-							<img src="http://dailybruin.com/images/2016/02/web.sp_.olympic.feat_.KC_.PicA_.jpg"/>
+							<img src="//dailybruin.com/images/2016/02/web.sp_.olympic.feat_.KC_.PicA_.jpg"/>
 							<div class="img-credits columns">
 								KATHY CHEN/DAILY BRUIN <!-- font-variant smallcaps look fugly -->
 							</div>
@@ -56,7 +56,7 @@ Template Name: Olympic Series
 						<div class="small-12 medium-9 large-9 medium-push-1 columns">
 							<h3 class="part1">  Former coach, player Adam Krikorian upholds legacy of excellence </h3>
 							<h4>By
-								<a class="author" title="Posts by Author" href="http://dailybruin.com/author/melissa-zhang/" rel="author">
+								<a class="author" title="Posts by Author" href="//dailybruin.com/author/melissa-zhang/" rel="author">
 									Melissa Zhang
 								</a>
 							</h4>
@@ -104,7 +104,7 @@ Template Name: Olympic Series
 								  “Most Inspirational Player” during his last three seasons.</p>
 
 								<div class="pullimage">
-									<img src="http://dailybruin.com/images/2016/02/web.sp_.olympic.feat_.KC_.PicB_.jpg"/>
+									<img src="//dailybruin.com/images/2016/02/web.sp_.olympic.feat_.KC_.PicB_.jpg"/>
 									<div class="img-credits columns">
 										DAILY BRUIN FILE PHOTO
 									</div>
@@ -189,7 +189,7 @@ Template Name: Olympic Series
 							<a class="carousel-prev"><div class="medium-1 medium-push-1 columns chevron chevron-left hide-for-small-only" data-equalizer-watch="b">
 							</div></a>
 							<div class="small-12 medium-9 medium-push-1 large-8 columns" data-equalizer-watch="b">
-								<img src="http://dailybruin.com/images/2016/03/web.sp_.wwp_.feat_.KMay_.jpg"/>
+								<img src="//dailybruin.com/images/2016/03/web.sp_.wwp_.feat_.KMay_.jpg"/>
 								<div class="img-credits columns">
 									Keila Mayberry/Daily Bruin staff
 								</div>
@@ -204,7 +204,7 @@ Template Name: Olympic Series
 							<div class="small-12 medium-9 large-9 medium-push-2 columns">
 						  	<div class="second-article">
 							  <h3 class="part2">Women's water polo player brings national team experience to Bruins</h3>
-							  <h4>By  <a class="author" title="Posts by Author" href="http://dailybruin.com/author/savannah-shapiro/" rel="author">
+							  <h4>By  <a class="author" title="Posts by Author" href="//dailybruin.com/author/savannah-shapiro/" rel="author">
 								Savannah Shapiro</a>
 							  </h4>
 							  <h2>Sports Writer</h2>
@@ -322,7 +322,7 @@ Template Name: Olympic Series
 							<a class="carousel-prev"><div class="medium-1 medium-push-1 columns chevron chevron-left hide-for-small-only" data-equalizer-watch="b">
 							</div></a>
 							<div class="small-12 medium-9 medium-push-1 large-8 columns" data-equalizer-watch="b">
-								<img src="http://dailybruin.com/images/2016/03/web.sp_.wwp_.FILE_.jpg"/>
+								<img src="//dailybruin.com/images/2016/03/web.sp_.wwp_.FILE_.jpg"/>
 								<div class="img-credits columns">
 									Daily Bruin file photo
 								</div>
@@ -340,7 +340,7 @@ Template Name: Olympic Series
 							<div class="small-12 medium-9 large-9 medium-push-2 columns">
 						  	<div class="third-article">
 							  <h3 class="part2">Lifelong passion for water polo takes Rachel Fattal to Rio 2016</h3>
-							  <h4>By  <a class="author" title="Posts by Author" href="http://dailybruin.com/author/savannah-shapiro/" rel="author">
+							  <h4>By  <a class="author" title="Posts by Author" href="//dailybruin.com/author/savannah-shapiro/" rel="author">
 								Savannah Shapiro</a>
 							  </h4>
 							  <h2>Sports Writer</h2>
@@ -462,7 +462,7 @@ Template Name: Olympic Series
 <!-- JS -->
 <script>
 	$(document).ready(function(){
-		/*Thanks http://madewithenvy.com/ecosystem/articles/2015/exploring-order-flexbox-carousel/ */
+		/*Thanks //madewithenvy.com/ecosystem/articles/2015/exploring-order-flexbox-carousel/ */
 
 		var articleCount = $('.content').length;
 		var $nextBtn = $('.carousel-next');

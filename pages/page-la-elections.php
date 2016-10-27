@@ -44,7 +44,7 @@ Template Name: LA Elections 2013
 									});
 								</script>
 								<style>
-								@import url(http://fonts.googleapis.com/css?family=Oswald:400,700);
+								@import url(//fonts.googleapis.com/css?family=Oswald:400,700);
 								a.close {
 								display: none;
 								width: 15px;
@@ -100,7 +100,7 @@ Template Name: LA Elections 2013
 								width: 1200px;
 								}
 								#election-header {
-								background-image: url('http://dailybruin.com/images/features/la-election/banner.jpg');
+								background-image: url('//dailybruin.com/images/features/la-election/banner.jpg');
 								height: 466px;
 								color: #fff;
 								font-family: 'Oswald', sans-serif;
@@ -311,25 +311,25 @@ Template Name: LA Elections 2013
 								color: #182650;
 								}
 								.candidate#c2 {
-								background-image: url("http://dailybruin.com/images/features/la-election/emanuelpleitez.jpg");
+								background-image: url("//dailybruin.com/images/features/la-election/emanuelpleitez.jpg");
 								}
 								.candidate#c3 {
-								background-image: url("http://dailybruin.com/images/features/la-election/ericgarcetti.jpg");
+								background-image: url("//dailybruin.com/images/features/la-election/ericgarcetti.jpg");
 								}
 								.candidate#c4 {
-								background-image: url("http://dailybruin.com/images/features/la-election/janperry.jpg");
+								background-image: url("//dailybruin.com/images/features/la-election/janperry.jpg");
 								}
 								.candidate#c5 {
-								background-image: url("http://dailybruin.com/images/features/la-election/kevinjames.jpg");
+								background-image: url("//dailybruin.com/images/features/la-election/kevinjames.jpg");
 								}
 								.candidate#c6 {
-								background-image: url("http://dailybruin.com/images/features/la-election/wendygruell.jpg");
+								background-image: url("//dailybruin.com/images/features/la-election/wendygruell.jpg");
 								}
 								.candidate#c7 {
-								background-image: url("http://dailybruin.com/images/features/la-election/markherd.jpg");
+								background-image: url("//dailybruin.com/images/features/la-election/markherd.jpg");
 								}
 								.candidate#c8 {
-								background-image: url("http://dailybruin.com/images/features/la-election/paulkoretz.jpg");
+								background-image: url("//dailybruin.com/images/features/la-election/paulkoretz.jpg");
 								}
 								.candidate span {
 								display: none;
@@ -436,7 +436,7 @@ Template Name: LA Elections 2013
 								margin-top: 40px;
 								}
 								#mc-pic {
-								background-image: url('http://dailybruin.com/images/features/la-election/debate.jpg');
+								background-image: url('//dailybruin.com/images/features/la-election/debate.jpg');
 								position: relative;
 								padding-left: 0px;
 								height: 273px;
@@ -492,7 +492,7 @@ Template Name: LA Elections 2013
 								</div>
 								<div id="faq"><h3>FAQ</h3>
 								<div class="question">Can I vote in the March 5 election?<span class="answer">To vote in the election, you must have registered to vote in Los Angeles County by Feb. 19.</span></div>
-								<div class="question">Where can I vote?<span class="answer">To find your polling place, visit <a href="http://lavote.net/Locator/">lavote.net/Locator</a>. Polls open at 7 a.m. and close at 8 p.m.</span></div>
+								<div class="question">Where can I vote?<span class="answer">To find your polling place, visit <a href="//lavote.net/Locator/">lavote.net/Locator</a>. Polls open at 7 a.m. and close at 8 p.m.</span></div>
 								<div class="question">What is on the ballot?<span class="answer"><ul>
 									<li>mayor</li>
 									<li>city attorney</li>
@@ -515,7 +515,7 @@ Template Name: LA Elections 2013
 								<div id="pop-left"><div class="candidate inset" id="c2"></div>
 								<h3>Emanuel Pleitez</h3><i>Technology Executive</i> 
 								<p><i>Listen: Pleitez discusses how UCLA fits into his vision for Los Angeles</i></p>
-								<audio src="http://dailybruin.com/images/features/la-election/pleitez.mp3" preload="auto" />
+								<audio src="//dailybruin.com/images/features/la-election/pleitez.mp3" preload="auto" />
 								</div>
 								<div id="pop-right">
 								<h3>Emanuel Pleitez provides worthy ideas for future development</h3>
@@ -524,35 +524,35 @@ Template Name: LA Elections 2013
 								<p>This board was particularly interested in his ideas on mayoral involvement with higher education institutions and improving public transportation.</p>
 								<p>Pleitez has a clear idea of how the mayor&rsquo;s office should partner with higher education institutions such as UCLA. He focuses on developing research partnerships between the universities in Los Angeles and also on developing classes for the public to learn more workplace skills such as technology use.</p>
 								<p>These classes would be run throughout the city and involve a variety of different topics that are necessary in today’s workplace – Pleitez mentioned data analysis and technology specifically.</p>
-								<p><a href="http://dailybruin.com/?p=127337">Read more...</a></p>
+								<p><a href="//dailybruin.com/?p=127337">Read more...</a></p>
 								</div>
 								</span></div>
 								<div class="candidate chosen" id="c3" data-name="Eric Garcetti"><span class="top right">
 								<div id="pop-left"><div class="candidate inset" id="c3"></div>
 								<h3>Eric Garcetti</h3><i>City Councilman</i> 
 								<p><i>Listen: Garcetti discusses how UCLA fits into his vision for Los Angeles</i></p>
-								<audio src="http://dailybruin.com/images/features/la-election/garcetti.mp3" preload="auto" />
+								<audio src="//dailybruin.com/images/features/la-election/garcetti.mp3" preload="auto" />
 								</div>
 								</span></div>
 								<div class="candidate" id="c4" data-name="Jan Perry"><span class="bottom left">
 								<div id="pop-left"><div class="candidate inset" id="c4"></div>
 								<h3>Jan Perry</h3><i>City Councilwoman</i> 
 								<p><i>Listen: Perry discusses how UCLA fits into her vision for Los Angeles</i></p>
-								<audio src="http://dailybruin.com/images/features/la-election/perry.mp3" preload="auto" />
+								<audio src="//dailybruin.com/images/features/la-election/perry.mp3" preload="auto" />
 								</div>
 								<div id="pop-right">
 								<h3>Jan Perry strong on education plan, but lacks blueprint for jobs</h3>
 								<p>Jan Perry&rsquo;s understanding of the Los Angeles Unified School District and her thoughtfulness in other policy areas make her a candidate we would trust as mayor. But, with factors like the revitalization of Westwood and job creation, she fell short of Eric Garcetti.</p>
 								<p>Perry knows the strengths and weaknesses of the city&rsquo;s education system. As a city councilwoman, she brought more schools to areas near transportation corridors, making them more accessible to families without cars. Her focus on the elementary to middle school transition, where grades and standardized test levels start to fall off, could help remedy the drop-off in the current education system.</p>
 								<p>Perry is also very knowledgeable about the city’s transportation system and has served as chair of the Metropolitan Transportation Authority&rsquo;s Exposition Light Rail Construction Authority. If elected mayor, she plans to expand the Green Line of the city&rsquo;s light rail system to extend all the way to Los Angeles International Airport. During her time as city councilwoman, Perry has also pushed for the expansion of the city&rsquo;s current subway system.</p>
-								<p><a href="http://dailybruin.com/?p=127332">Read more...</a></p>
+								<p><a href="//dailybruin.com/?p=127332">Read more...</a></p>
 								</div>
 								</span></div>
 								<div class="candidate" id="c5" data-name="Kevin James"><span class="bottom middle">
 								<div id="pop-left"><div class="candidate inset" id="c5"></div>
 								<h3>Kevin James</h3><i>Attorney and Radio Talk Show Host</i> 
 								<p><i>Listen: James discusses how UCLA fits into his vision for Los Angeles</i></p>
-								<audio src="http://dailybruin.com/images/features/la-election/james.mp3" preload="auto" />
+								<audio src="//dailybruin.com/images/features/la-election/james.mp3" preload="auto" />
 								</div>
 								<div id="pop-right">
 								<h3>Kevin James missing experience in city planning, politics</h3>
@@ -561,14 +561,14 @@ Template Name: LA Elections 2013
 								<p>For example, James supports a proposal for the Jobs Education Medical Services Line, which would create an underground rail tunnel to connect the San Fernando Valley to Westwood.</p>
 								<p>There are already plans for money from Measure R – a tax measure for public transportation passed in 2008 – to go toward a San Fernando Valley North-South Transit Corridor. The details of these plans are still in the works. One option being looked at is increased transportation networks between the Valley and UCLA for the many commuters who travel between these two areas.</p>
 								<p>We appreciate James&rsquo; backing of what could be a beneficial public transportation line for UCLA students, but the idea needs to be further developed and gain more traction with the public.</p>
-								<p><a href="http://dailybruin.com/?p=127351">Read more...</a></p>
+								<p><a href="//dailybruin.com/?p=127351">Read more...</a></p>
 								</div>
 								</span></div>
 								<div class="candidate" id="c6" data-name="Wendy Greuel"><span class="bottom right">
 								<div id="pop-left"><div class="candidate inset" id="c6"></div>
 								<h3>Wendy Greuel</h3><i>City Controller</i> 
 								<p><i>Listen: Greuel discusses how UCLA fits into her vision for Los Angeles</i></p>
-								<audio src="http://dailybruin.com/images/features/la-election/greuel.mp3" preload="auto" />
+								<audio src="//dailybruin.com/images/features/la-election/greuel.mp3" preload="auto" />
 								</div>
 								<div id="pop-right">
 								<h3>Wendy Greuel presents few concrete ideas on job growth</h3>
@@ -577,7 +577,7 @@ Template Name: LA Elections 2013
 								<p>When it came to job growth, Greuel spoke in generalities about linking students with their future careers and getting students to remain in Los Angeles after graduation. She floated the idea of installing an incubator program, designed to foster small business growth in its area, on campus, citing research that said similar programs had succeeded at USC.</p>
 								<p>But Greuel offered no comments on how one would work at UCLA.</p>
 								<p>Although she went to school during a time when Westwood had a higher profile, Greuel could not specify how to return the village to that level of vitality, saying she would need to meet with the neighborhood council, homeowners and students. This is a first step that some among her competition have already taken.</p>
-								<p><a href="http://dailybruin.com/?p=127345">Read more...</a></p>
+								<p><a href="//dailybruin.com/?p=127345">Read more...</a></p>
 								</div>
 								</span></div>
 								</div>
@@ -587,7 +587,7 @@ Template Name: LA Elections 2013
 								<p>In an interview with the editorial board, Garcetti provided more thorough solutions than his opponents to problems in education, community and transportation, to name just a few areas.</p>
 								<p>Garcetti wants to work with the major colleges of Los Angeles in order to help students get employed after graduation, and this board sees him as the best candidate for UCLA students, as well as for Los Angeles as a whole.</p>
 								<p>One such plan is to work with UCLA, the University of Southern California and California Technological Institute to keep engineering students in Los Angeles after they graduate. Not only would this help college graduates and employment within the city, but it would make Los Angeles more startup-friendly, and contribute to the growth of the technology and engineering sectors, where employees are in demand.</p>
-								<p><a href="http://dailybruin.com/?p=127312">Read more...</a></p>
+								<p><a href="//dailybruin.com/?p=127312">Read more...</a></p>
 								</div>
 								<div class="separator"></div>
 								<div id="mayor-care">
@@ -596,7 +596,7 @@ Template Name: LA Elections 2013
 								<p>Los Angeles plays host to several high-profile universities, notably the California Institute of Technology and the University of Southern California. The next mayor should make it a priority to strengthen collaboration with and between the city&rsquo;s schools.</p>
 								<p>These universities act as much more than a set of classrooms and laboratories – they hold the capability of producing the city’s next generation of leaders and innovators in both public and private sectors. They have the greatest potential for ensuring an economically and socially successful future for our city.</p>
 								<p>In recent years, UCLA&rsquo;s partnership with the city has been strengthened under alumnus and current mayor Antonio Villaraigosa, said Felicia Brannon, executive director of local government and community relations at UCLA. The ties to the city extend to numerous areas of campus, both administrative and academic, Brannon added.</p>
-								<p><a href="http://dailybruin.com/2013/03/04/editorial-university-relations-should-be-priority-for-city-hall/">Read more...</a></p>
+								<p><a href="//dailybruin.com/2013/03/04/editorial-university-relations-should-be-priority-for-city-hall/">Read more...</a></p>
 								</div>
 								<div id="mc-pic"><p>Five mayoral candidates debated in Royce Hall on Jan. 28.</p></div><div class="separator"></div>
 								</div>
@@ -609,7 +609,7 @@ Template Name: LA Elections 2013
 								<div id="pop-left"><div class="candidate inset" id="c7"></div>
 								<h3>Mark Herd</h3><i>Westwood Neighborhood Council member</i> 
 								<p><i>Listen: Herd discusses the role of UCLA in Los Angeles and how the university fits into his vision</i></p>
-								<audio src="http://dailybruin.com/images/features/la-election/herd.mp3" preload="auto" />
+								<audio src="//dailybruin.com/images/features/la-election/herd.mp3" preload="auto" />
 								</div>
 								<div id="pop-right">
 								<h3>Mark Herd lacks complete grasp of a councilmember&rsquo;s role</h3>
@@ -617,7 +617,7 @@ Template Name: LA Elections 2013
 								<p>Herd – a Westwood resident who grew up in the Village – is familiar with some local problems, like high business turnover rate and the tension between UCLA students and longtime Westwood residents, but does not have a firm grasp on how to address them effectively.</p>
 								<p>Herd also brought up topics that reflect a disconnect between his priorities and those of the university&rsquo;s community. He took issue with UCLA&rsquo;s construction of new buildings, for example, and is concerned about projects simply because they might bring traffic to Westwood – even if they would also bring more jobs.</p>
 								<p>To be fair, Herd was part of the effort to keep free two-hour parking on Broxton Avenue. He also understands the struggle for small business owners who face high turnover rates in the Village, and wants to reform the gross receipts tax to make it easier for businesses to stay afloat. Koretz also wants to alter this tax on business revenue, but has a more nuanced way of achieving it.</p>
-								<p><a href="http://dailybruin.com/?p=127316">Read more...</a></p>
+								<p><a href="//dailybruin.com/?p=127316">Read more...</a></p>
 								</div>
 								</span>
 								</div>
@@ -626,7 +626,7 @@ Template Name: LA Elections 2013
 								<div id="pop-left"><div class="candidate inset" id="c8"></div>
 								<h3>Paul Koretz</h3><i>City Councilman</i> 
 								<p><i>Listen: Koretz discusses the role of UCLA in Los Angeles and how the university fits into his vision</i></p>
-								<audio src="http://dailybruin.com/images/features/la-election/koretz.mp3" preload="auto" />
+								<audio src="//dailybruin.com/images/features/la-election/koretz.mp3" preload="auto" />
 								</div>
 								</span>
 								</div>
@@ -637,7 +637,7 @@ Template Name: LA Elections 2013
 								<p>Mark Herd, who is running against Koretz, is certainly familiar with the Westwood area. But during his interview with the Daily Bruin&rsquo;s Editorial Board, Herd showed he had little understanding of what it would mean to be an effective, sensible representative at the city level.</p>
 								<p>Koretz, on the other hand, displayed a firm grasp of the issues that have played a part in Westwood’s declining vitality over the past few decades. Acknowledging that a problem exists, however, is not enough. Though Koretz offered some solutions, his lack of an expansive vision disappoints us.</p>
 								<p>During his interview with the editorial board, Koretz said adequate parking in Westwood was &ldquo;key&rdquo; to the neighborhood&rsquo;s revival. He suggested converting parallel parking spots into angled parking spots, which might create 20 to 50 new spaces, he said.</p>
-								<p><a href="http://dailybruin.com/?p=127331">Read more...</a>
+								<p><a href="//dailybruin.com/?p=127331">Read more...</a>
 								</div>
     							</div>
 </div><!-- end div#la-elections-2013 -->

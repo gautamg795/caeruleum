@@ -12,7 +12,7 @@
   <?php if (current_theme_supports('bootstrap-responsive')) { ?><meta name="viewport" content="width=device-width, initial-scale=1.0"><?php } ?>
 
   <script src="<?php echo get_template_directory_uri(); ?>/js/vendor/modernizr-2.5.3.min.js"></script>
-  <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"/>
   <link href='https://cdn.jsdelivr.net/animatecss/3.4.0/animate.min.css' rel='stylesheet'/>
@@ -51,7 +51,7 @@
   <?php wp_head(); ?>
 
   <!-- Press Plus script -->
-  <script type="text/javascript" src="http://s.ppjol.net/pp.js">{
+  <script type="text/javascript" src="//s.ppjol.net/pp.js">{
     'zone':"qnbBZ63hK_pL2086YoKj3J",
     'mode':"meter",
     'debug':0
@@ -62,7 +62,7 @@
     $url = wp_get_attachment_url( get_post_thumbnail_id($post->ID) ); ?>
     <meta property="og:image" content="<?php echo $url; ?>" />
   <?php else: ?>
-    <meta property="og:image" content="http://dailybruin.com/images/2014/01/facebook_default.jpg" />
+    <meta property="og:image" content="//dailybruin.com/images/2014/01/facebook_default.jpg" />
   <?php endif; ?>
   <?php $excerpt = wp_trim_words(($post->post_content),30)?>
   <meta property="og:description" content="<?php echo $excerpt; ?>"/>
@@ -89,7 +89,7 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-  <!--[if lt IE 7]><div class="alert">Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</div><![endif]-->
+  <!--[if lt IE 7]><div class="alert">Your browser is <em>ancient!</em> <a href="//browsehappy.com/">Upgrade to a different browser</a> or <a href="//www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</div><![endif]-->
 
   <?php roots_header_before(); ?>
   <?php get_template_part('templates/header', 'default'); ?>

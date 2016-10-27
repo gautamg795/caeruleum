@@ -26,7 +26,7 @@ Template Name: Active Shooters
 
 	<p>Mass shootings are <a href="https://www.fbi.gov/about-us/office-of-partner-engagement/active-shooter-incidents/a-study-of-active-shooter-incidents-in-the-u.s.-2000-2013">on the rise</a> at college campuses across the United States. From dorms to classrooms, UCLA is laying out plans to keep students safe in an active shooter situation. <a href="https://www.admission.ucla.edu/campusprofile.htm">Over 43,000 students</a> attend this school, so any effective plan will require massive coordination and effort from police and administration.</p>
 
-	<p>The UCLA Office of Emergency Management has <a href="https://www.emergency.ucla.edu/copy_of_how-to-lockdown">procedures</a> set in place to address the possibility of an on-campus gunman. The Office of Residential Life trains resident assistants to handle active shooters in the dorms. The university police has been <a href="http://dailybruin.com/2016/02/12/ucpd-holds-training-program-for-handling-active-shooter-situations/">running drills</a> this quarter. And firearms are prohibited on or near any UCLA property.</p>
+	<p>The UCLA Office of Emergency Management has <a href="https://www.emergency.ucla.edu/copy_of_how-to-lockdown">procedures</a> set in place to address the possibility of an on-campus gunman. The Office of Residential Life trains resident assistants to handle active shooters in the dorms. The university police has been <a href="//dailybruin.com/2016/02/12/ucpd-holds-training-program-for-handling-active-shooter-situations/">running drills</a> this quarter. And firearms are prohibited on or near any UCLA property.</p>
 
 	<p>Yet debate over policies and procedures still surrounds the issue. Daily Bruin Radio's intern class explores the policies and legal issues surrounding university gun control and safety measures.</p>
 
@@ -50,12 +50,12 @@ Template Name: Active Shooters
 				<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/249920519&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 			</div>
 
-			<p><b>Harris:</b> Santa Monica College in 2013. UC Santa Barbara in 2014. Umpqua Community College in 2015. These three schools reflect one national trend: active shootings have <a href="https://www.fbi.gov/about-us/office-of-partner-engagement/active-shooter-incidents/a-study-of-active-shooter-incidents-in-the-u.s.-2000-2013">more than doubled in number since 2007</a>, the year a fourth-year English student at Virginia Tech shot 32 people dead and injured 17 more on university grounds. There have been more than <a href="http://everytownresearch.org/school-shootings/">60 shootings</a> on American college campuses since 2010 that have resulted in more than 40 deaths. Many universities across the nation, including UCLA, have restructured their emergency procedure to face this new reality. Art Kirkland, director of UCLA's Office of Emergency Management, explains how UCLA has been especially affected by this trend.</p>
+			<p><b>Harris:</b> Santa Monica College in 2013. UC Santa Barbara in 2014. Umpqua Community College in 2015. These three schools reflect one national trend: active shootings have <a href="https://www.fbi.gov/about-us/office-of-partner-engagement/active-shooter-incidents/a-study-of-active-shooter-incidents-in-the-u.s.-2000-2013">more than doubled in number since 2007</a>, the year a fourth-year English student at Virginia Tech shot 32 people dead and injured 17 more on university grounds. There have been more than <a href="//everytownresearch.org/school-shootings/">60 shootings</a> on American college campuses since 2010 that have resulted in more than 40 deaths. Many universities across the nation, including UCLA, have restructured their emergency procedure to face this new reality. Art Kirkland, director of UCLA's Office of Emergency Management, explains how UCLA has been especially affected by this trend.</p>
 
 			<p><b>Kirkland:</b> Awareness has gotten a lot better. I think folks, you know, before 2007 this was not a subject that would have ever come up. Nobody would have thought about this. And every time one happens, even though they are exceedingly rare, they are much more rare than lightning strikes -- but they are also, they're gonna happen, they're gonna happen somewhere, just like lightning strikes -- and I think the level of awareness has gone up since UCSB because now we've got, it's close to home. The UC, even though we're all over the state, we're still one big family and that affected our family.</p>
 
 			<div class="image">
-				<img src="http://dailybruin.com/images/2016/03/jansssteps.jpg">
+				<img src="//dailybruin.com/images/2016/03/jansssteps.jpg">
 				<span class="caption">Laura Uzes/Daily Bruin</span>
 			</div>
 
@@ -115,7 +115,7 @@ Template Name: Active Shooters
 			<p><b>Lu:</b> Active-shooter training is when university police and other various departments throughout our campus come to talk to us about safety protocol, safety tips and what we should do in situations of stress and situations of violence. If anyone brings a gun, how do we respond? What's our first priority? What do we do to keep ourselves safe? And how do we help others maintain that safety? <p>
 
 			<div class="image">
-				<img src="http://dailybruin.com/images/2016/03/reslife.jpg">
+				<img src="//dailybruin.com/images/2016/03/reslife.jpg">
 				<span class="caption">Daily Bruin file photo</span>
 			</div>
 
@@ -127,7 +127,7 @@ Template Name: Active Shooters
 
 			<p><b>Lu:</b> We as ResLife -- this is my opinion -- we as ResLife have a good relationship with UCPD because they help us enforce laws that we can't because we essentially as RA's don't have much power to actually tell someone, "You have to leave our campus," or escort someone off our campus. So we depend on UCPD for that who actually has the power of enforcement. </p>
 
-			<p><b>Palomo:</b> So there is active-shooter training for RAs, and they have support from the UCPD. RAs and security have various duties such as patrols to ensure that a violent act will not occur. On top of that, UCLA is located in Westwood, a neighborhood for which the <a href="http://maps.latimes.com/neighborhoods/neighborhood/westwood/crime/">LA Times reports a low rate of violent crimes</a>. </p>
+			<p><b>Palomo:</b> So there is active-shooter training for RAs, and they have support from the UCPD. RAs and security have various duties such as patrols to ensure that a violent act will not occur. On top of that, UCLA is located in Westwood, a neighborhood for which the <a href="//maps.latimes.com/neighborhoods/neighborhood/westwood/crime/">LA Times reports a low rate of violent crimes</a>. </p>
 
 			<p><b>Lu:</b> I don't speak for ResLife, but for me personally, I've been here for four years and ... I believe our community, the Hill, is very safe with all the access controls and patrols we have. But it's not a pertinent thing in our minds, but it could happen. </p>
 
@@ -175,7 +175,7 @@ Template Name: Active Shooters
 			<p><b>Littlestone:</b> So, UCLA is a big target. We're worldwide known, so should a terrorist decide that they wanted to make a big name for themselves, UCLA might be something that they're looking at. However, with the kinds of people that we have on this campus, and the collegiality and the fact that people work together to try to report on things where they see that someone needs assistance, that's not a place they're going to want to think about.<p>
 
 			<div class="image">
-				<img src="http://dailybruin.com/images/2016/03/ucpd.jpg">
+				<img src="//dailybruin.com/images/2016/03/ucpd.jpg">
 				<span class="caption">Jessica Zhou/Daily Bruin</span>
 			</div>
 
@@ -240,7 +240,7 @@ Template Name: Active Shooters
 			<p>At UCLA, this controversy has created a divide between students over whether or not legislation allowing concealed weapons on college campuses should be passed. Supporters of pro-gun movements believe that students have every right to protect themselves from potential attackers. On the opposing side, gun control advocates think schools should tighten gun policies to keep guns off campus.</p>
 
 			<div class="image">
-				<img src="http://dailybruin.com/images/2016/03/schooloflaw.jpg">
+				<img src="//dailybruin.com/images/2016/03/schooloflaw.jpg">
 				<span class="caption">Zhitong Qian/Daily Bruin</span>
 			</div>
 
@@ -287,7 +287,7 @@ Template Name: Active Shooters
 <div class="row" style="margin: 1em auto 1em auto;">
 <div class="card medium-8 medium-centered columns">
 
-	<img src="http://dailybruin.com/images/2016/03/graphic.png">
+	<img src="//dailybruin.com/images/2016/03/graphic.png">
 
 
 </div>

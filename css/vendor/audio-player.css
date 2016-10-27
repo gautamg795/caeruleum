@@ -223,7 +223,7 @@
 				}
 				.audioplayer:not(.audioplayer-mute) .audioplayer-volume-button a:after
 				{
-					/* "volume" icon by Nicolas Gallagher, http://nicolasgallagher.com/pure-css-gui-icons */
+					/* "volume" icon by Nicolas Gallagher, //nicolasgallagher.com/pure-css-gui-icons */
 					width: 0.313em; /* 5 */
 					height: 0.313em; /* 5 */
 					border: 0.25em double #fff; /* 4 */

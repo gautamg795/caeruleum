@@ -3,8 +3,8 @@ Template Name: USAC Special Election 2014
 */ ?>
 
 <?php get_header(); ?>
-<meta property="og:image" content="http://dailybruin.com/images/2014/10/og-usac-special-election.png" />
-<link href="http://fonts.googleapis.com/css?family=Open+Sans|Dosis:400,800" rel="stylesheet" type="text/css" />
+<meta property="og:image" content="//dailybruin.com/images/2014/10/og-usac-special-election.png" />
+<link href="//fonts.googleapis.com/css?family=Open+Sans|Dosis:400,800" rel="stylesheet" type="text/css" />
 
 <style type='text/css'>
 
@@ -130,7 +130,7 @@ div #preload { display: none; }
 
       <div class='large-7 columns' style="margin-right: 10px">
 
-        <a title='USAC Elections' href='http://dailybruin.com/usac-special-election-2014'><img id='banner' src='http://dailybruin.com/images/2014/10/usac-special-election-banner.png'/></a>
+        <a title='USAC Elections' href='//dailybruin.com/usac-special-election-2014'><img id='banner' src='//dailybruin.com/images/2014/10/usac-special-election-banner.png'/></a>
 
         <div class="panel">
         <h4>Introduction</h4>
@@ -261,7 +261,7 @@ div #preload { display: none; }
     o0.fname = "Youmun"; //First name
     o0.lname = "Alhou"; //Last name
     o0.office = OFFICE.GENERAL_REP; //Office
-    o0.picture = "http://dailybruin.com/images/2014/10/web.YoumunAlhlou1-200x300.jpg"; //Picture name
+    o0.picture = "//dailybruin.com/images/2014/10/web.YoumunAlhlou1-200x300.jpg"; //Picture name
     o0.bio = "Lots of info."; //Candidate bio
     o0.major = "International Development Studies"; //Candidate Major
     o0.year = "Fourth"; //Year
@@ -277,7 +277,7 @@ div #preload { display: none; }
     o1.fname = "Sofia Moreno"; //First name
     o1.lname = "Haq"; //Last name
     o1.office = OFFICE.GENERAL_REP; //Office
-    o1.picture = "http://dailybruin.com/images/2014/10/web.SofiaMoreno1-200x300.jpg"; //Picture name
+    o1.picture = "//dailybruin.com/images/2014/10/web.SofiaMoreno1-200x300.jpg"; //Picture name
     o1.bio = "Lots of info."; //Candidate bio
     o1.major = "Gender Studies Student"; //Candidate Major
     o1.year = "Fifth"; //Year
@@ -297,7 +297,7 @@ div #preload { display: none; }
     o2.fname = "Allan"; //First name
     o2.lname = "Kew"; //Last name
     o2.office = OFFICE.TRANSFER_REP; //Office
-    o2.picture = "http://dailybruin.com/images/2014/10/web.AllanKew-200x300.jpg"; //Picture name
+    o2.picture = "//dailybruin.com/images/2014/10/web.AllanKew-200x300.jpg"; //Picture name
     o2.bio = "Lots of info."; //Candidate bio
     o2.major = "Political Science"; //Candidate Major
     o2.year = "Third"; //Year
@@ -315,7 +315,7 @@ div #preload { display: none; }
     o3.fname = "Michelle"; //First name
     o3.lname = "Balatbat"; //Last name
     o3.office = OFFICE.TRANSFER_REP; //Office
-    o3.picture = "http://dailybruin.com/images/2014/10/web.MichelleBalatbat-200x300.jpg"; //Picture name
+    o3.picture = "//dailybruin.com/images/2014/10/web.MichelleBalatbat-200x300.jpg"; //Picture name
     o3.bio = "Lots of info."; //Candidate bio
     o3.major = "Political Science"; //Candidate Major
     o3.year = "Fourth"; //Year
@@ -332,7 +332,7 @@ div #preload { display: none; }
     o4.fname = "Negeen"; //First name
     o4.lname = "Sadeghi-Movahed"; //Last name
     o4.office = OFFICE.TRANSFER_REP; //Office
-    o4.picture = "http://dailybruin.com/images/2014/10/web.NegeenSadeghi-Movahed1-199x300.jpg"; //Picture name
+    o4.picture = "//dailybruin.com/images/2014/10/web.NegeenSadeghi-Movahed1-199x300.jpg"; //Picture name
     o4.bio = "Lots of info."; //Candidate bio
     o4.major = "Political Science"; //Candidate Major
     o4.year = "Fourth"; //Year

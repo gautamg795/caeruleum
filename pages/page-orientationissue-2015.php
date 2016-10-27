@@ -10,7 +10,7 @@ Template Name: Orientation Issue 2015
 <script src="../js/orientationissue-2015.js"></script>
 
 
-<link href='http://fonts.googleapis.com/css?family=Biryani:700|Raleway:800|Open+Sans' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Biryani:700|Raleway:800|Open+Sans' rel='stylesheet' type='text/css'>
 
 
 <!-- PAGE STARTS HERE -->
@@ -18,7 +18,7 @@ Template Name: Orientation Issue 2015
 <div class="row">
     <h1 class="subhead">Orientation Issue 2015</h1>
     <div class="small-12 columns text-center banner">
-        <img src="http://dailybruin.com/images/2015/07/oissue-coverillo-final-web.jpg"/>
+        <img src="//dailybruin.com/images/2015/07/oissue-coverillo-final-web.jpg"/>
         <p class="caption">(Kelly Brennan/Daily Bruin senior staff)</p>
         <div class="title">
             <h1>First Steps</h1>

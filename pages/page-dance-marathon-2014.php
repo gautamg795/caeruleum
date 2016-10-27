@@ -63,7 +63,7 @@ Template Name: Dance Marathon 2014
 #dm-banner {
     position: relative;
     height: 300px;
-    background: url('http://dailybruin.com/images/2014/04/banner2.jpg');
+    background: url('//dailybruin.com/images/2014/04/banner2.jpg');
     background-size: cover;
     padding: 2em;
     color: white;
@@ -216,7 +216,7 @@ div[id*='hour-'] {
     <div class="large-3 columns" id="dm-instagram">
         <h2>#UCLADM2014</h2>
         <!-- SnapWidget -->
-        <iframe src="http://snapwidget.com/bd/?h=dWNsYWRtMjAxNHxpbnwyMDB8MXw0fHx5ZXN8MjB8bm9uZXxvblN0YXJ0fHllcw==&v=4414" title="Instagram Widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:222px; height:1388px"></iframe>
+        <iframe src="//snapwidget.com/bd/?h=dWNsYWRtMjAxNHxpbnwyMDB8MXw0fHx5ZXN8MjB8bm9uZXxvblN0YXJ0fHllcw==&v=4414" title="Instagram Widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:222px; height:1388px"></iframe>
     </div>
 </div>
 

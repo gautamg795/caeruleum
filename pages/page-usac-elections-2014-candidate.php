@@ -3,8 +3,8 @@ Template Name: USAC Elections Candidate 2014
 */ ?>
 
 <?php get_header(); ?>
-<meta property="og:image" content="http://dailybruin.com/images/2014/05/usac-election-2014-fbSharePhoto.png" />
-<link href="http://fonts.googleapis.com/css?family=Open+Sans|Dosis:400,800" rel="stylesheet" type="text/css" />
+<meta property="og:image" content="//dailybruin.com/images/2014/05/usac-election-2014-fbSharePhoto.png" />
+<link href="//fonts.googleapis.com/css?family=Open+Sans|Dosis:400,800" rel="stylesheet" type="text/css" />
 
 <style type='text/css'>
 
@@ -126,12 +126,12 @@ div #preload { display: none; }
         <dd class="active"><a href="#">Candidates</a></dd>
         <dd><a href="/usac-elections-2014/endorsements">Endorsements</a></dd>
         <dd><a href="/usac-elections-2014/campaign-violations">Campaign Violations</a></dd>
-        <dd><a href="http://my.ucla.edu/">Vote Here</a></dd>
+        <dd><a href="//my.ucla.edu/">Vote Here</a></dd>
     </dl>
 
       <div class='large-9 columns'>
 
-        <a title='USAC Elections' href='/usac-elections-2014/'><img id='banner' src='http://dailybruin.com/images/2014/05/usac-elections14-banner2.png'/></a>
+        <a title='USAC Elections' href='/usac-elections-2014/'><img id='banner' src='//dailybruin.com/images/2014/05/usac-elections14-banner2.png'/></a>
 
 
         <div class="panel">
@@ -177,35 +177,35 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
 	
 <div id='preload'>
 
-  <img src="http://dailybruin.com/images/2014/05/baral.jpg" width="1" height="1"/>; //Picture name
-  <img src="http://dailybruin.com/images/2014/05/Badalich.jpg" width="1" height="1"/>; //Picture name
-  <img src="http://dailybruin.com/images/2014/05/rosen.jpg" width="1" height="1"/>; //Picture name
-  <img src="http://dailybruin.com/images/2014/05/mercier.jpg" width="1" height="1"/>; //Picture name
-  <img src="http://dailybruin.com/images/2014/05/garfio.jpg" width="1" height="1"/>; //Picture name
-  <img src="http://dailybruin.com/images/2014/05/wong.jpeg" width="1" height="1"/>; //Picture name
-  <img src="http://dailybruin.com/images/2014/05/Singh.jpg" width="1" height="1"/>; //Picture name
-  <img src="http://dailybruin.com/images/2014/05/roth.jpg" width="1" height="1"/>; //Picture name
-  <img src="http://dailybruin.com/images/2014/05/williams.jpg" width="1" height="1"/>; //Picture name
-  <img src="http://dailybruin.com/images/2014/05/satyedev.jpg" width="1" height="1"/>; //Picture name
-  <img src="http://dailybruin.com/images/2014/05/Sadeghi-Movahed.jpg" width="1" height="1"/>; //Picture name
-  <img src="http://dailybruin.com/images/2014/05/murphy.jpg" width="1" height="1"/>; //Picture name
-  <img src="http://dailybruin.com/images/2014/05/gregweb.jpg" width="1" height="1"/>; //Picture name
-  <img src="http://dailybruin.com/images/2014/05/Nguyen.jpg" width="1" height="1"/>; //Picture name
-  <img src="http://dailybruin.com/images/2014/05/gutierrez.jpg" width="1" height="1"/>; //Picture name
-  <img src="http://dailybruin.com/images/2014/05/garcia.jpg" width="1" height="1"/>; //Picture name
-  <img src="http://dailybruin.com/images/2014/05/Medhekar.jpg" width="1" height="1"/>; //Picture name
-  <img src="hhttp://dailybruin.com/images/2014/05/Galbadores.jpg" width="1" height="1"/>; //Picture name
-  <img src="http://dailybruin.com/images/2014/05/lasher.jpg" width="1" height="1"/>; //Picture name
-  <img src="http://dailybruin.com/images/2014/05/Friedman.jpg" width="1" height="1"/>; //Picture name
-  <img src="http://dailybruin.com/images/2014/05/Kiang.jpg" width="1" height="1"/>; //Picture name
-  <img src="http://dailybruin.com/images/2014/05/quintanilla.jpg" width="1" height="1"/>; //Picture name
-  <img src="http://dailybruin.com/images/2014/05/Rebosura.jpg" width="1" height="1"/>; //Picture name
-<img src="http://dailybruin.com/images/2014/05/Rodriguez.jpg" width="1" height="1"/>; //Picture name
-<img src="http://dailybruin.com/images/2014/05/contreras.jpg" width="1" height="1"/>; //Picture name
-<img src="http://dailybruin.com/images/2014/05/I.Garcia.jpg" width="1" height="1"/>; //Picture name
-<img src="http://dailybruin.com/images/2014/05/patterson.jpg" width="1" height="1"/>; //Picture name
-<img src="http://dailybruin.com/images/2014/05/Xiongweb.jpg" width="1" height="1"/>; //Picture name
-<img src="http://dailybruin.com/images/2014/05/http://dailybruin.com/images/2014/05/singh.jpg" width="1" height="1"/>; //Picture name
+  <img src="//dailybruin.com/images/2014/05/baral.jpg" width="1" height="1"/>; //Picture name
+  <img src="//dailybruin.com/images/2014/05/Badalich.jpg" width="1" height="1"/>; //Picture name
+  <img src="//dailybruin.com/images/2014/05/rosen.jpg" width="1" height="1"/>; //Picture name
+  <img src="//dailybruin.com/images/2014/05/mercier.jpg" width="1" height="1"/>; //Picture name
+  <img src="//dailybruin.com/images/2014/05/garfio.jpg" width="1" height="1"/>; //Picture name
+  <img src="//dailybruin.com/images/2014/05/wong.jpeg" width="1" height="1"/>; //Picture name
+  <img src="//dailybruin.com/images/2014/05/Singh.jpg" width="1" height="1"/>; //Picture name
+  <img src="//dailybruin.com/images/2014/05/roth.jpg" width="1" height="1"/>; //Picture name
+  <img src="//dailybruin.com/images/2014/05/williams.jpg" width="1" height="1"/>; //Picture name
+  <img src="//dailybruin.com/images/2014/05/satyedev.jpg" width="1" height="1"/>; //Picture name
+  <img src="//dailybruin.com/images/2014/05/Sadeghi-Movahed.jpg" width="1" height="1"/>; //Picture name
+  <img src="//dailybruin.com/images/2014/05/murphy.jpg" width="1" height="1"/>; //Picture name
+  <img src="//dailybruin.com/images/2014/05/gregweb.jpg" width="1" height="1"/>; //Picture name
+  <img src="//dailybruin.com/images/2014/05/Nguyen.jpg" width="1" height="1"/>; //Picture name
+  <img src="//dailybruin.com/images/2014/05/gutierrez.jpg" width="1" height="1"/>; //Picture name
+  <img src="//dailybruin.com/images/2014/05/garcia.jpg" width="1" height="1"/>; //Picture name
+  <img src="//dailybruin.com/images/2014/05/Medhekar.jpg" width="1" height="1"/>; //Picture name
+  <img src="h//dailybruin.com/images/2014/05/Galbadores.jpg" width="1" height="1"/>; //Picture name
+  <img src="//dailybruin.com/images/2014/05/lasher.jpg" width="1" height="1"/>; //Picture name
+  <img src="//dailybruin.com/images/2014/05/Friedman.jpg" width="1" height="1"/>; //Picture name
+  <img src="//dailybruin.com/images/2014/05/Kiang.jpg" width="1" height="1"/>; //Picture name
+  <img src="//dailybruin.com/images/2014/05/quintanilla.jpg" width="1" height="1"/>; //Picture name
+  <img src="//dailybruin.com/images/2014/05/Rebosura.jpg" width="1" height="1"/>; //Picture name
+<img src="//dailybruin.com/images/2014/05/Rodriguez.jpg" width="1" height="1"/>; //Picture name
+<img src="//dailybruin.com/images/2014/05/contreras.jpg" width="1" height="1"/>; //Picture name
+<img src="//dailybruin.com/images/2014/05/I.Garcia.jpg" width="1" height="1"/>; //Picture name
+<img src="//dailybruin.com/images/2014/05/patterson.jpg" width="1" height="1"/>; //Picture name
+<img src="//dailybruin.com/images/2014/05/Xiongweb.jpg" width="1" height="1"/>; //Picture name
+<img src="//dailybruin.com/images/2014/05///dailybruin.com/images/2014/05/singh.jpg" width="1" height="1"/>; //Picture name
 
 </div>
 
@@ -310,7 +310,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o0.lname = "Murphy"; //Last name
     o0.slate = SLATE.LETSACT; //Party affiliation
     o0.office = OFFICE.PRESIDENT; //Office
-    o0.picture = "http://dailybruin.com/images/2014/05/murphy.jpg"; //Picture name
+    o0.picture = "//dailybruin.com/images/2014/05/murphy.jpg"; //Picture name
     o0.bio = "Lots of info."; //Candidate bio
     o0.major = "Political Science and African American Studies"; //Candidate Major
     o0.year = "Third"; //Year
@@ -328,7 +328,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o1.lname = "Rodriguez"; //Last name
     o1.slate = SLATE.FIREDUP; //Party affiliation
     o1.office = OFFICE.PRESIDENT; //Office
-    o1.picture = "http://dailybruin.com/images/2014/05/Rodriguez.jpg"; //Picture name
+    o1.picture = "//dailybruin.com/images/2014/05/Rodriguez.jpg"; //Picture name
     o1.bio = "Lots of info."; //Candidate bio
     o1.major = "Spanish and Chicano/a Studies"; //Candidate Major
     o1.year = "Fourth"; //Year
@@ -349,7 +349,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o2.lname = "Singh"; //Last name
     o2.slate = SLATE.BUNITED; //Party affiliation
     o2.office = OFFICE.PRESIDENT; //Office
-    o2.picture = "http://dailybruin.com/images/2014/05/singh.jpg"; //Picture name
+    o2.picture = "//dailybruin.com/images/2014/05/singh.jpg"; //Picture name
     o2.bio = "Lots of info."; //Candidate bio
     o2.major = "Economics and History"; //Candidate Major
     o2.year = "Third"; //Year
@@ -367,7 +367,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o3.lname = "Baral"; //Last name
     o3.slate = SLATE.BUNITED; //Party affiliation
     o3.office = OFFICE.INTERNALVP; //Office
-    o3.picture = "http://dailybruin.com/images/2014/05/baral.jpg"; //Picture name
+    o3.picture = "//dailybruin.com/images/2014/05/baral.jpg"; //Picture name
     o3.bio = "Lots of info."; //Candidate bio
     o3.major = "Human Biology and Society"; //Candidate Major
     o3.year = "Third"; //Year
@@ -385,7 +385,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o4.lname = "Singh Lasher"; //Last name
     o4.slate = SLATE.FIREDUP; //Party affiliation
     o4.office = OFFICE.INTERNALVP; //Office
-    o4.picture = "http://dailybruin.com/images/2014/05/lasher.jpg"; //Picture name
+    o4.picture = "//dailybruin.com/images/2014/05/lasher.jpg"; //Picture name
     o4.bio = "Lots of info."; //Candidate bio
     o4.major = "Sociology"; //Candidate Major
     o4.year = "Third"; //Year
@@ -404,7 +404,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o5.lname = "Sadeghi-Movahed"; //Last name
     o5.slate = SLATE.LETSACT; //Party affiliation
     o5.office = OFFICE.INTERNALVP; //Office
-    o5.picture = "http://dailybruin.com/images/2014/05/Sadeghi-Movahed.jpg"; //Picture name
+    o5.picture = "//dailybruin.com/images/2014/05/Sadeghi-Movahed.jpg"; //Picture name
     o5.bio = "Lots of info."; //Candidate bio
     o5.major = "Political Science"; //Candidate Major
     o5.year = "Third"; //Year
@@ -423,7 +423,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o6.lname = "Contreras"; //Last name
     o6.slate = SLATE.LETSACT; //Party affiliation
     o6.office = OFFICE.EXTERNALVP; //Office
-    o6.picture = "http://dailybruin.com/images/2014/05/contreras.jpg"; //Picture name
+    o6.picture = "//dailybruin.com/images/2014/05/contreras.jpg"; //Picture name
     o6.bio = "Lots of info."; //Candidate bio
     o6.major = "Human Biology and Society and Communication Studies"; //Candidate Major
     o6.year = "Third"; //Year
@@ -441,7 +441,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o7.lname = "Friedman"; //Last name
     o7.slate = SLATE.BUNITED; //Party affiliation
     o7.office = OFFICE.EXTERNALVP; //Office
-    o7.picture = "http://dailybruin.com/images/2014/05/Friedman.jpg"; //Picture name
+    o7.picture = "//dailybruin.com/images/2014/05/Friedman.jpg"; //Picture name
     o7.bio = "Lots of info."; //Candidate bio
     o7.major = "Political Science"; //Candidate Major
     o7.year = "Second"; //Year
@@ -459,7 +459,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o8.lname = "Garfio"; //Last name
     o8.slate = SLATE.FIREDUP; //Party affiliation
     o8.office = OFFICE.EXTERNALVP; //Office
-    o8.picture = "http://dailybruin.com/images/2014/05/garfio.jpg"; //Picture name
+    o8.picture = "//dailybruin.com/images/2014/05/garfio.jpg"; //Picture name
     o8.bio = "Lots of info."; //Candidate bio
     o8.major = "History"; //Candidate Major
     o8.year = "Second"; //Year
@@ -478,7 +478,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o9.lname = "Bach"; //Last name
     o9.slate = SLATE.BUNITED; //Party affiliation
     o9.office = OFFICE.ACAAFFAIRS; //Office
-    o9.picture = "http://dailybruin.com/images/2014/05/bach.jpg"; //Picture name
+    o9.picture = "//dailybruin.com/images/2014/05/bach.jpg"; //Picture name
     o9.bio = "Lots of info."; //Candidate bio
     o9.major = "Political Science"; //Candidate Major
     o9.year = "Third"; //Year
@@ -495,7 +495,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o10.lname = "Kiang"; //Last name
     o10.slate = SLATE.FIREDUP; //Party affiliation
     o10.office = OFFICE.ACAAFFAIRS; //Office
-    o10.picture = "http://dailybruin.com/images/2014/05/Kiang.jpg"; //Picture name
+    o10.picture = "//dailybruin.com/images/2014/05/Kiang.jpg"; //Picture name
     o10.bio = "Lots of info."; //Candidate bio
     o10.major = "Asian American Studies"; //Candidate Major
     o10.year = "Second"; //Year
@@ -513,7 +513,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o11.lname = "Williams"; //Last name
     o11.slate = SLATE.LETSACT; //Party affiliation
     o11.office = OFFICE.ACAAFFAIRS; //Office
-    o11.picture = "http://dailybruin.com/images/2014/05/williams.jpg"; //Picture name
+    o11.picture = "//dailybruin.com/images/2014/05/williams.jpg"; //Picture name
     o11.bio = "Lots of info."; //Candidate bio
     o11.major = "Microbiology, Immunology and Molecular Genetics"; //Candidate Major
     o11.year = "Third"; //Year
@@ -532,7 +532,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o12.lname = "Mercier"; //Last name
     o12.slate = SLATE.LETSACT; //Party affiliation
     o12.office = OFFICE.FACILITIES; //Office
-    o12.picture = "http://dailybruin.com/images/2014/05/mercier.jpg"; //Picture name
+    o12.picture = "//dailybruin.com/images/2014/05/mercier.jpg"; //Picture name
     o12.bio = "Lots of info."; //Candidate bio
     o12.major = "Political Science"; //Candidate Major
     o12.year = "Third"; //Year
@@ -550,7 +550,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o13.lname = "Nguyen"; //Last name
     o13.slate = SLATE.FIREDUP; //Party affiliation
     o13.office = OFFICE.FACILITIES; //Office
-    o13.picture = "http://dailybruin.com/images/2014/05/Nguyen.jpg"; //Picture name
+    o13.picture = "//dailybruin.com/images/2014/05/Nguyen.jpg"; //Picture name
     o13.bio = "Lots of info."; //Candidate bio
     o13.major = "Microbiology, Immunology and Molecular Genetics"; //Candidate Major
     o13.year = "Third"; //Year
@@ -569,7 +569,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o14.lname = "Quintanilla"; //Last name
     o14.slate = SLATE.BUNITED; //Party affiliation
     o14.office = OFFICE.FACILITIES; //Office
-    o14.picture = "http://dailybruin.com/images/2014/05/quintanilla.jpg"; //Picture name
+    o14.picture = "//dailybruin.com/images/2014/05/quintanilla.jpg"; //Picture name
     o14.bio = "Lots of info."; //Candidate bio
     o14.major = "History"; //Candidate Major
     o14.year = "Third"; //Year
@@ -586,7 +586,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o15.lname = "Galbadores"; //Last name
     o15.slate = SLATE.LETSACT; //Party affiliation
     o15.office = OFFICE.FINANCIALSUPPORT; //Office
-    o15.picture = "http://dailybruin.com/images/2014/05/Galbadores.jpg"; //Picture name
+    o15.picture = "//dailybruin.com/images/2014/05/Galbadores.jpg"; //Picture name
     o15.bio = "Lots of info."; //Candidate bio
     o15.major = "Sociology"; //Candidate Major
     o15.year = "Third"; //Year
@@ -605,7 +605,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o16.lname = "Gutierrez"; //Last name
     o16.slate = SLATE.FIREDUP; //Party affiliation
     o16.office = OFFICE.FINANCIALSUPPORT; //Office
-    o16.picture = "http://dailybruin.com/images/2014/05/gutierrez.jpg"; //Picture name
+    o16.picture = "//dailybruin.com/images/2014/05/gutierrez.jpg"; //Picture name
     o16.bio = "Lots of info."; //Candidate bio
     o16.major = "Sociology"; //Candidate Major
     o16.year = "Second"; //Year
@@ -624,7 +624,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o17.lname = "Rosen"; //Last name
     o17.slate = SLATE.BUNITED; //Party affiliation
     o17.office = OFFICE.FINANCIALSUPPORT; //Office
-    o17.picture = "http://dailybruin.com/images/2014/05/rosen.jpg"; //Picture name
+    o17.picture = "//dailybruin.com/images/2014/05/rosen.jpg"; //Picture name
     o17.bio = "Lots of info."; //Candidate bio
     o17.major = "Political Science"; //Candidate Major
     o17.year = "Second"; //Year
@@ -642,7 +642,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o18.lname = "Badalich"; //Last name
     o18.slate = SLATE.INDEPENDENT; //Party affiliation
     o18.office = OFFICE.STUDENTWELLNESS; //Office
-    o18.picture = "http://dailybruin.com/images/2014/05/Badalich.jpg"; //Picture name
+    o18.picture = "//dailybruin.com/images/2014/05/Badalich.jpg"; //Picture name
     o18.bio = "Lots of info."; //Candidate bio
     o18.major = "Gender Studies"; //Candidate Major
     o18.year = "Third"; //Year
@@ -660,7 +660,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o19.lname = "Kalfayan"; //Last name
     o19.slate = SLATE.INDEPENDENT; //Party affiliation
     o19.office = OFFICE.CAMPUSEVENTS; //Office
-    o19.picture = "http://dailybruin.com/images/2014/05/gregweb.jpg"; //Picture name
+    o19.picture = "//dailybruin.com/images/2014/05/gregweb.jpg"; //Picture name
     o19.bio = "Lots of info."; //Candidate bio
     o19.major = "Political Science"; //Candidate Major
     o19.year = "Third"; //Year
@@ -677,7 +677,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o20.lname = "Wong"; //Last name
     o20.slate = SLATE.INDEPENDENT; //Party affiliation
     o20.office = OFFICE.COMMSERV; //Office
-    o20.picture = "http://dailybruin.com/images/2014/05/wong.jpeg"; //Picture name
+    o20.picture = "//dailybruin.com/images/2014/05/wong.jpeg"; //Picture name
     o20.bio = "Lots of info."; //Candidate bio
     o20.major = "Physiological Sciences"; //Candidate Major
     o20.year = "Third"; //Year
@@ -695,7 +695,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o21.lname = "Garcia"; //Last name
     o21.slate = SLATE.LETSACT; //Party affiliation
     o21.office = OFFICE.CULTURAL; //Office
-    o21.picture = "http://dailybruin.com/images/2014/05/I.Garcia.jpg"; //Picture name
+    o21.picture = "//dailybruin.com/images/2014/05/I.Garcia.jpg"; //Picture name
     o21.bio = "Lots of info."; //Candidate bio
     o21.major = "Political Science"; //Candidate Major
     o21.year = "Third"; //Year
@@ -713,7 +713,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o22.lname = "Garcia"; //Last name
     o22.slate = SLATE.LETSACT; //Party affiliation
     o22.office = OFFICE.GENERALREP; //Office
-    o22.picture = "http://dailybruin.com/images/2014/05/garcia.jpg"; //Picture name
+    o22.picture = "//dailybruin.com/images/2014/05/garcia.jpg"; //Picture name
     o22.bio = "Lots of info."; //Candidate bio
     o22.major = "International Development Studies and Political Science"; //Candidate Major
     o22.year = "Third"; //Year
@@ -732,7 +732,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
     o23.lname = "Priapism Medhekar"; //Last name
     o23.slate = SLATE.BSATYRIST; //Party affiliation
     o23.office = OFFICE.GENERALREP; //Office
-    o23.picture = "http://dailybruin.com/images/2014/05/Medhekar.jpg"; //Picture name
+    o23.picture = "//dailybruin.com/images/2014/05/Medhekar.jpg"; //Picture name
     o23.bio = "Lots of info."; //Candidate bio
     o23.major = "Computer Science"; //Candidate Major
     o23.year = "Third"; //Year
@@ -750,7 +750,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
   o24.lname = "Patterson"; //Last name
   o24.slate = SLATE.BUNITED; //Party affiliation
   o24.office = OFFICE.GENERALREP; //Office
-  o24.picture = "http://dailybruin.com/images/2014/05/patterson.jpg"; //Picture name
+  o24.picture = "//dailybruin.com/images/2014/05/patterson.jpg"; //Picture name
   o24.bio = "Lots of info."; //Candidate bio
   o24.major = ""; //Candidate Major
   o24.year = ""; //Year
@@ -767,7 +767,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
   o25.lname = "Rebosura "; //Last name
   o25.slate = SLATE.LETSACT; //Party affiliation
   o25.office = OFFICE.GENERALREP; //Office
-  o25.picture = "http://dailybruin.com/images/2014/05/Rebosura.jpg"; //Picture name
+  o25.picture = "//dailybruin.com/images/2014/05/Rebosura.jpg"; //Picture name
   o25.bio = "Lots of info."; //Candidate bio
   o25.major = "Communications Studies"; //Candidate Major
   o25.year = "Third"; //Year
@@ -785,7 +785,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
   o26.lname = "Roth"; //Last name
   o26.slate = SLATE.BUNITED; //Party affiliation
   o26.office = OFFICE.GENERALREP; //Office
-  o26.picture = "http://dailybruin.com/images/2014/05/roth.jpg"; //Picture name
+  o26.picture = "//dailybruin.com/images/2014/05/roth.jpg"; //Picture name
   o26.bio = "Lots of info."; //Candidate bio
   o26.major = "English and Political Science"; //Candidate Major
   o26.year = "Second"; //Year
@@ -802,7 +802,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
   o27.lname = "Satyadev"; //Last name
   o27.slate = SLATE.BUNITED; //Party affiliation
   o27.office = OFFICE.GENERALREP; //Office
-  o27.picture = "http://dailybruin.com/images/2014/05/satyedev.jpg"; //Picture name
+  o27.picture = "//dailybruin.com/images/2014/05/satyedev.jpg"; //Picture name
   o27.bio = "Lots of info."; //Candidate bio
   o27.major = "Bioengineering"; //Candidate Major
   o27.year = "Second"; //Year
@@ -819,7 +819,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
   o28.lname = "Singh"; //Last name
   o28.slate = SLATE.LETSACT; //Party affiliation
   o28.office = OFFICE.GENERALREP; //Office
-  o28.picture = "http://dailybruin.com/images/2014/05/Singh.jpg"; //Picture name
+  o28.picture = "//dailybruin.com/images/2014/05/Singh.jpg"; //Picture name
   o28.bio = "Lots of info."; //Candidate bio
   o28.major = "Global Studies"; //Candidate Major
   o28.year = "Third"; //Year
@@ -837,7 +837,7 @@ Thirty candidates are running for the 13 elected USAC positions in this year's h
   o29.lname = "Xiong"; //Last name
   o29.slate = SLATE.FIREDUP; //Party affiliation
   o29.office = OFFICE.GENERALREP; //Office
-  o29.picture = "http://dailybruin.com/images/2014/05/Xiongweb.jpg"; //Picture name
+  o29.picture = "//dailybruin.com/images/2014/05/Xiongweb.jpg"; //Picture name
   o29.bio = "Lots of info."; //Candidate bio
   o29.major = "Asian American Studies"; //Candidate Major
   o29.year = "Second"; //Year

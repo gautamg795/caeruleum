@@ -3,8 +3,8 @@ Template Name: USAC Elections Candidate Endorsements 2014
 */ ?>
 
 <?php get_header(); ?>
-<meta property="og:image" content="http://dailybruin.com/images/2014/05/usac-election-2014-fbSharePhoto.png" />
-<link href="http://fonts.googleapis.com/css?family=Open+Sans|Dosis:400,800" rel="stylesheet" type="text/css" />
+<meta property="og:image" content="//dailybruin.com/images/2014/05/usac-election-2014-fbSharePhoto.png" />
+<link href="//fonts.googleapis.com/css?family=Open+Sans|Dosis:400,800" rel="stylesheet" type="text/css" />
 <!-- Le styles -->
     <link href="bootstrap.css" rel="stylesheet">
     <style type="text/css">
@@ -304,11 +304,11 @@ Template Name: USAC Elections Candidate Endorsements 2014
         <dd><a href="#">Candidates</a></dd>
         <dd class="active"><a href="/usac-elections-2014/endorsements">Endorsements</a></dd>
         <dd><a href="/usac-elections-2014/campaign-violations">Campaign Violations</a></dd>
-        <dd><a href="http://my.ucla.edu/">Vote Here</a></dd>
+        <dd><a href="//my.ucla.edu/">Vote Here</a></dd>
     </dl>
 
   <div class="large-9 columns">
-    <a title='USAC Elections' href='http://dailybruin.com/usac-elections-2014/'><img src='http://dailybruin.com/images/2014/05/usac-elections14-banner2.png' border='0'/></a> 
+    <a title='USAC Elections' href='//dailybruin.com/usac-elections-2014/'><img src='//dailybruin.com/images/2014/05/usac-elections14-banner2.png' border='0'/></a> 
     <br /><br />
 
     <div class="endorsement">
@@ -357,7 +357,7 @@ Template Name: USAC Elections Candidate Endorsements 2014
           <div class="textcentered">
             <h4 class="endorsements">Arts Restoring Community Referendum</h4></br>
 
-            <button class="btn disabled endorsed"><img class="check-big" src="http://dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
+            <button class="btn disabled endorsed"><img class="check-big" src="//dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
 
             <p>We endorse the “Arts Restoring Community” referendum in the belief that it will lead to more vibrant arts programming in the coming year. However, we address this serious caveat to the next Undergraduate Students Association Council: Without vigilant oversight and proper accountability measures, there is potential for the fee levied by the referendum to be mismanaged.</p>
 
@@ -382,11 +382,11 @@ The student body could reject the referendum until its creators present a versio
         <div class="endorsement letsact">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/murphy.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/murphy.jpg" alt=""></br>
           	<h4 class="endorsementname">Devin Murphy</h4></br>
           	<h4 class="candinfoend">LET'S ACT!</h4></br>
 
-            <button class="btn disabled endorsed"><img class="check-big" src="http://dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
+            <button class="btn disabled endorsed"><img class="check-big" src="//dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
             
 <p>We endorse Devin Murphy for Undergraduate Students Association Council president because of his passion, platforms and focus on institutional change.</p>
 
@@ -410,7 +410,7 @@ The student body could reject the referendum until its creators present a versio
         <div class="endorsement bunited">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/singh.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/singh.jpg" alt=""></br>
           	<h4 class="endorsementname">Sunny Singh</h4></br>
           	<h4 class="candinfoend">Bruins United</h4>
 
@@ -425,7 +425,7 @@ The student body could reject the referendum until its creators present a versio
         <div class="endorsement firedup">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/Rodriguez.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/Rodriguez.jpg" alt=""></br>
           	<h4 class="endorsementname">Miriam Rodriguez</h4></br>
           	<h4 class="candinfoend">FIRED UP!</h4>
 
@@ -443,11 +443,11 @@ The student body could reject the referendum until its creators present a versio
         <div class="endorsement letsact">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/Sadeghi-Movahed.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/Sadeghi-Movahed.jpg" alt=""></br>
           	<h4 class="endorsementname">Negeen Sadeghi-Movahed</h4></br>
           	<h4 class="candinfoend">LET'S ACT!</h4></br>
 
-            <button class="btn disabled endorsed"><img class="check-big" src="http://dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
+            <button class="btn disabled endorsed"><img class="check-big" src="//dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
           
 
 <p>As a transfer student who is a part of several student groups herself, Negeen Sadeghi-Movahed offers a fresh perspective on the office of internal vice president, which has been held by in-house candidates for several years now.</p>
@@ -468,7 +468,7 @@ The student body could reject the referendum until its creators present a versio
         <div class="endorsement bunited">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/baral.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/baral.jpg" alt=""></br>
           	<h4 class="endorsementname">Avinoam Baral</h4></br>
           	<h4 class="candinfoend">Bruins United</h4>
 
@@ -482,7 +482,7 @@ The student body could reject the referendum until its creators present a versio
         <div class="endorsement firedup">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/lasher.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/lasher.jpg" alt=""></br>
           	<h4 class="endorsementname">Harwind Lasher</h4></br>
           	<h4 class="candinfoend">FIRED UP!</h4>
 
@@ -502,11 +502,11 @@ The student body could reject the referendum until its creators present a versio
         <div class="endorsement letsact">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/contreras.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/contreras.jpg" alt=""></br>
           	<h4 class="endorsementname">Conrad Contreras</h4></br>
           	<h4 class="candinfoend">LET'S ACT!</h4></br>
 
-            <button class="btn disabled endorsed"><img class="check-big" src="http://dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
+            <button class="btn disabled endorsed"><img class="check-big" src="//dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
           
 
 <p>Conrad Contreras comes to the race for the External Vice President’s office with both the experience and vision to succeed where his predecessor did not.</p>
@@ -527,7 +527,7 @@ The student body could reject the referendum until its creators present a versio
         <div class="endorsement bunited">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/Friedman.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/Friedman.jpg" alt=""></br>
           	<h4 class="endorsementname">Aurelia Friedman</h4></br>
           	<h4 class="candinfoend">Bruins United</h4>
 
@@ -546,7 +546,7 @@ The student body could reject the referendum until its creators present a versio
         <div class="endorsement firedup">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/garfio.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/garfio.jpg" alt=""></br>
           	<h4 class="endorsementname">Angel Garfio</h4></br>
           	<h4 class="candinfoend">FIRED UP!</h4>
 
@@ -569,11 +569,11 @@ The student body could reject the referendum until its creators present a versio
         <div class="endorsement letsact">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/williams.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/williams.jpg" alt=""></br>
           	<h4 class="endorsementname">Janay Williams</h4></br>
           	<h4 class="candinfoend">LET'S ACT!</h4></br>
 
-            <button class="btn disabled endorsed"><img class="check-big" src="http://dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
+            <button class="btn disabled endorsed"><img class="check-big" src="//dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
           
 
 <p>Janay Williams’ professional aptitude, in-house experience and ambitious platforms earned her the board’s endorsement as the next Academic Affairs commissioner.</p>
@@ -598,7 +598,7 @@ The student body could reject the referendum until its creators present a versio
         <div class="endorsement bunited">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/bach.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/bach.jpg" alt=""></br>
           	<h4 class="endorsementname">Allyson Bach</h4></br>
           	<h4 class="candinfoend">Bruins United</h4>
 
@@ -613,7 +613,7 @@ The student body could reject the referendum until its creators present a versio
         <div class="endorsement firedup">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/Kiang.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/Kiang.jpg" alt=""></br>
           	<h4 class="endorsementname">Jazz Kiang</h4></br>
           	<h4 class="candinfoend">FIRED UP!</h4>
 
@@ -632,11 +632,11 @@ The student body could reject the referendum until its creators present a versio
         <div class="endorsement indep">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/gregweb.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/gregweb.jpg" alt=""></br>
           	<h4 class="endorsementname">Greg Kalfayan</h4></br>
           	<h4 class="candinfoend">Independent</h4></br>
 
-            <button class="btn disabled endorsed"><img class="check-big" src="http://dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
+            <button class="btn disabled endorsed"><img class="check-big" src="//dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
           
 
 <p>This board endorses Greg Kalfayan for Campus Events commissioner because his experience and vision can help him improve the already successful commission.</p>
@@ -662,11 +662,11 @@ Kalfayan’s strength within the commission will be a solid base for his work ne
         <div class="endorsement indep">
           
           <div class="textcentered">
-            <img class="candphoto" src="http://dailybruin.com/images/2014/05/wong.jpeg" alt=""></br>
+            <img class="candphoto" src="//dailybruin.com/images/2014/05/wong.jpeg" alt=""></br>
             <h4 class="endorsementname">Cynthia Wong</h4></br>
             <h4 class="candinfoend">Independent</h4></br>
 
-            <button class="btn disabled endorsed"><img class="check-big" src="http://dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
+            <button class="btn disabled endorsed"><img class="check-big" src="//dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
           
 
 <p>This board endorses Cynthia Wong for Community Service commissioner but warns that her current platforms lack specifics and scope.</p>
@@ -693,11 +693,11 @@ Experience within the commission makes Wong a qualified candidate, but she needs
         <div class="endorsement letsact">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/I.Garcia.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/I.Garcia.jpg" alt=""></br>
           	<h4 class="endorsementname">Irmary Garcia</h4></br>
           	<h4 class="candinfoend">LET'S ACT!</h4></br>
 
-            <button class="btn disabled endorsed"><img class="check-big" src="http://dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
+            <button class="btn disabled endorsed"><img class="check-big" src="//dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
           
 
 <p>Although at times specifics of her platforms were underwhelming, we endorse Irmary Garcia for Cultural Affairs commissioner. Based on her programming experience with the JazzReggae Festival, this board feels Garcia is fit to make these improvements.</p>
@@ -724,11 +724,11 @@ Experience within the commission makes Wong a qualified candidate, but she needs
         <div class="endorsement letsact">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/mercier.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/mercier.jpg" alt=""></br>
           	<h4 class="endorsementname">Alex Mercier</h4></br>
           	<h4 class="candinfoend">LET'S ACT!</h4></br>
 
-            <button class="btn disabled endorsed"><img class="check-big" src="http://dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
+            <button class="btn disabled endorsed"><img class="check-big" src="//dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
           
 
 <p>We endorse Alex Mercier as facilities commissioner because of his solid vision for the office, along with his energetic and feasible platforms.</p>
@@ -751,7 +751,7 @@ Experience within the commission makes Wong a qualified candidate, but she needs
         <div class="endorsement bunited">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/quintanilla.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/quintanilla.jpg" alt=""></br>
           	<h4 class="endorsementname">Carlos Quintanilla</h4></br>
           	<h4 class="candinfoend">Bruins United</h4>
 
@@ -766,7 +766,7 @@ Experience within the commission makes Wong a qualified candidate, but she needs
         <div class="endorsement firedup">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/Nguyen.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/Nguyen.jpg" alt=""></br>
           	<h4 class="endorsementname">Teri Nguyen</h4></br>
           	<h4 class="candinfoend">FIRED UP!</h4>
 
@@ -785,11 +785,11 @@ Experience within the commission makes Wong a qualified candidate, but she needs
         <div class="endorsement letsact">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/Galbadores.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/Galbadores.jpg" alt=""></br>
           	<h4 class="endorsementname">Winnie Galbadores</h4></br>
           	<h4 class="candinfoend">LET'S ACT!</h4></br>
 
-            <button class="btn disabled endorsed"><img class="check-big" src="http://dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
+            <button class="btn disabled endorsed"><img class="check-big" src="//dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
           
 
 <p>We endorse Winnie Galbadores for Financial Supports commissioner because, of all the candidates, she is the most likely to tangibly move the office forward in the direction we believe it must progress.</p>
@@ -812,7 +812,7 @@ Experience within the commission makes Wong a qualified candidate, but she needs
         <div class="endorsement bunited">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/rosen.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/rosen.jpg" alt=""></br>
           	<h4 class="endorsementname">Heather Rosen</h4></br>
           	<h4 class="candinfoend">Bruins United</h4>
 
@@ -829,7 +829,7 @@ Experience within the commission makes Wong a qualified candidate, but she needs
         <div class="endorsement firedup">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/gutierrez.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/gutierrez.jpg" alt=""></br>
           	<h4 class="endorsementname">Gabriel Gutierrez</h4></br>
           	<h4 class="candinfoend">FIRED UP!</h4>
 
@@ -849,11 +849,11 @@ Experience within the commission makes Wong a qualified candidate, but she needs
         <div class="endorsement indep">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/Badalich.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/Badalich.jpg" alt=""></br>
           	<h4 class="endorsementname">Savannah Badalich</h4></br>
           	<h4 class="candinfoend">Independent</h4></br>
 
-            <button class="btn disabled endorsed"><img class="check-big" src="http://dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
+            <button class="btn disabled endorsed"><img class="check-big" src="//dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
           
 
 <p>This board endorses Savannah Badalich for Student Wellness commissioner.</p>
@@ -883,11 +883,11 @@ Experience within the commission makes Wong a qualified candidate, but she needs
         <div class="endorsement letsact">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/garcia.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/garcia.jpg" alt=""></br>
           	<h4 class="endorsementname">Erineo Garcia</h4></br>
           	<h4 class="candinfoend">LET'S ACT!</h4></br>
 
-            <button class="btn disabled endorsed"><img class="check-big" src="http://dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
+            <button class="btn disabled endorsed"><img class="check-big" src="//dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
             
 <p>This board endorses Erineo Garcia for general representative for his tangible goals to advocate for underrepresented campus communities through his platforms and at the council table.</p>
 
@@ -911,11 +911,11 @@ Experience within the commission makes Wong a qualified candidate, but she needs
         <div class="endorsement bunited">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/patterson.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/patterson.jpg" alt=""></br>
           	<h4 class="endorsementname">Kevin Patterson</h4></br>
           	<h4 class="candinfoend">Bruins United</h4></br>
 
-            <button class="btn disabled endorsed"><img class="check-big" src="http://dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
+            <button class="btn disabled endorsed"><img class="check-big" src="//dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
             
 <p>Though several of general representative candidate Kevin Patterson’s platforms include goals that will require the support of other offices and institutions, he earns this board’s endorsement based on a clear understanding of how to use campus space for the betterment of student groups.</p>
 
@@ -938,11 +938,11 @@ Experience within the commission makes Wong a qualified candidate, but she needs
         <div class="endorsement letsact">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/Singh.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/Singh.jpg" alt=""></br>
           	<h4 class="endorsementname">Manjot Singh</h4></br>
           	<h4 class="candinfoend">LET'S ACT!</h4></br>
 
-            <button class="btn disabled endorsed"><img class="check-big" src="http://dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
+            <button class="btn disabled endorsed"><img class="check-big" src="//dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
             
 <p>This board endorses Manjot Singh for general representative for his attention to platforms that could generate broad-based interest among undergraduate students.</p>
 
@@ -964,7 +964,7 @@ Experience within the commission makes Wong a qualified candidate, but she needs
         <div class="endorsement firedup">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/Xiongweb.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/Xiongweb.jpg" alt=""></br>
           	<h4 class="endorsementname">Der Xiong</h4></br>
           	<h4 class="candinfoend">FIRED UP!</h4>
 
@@ -991,7 +991,7 @@ Experience within the commission makes Wong a qualified candidate, but she needs
         <div class="endorsement bunited">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/roth.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/roth.jpg" alt=""></br>
           	<h4 class="endorsementname">Fabienne Roth</h4></br>
           	<h4 class="candinfoend">Bruins United</h4>
 
@@ -1006,7 +1006,7 @@ Experience within the commission makes Wong a qualified candidate, but she needs
         <div class="endorsement bsaty">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/Medhekar.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/Medhekar.jpg" alt=""></br>
           	<h4 class="endorsementname">Sachin Medhekar</h4></br>
           	<h4 class="candinfoend">¡Bruin Satyrists!</h4>
 
@@ -1025,7 +1025,7 @@ Experience within the commission makes Wong a qualified candidate, but she needs
         <div class="endorsement letsact">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/Rebosura.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/Rebosura.jpg" alt=""></br>
           	<h4 class="endorsementname">Francesca Rebosura</h4></br>
           	<h4 class="candinfoend">LET'S ACT</h4>
 
@@ -1041,7 +1041,7 @@ Experience within the commission makes Wong a qualified candidate, but she needs
         <div class="endorsement bunited">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/05/satyedev.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/05/satyedev.jpg" alt=""></br>
           	<h4 class="endorsementname">Nihal Satyadev</h4></br>
           	<h4 class="candinfoend">Bruins United</h4>
 

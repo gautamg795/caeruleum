@@ -3,8 +3,8 @@ Template Name: USAC Special Election Endorsements 2014
 */ ?>
 
 <?php get_header(); ?>
-<meta property="og:image" content="http://dailybruin.com/images/2014/10/og-usac-special-election.png" />
-<link href="http://fonts.googleapis.com/css?family=Open+Sans|Dosis:400,800" rel="stylesheet" type="text/css" />
+<meta property="og:image" content="//dailybruin.com/images/2014/10/og-usac-special-election.png" />
+<link href="//fonts.googleapis.com/css?family=Open+Sans|Dosis:400,800" rel="stylesheet" type="text/css" />
 <!-- Le styles -->
     <link href="bootstrap.css" rel="stylesheet">
     <style type="text/css">
@@ -307,7 +307,7 @@ Template Name: USAC Special Election Endorsements 2014
 <div class="row">
 
   <div class="large-8 columns">
-    <a title='USAC Elections' href='http://dailybruin.com/usac-special-election-2014/'><img src='http://dailybruin.com/images/2014/10/usac-special-election-banner.png' border='0'/></a> 
+    <a title='USAC Elections' href='//dailybruin.com/usac-special-election-2014/'><img src='//dailybruin.com/images/2014/10/usac-special-election-banner.png' border='0'/></a> 
     <br /><br />
 
     <div class="endorsement">
@@ -382,7 +382,7 @@ Template Name: USAC Special Election Endorsements 2014
         <div class="endorsement indep">
           <div class="textcentered">
             <h4 class="endorsements">Vacancy Amendment</h4></br>
-            <button class="btn disabled endorsed"><img class="check-big" src="http://dailybruin.com/images/2014/05/check.png"></img> Endorsed</button></br></div>
+            <button class="btn disabled endorsed"><img class="check-big" src="//dailybruin.com/images/2014/05/check.png"></img> Endorsed</button></br></div>
 
             <p>This board endorses the Vacancy Amendment &ndash; a clear and simple solution to a glaring flaw in the Undergraduate Students Association Council constitution. However, we do have reservations about whether future councils will actually obey the document.</p>
 
@@ -406,9 +406,9 @@ Template Name: USAC Special Election Endorsements 2014
         <div class="endorsement indep">
           
           <div class="textcentered">
-            <img class="candphoto" src="http://dailybruin.com/images/2014/10/web.YoumunAlhlou1-200x300.jpg" alt=""></br>
+            <img class="candphoto" src="//dailybruin.com/images/2014/10/web.YoumunAlhlou1-200x300.jpg" alt=""></br>
             <h4 class="endorsementname">Youmun Alhlou</h4></br>
-            <button class="btn disabled endorsed"><img class="check-big" src="http://dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
+            <button class="btn disabled endorsed"><img class="check-big" src="//dailybruin.com/images/2014/05/check.png"></img> Endorsed</button><br/></div>
           
             <p>Youmun Alhlou has worked in five different Undergraduate Students Association Council offices, establishing relationships with councilmembers and office management that would serve her well during a shortened term in office.</p>
 
@@ -432,7 +432,7 @@ Template Name: USAC Special Election Endorsements 2014
         <div class="endorsement firedup">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/10/web.SofiaMoreno1-200x300.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/10/web.SofiaMoreno1-200x300.jpg" alt=""></br>
           	<h4 class="endorsementname">Sofia Moreno Haq</h4></div>
 
             <p>Sofia Moreno Haq would bring a solid amount of student government experience to the council table, despite having no prior experience in USAC, having served as a student senator at her community college prior to transferring to UCLA. </p>
@@ -450,9 +450,9 @@ Template Name: USAC Special Election Endorsements 2014
         <div class="endorsement indep">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/10/web.NegeenSadeghi-Movahed1-199x300.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/10/web.NegeenSadeghi-Movahed1-199x300.jpg" alt=""></br>
           	<h4 class="endorsementname">Negeen Sadeghi-Movahed</h4></br>
-            <button class="btn disabled endorsed"><img class="check-big" src="http://dailybruin.com/images/2014/05/check.png"></img> Endorsed</button></br></div>
+            <button class="btn disabled endorsed"><img class="check-big" src="//dailybruin.com/images/2014/05/check.png"></img> Endorsed</button></br></div>
           
             <p>While all candidates discussed creating better unity among transfer students, Negeen Sadeghi-Movahed appeared most in touch with the diverse transfer student community and its needs. She also stood out in her institutional knowledge of transfer student issues. </p>
 
@@ -476,7 +476,7 @@ Template Name: USAC Special Election Endorsements 2014
         <div class="endorsement firedup">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/10/web.MichelleBalatbat-200x300.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/10/web.MichelleBalatbat-200x300.jpg" alt=""></br>
           	<h4 class="endorsementname">Michelle Balatbat</h4>
 
             </div>
@@ -493,7 +493,7 @@ Template Name: USAC Special Election Endorsements 2014
         <div class="endorsement firedup">
           
           <div class="textcentered">
-          	<img class="candphoto" src="http://dailybruin.com/images/2014/10/web.AllanKew-200x300.jpg" alt=""></br>
+          	<img class="candphoto" src="//dailybruin.com/images/2014/10/web.AllanKew-200x300.jpg" alt=""></br>
           	<h4 class="endorsementname">Allan Kew</h4>
 
             </div>
